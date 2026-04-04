@@ -189,14 +189,14 @@ export default function WhyEuroclubPage() {
 
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
                         <Link
-                            href="/programi"
+                            href="/programs"
                             className="bg-orange-500 hover:bg-orange-600 text-white font-black py-4 px-8 rounded-lg text-lg transition-all inline-block text-center"
                         >
                             7-12 GODINA
                         </Link>
 
                         <Link
-                            href="/programi"
+                            href="/programs/teen"
                             className="bg-orange-500 hover:bg-orange-600 text-white font-black py-4 px-8 rounded-lg text-lg transition-all inline-block text-center"
                         >
                             13-18 GODINA
