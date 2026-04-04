@@ -5,12 +5,14 @@ import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/routing';
 import { Menu, X, ChevronDown } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import BookingModal from '@/components/BookingModal';
 
 export default function Navbar() {
     const t = useTranslations('Navbar');
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
     const [scrolled, setScrolled] = useState(false);
     const [openDropdown, setOpenDropdown] = useState<string | null>(null);
+    const [bookingModalOpen, setBookingModalOpen] = useState(false);
     const dropdownRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
@@ -125,11 +127,19 @@ export default function Navbar() {
                         <Link href="/prices" className="h-12 px-3 flex items-center text-sm font-bold uppercase tracking-wider text-slate-600 hover:text-sea transition-colors">
                             {t('prices')}
                         </Link>
+
+                        {/* PRIJAVI SE */}
+                        <button
+                            onClick={() => setBookingModalOpen(true)}
+                            className="h-12 px-4 flex items-center text-sm font-bold uppercase tracking-wider text-white bg-gradient-to-r from-red-500 to-red-600 hover:from-red-600 hover:to-red-700 rounded-lg shadow-md hover:shadow-lg transition-all"
+                        >
+                            {t('bookNow')}
+                        </button>
                     </div>
 
                     {/* Right Side Controls */}
                     <div className="hidden md:flex items-center gap-4">
-                        <Button className="border-2 border-red-500 text-red-500 bg-transparent px-6 py-2 rounded-md hover:bg-red-50 transition-colors font-medium text-base h-10">
+                        <Button onClick={() => setBookingModalOpen(true)} className="border-2 border-red-500 text-red-500 bg-transparent px-6 py-2 rounded-md hover:bg-red-50 transition-colors font-medium text-base h-10">
                             {t('bookNow')}
                         </Button>
                     </div>
@@ -177,13 +187,16 @@ export default function Navbar() {
                                 {t('prices')}
                             </Link>
 
-                            <Button className="border-2 border-red-500 text-red-500 bg-transparent w-full py-3 text-lg font-medium mt-2">
+                            <Button onClick={() => { setMobileMenuOpen(false); setBookingModalOpen(true); }} className="border-2 border-red-500 text-red-500 bg-transparent w-full py-3 text-lg font-medium mt-2">
                                 {t('bookNow')}
                             </Button>
                         </div>
                     </div>
                 )}
             </nav>
+
+            {/* Booking Modal */}
+            <BookingModal isOpen={bookingModalOpen} onClose={() => setBookingModalOpen(false)} />
         </header>
     );
 }
