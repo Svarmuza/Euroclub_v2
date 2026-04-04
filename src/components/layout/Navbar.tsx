@@ -6,6 +6,7 @@ import { Link } from '@/i18n/routing';
 import { Menu, X, ChevronDown } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import BookingModal from '@/components/BookingModal';
+import Image from 'next/image';
 
 export default function Navbar() {
     const t = useTranslations('Navbar');
@@ -42,9 +43,14 @@ export default function Navbar() {
 
                     {/* Logo */}
                     <Link href="/" className="flex items-center gap-2 group">
-                        <div className="text-2xl font-black bg-gradient-to-r from-sea to-sea-dark bg-clip-text text-transparent transition-transform hover:scale-105 active:scale-95">
-                            EUROCLUB
-                        </div>
+                        <Image
+                            src="/uploads/logo.webp"
+                            alt="Euroclub Logo"
+                            width={120}
+                            height={40}
+                            className="h-10 w-auto object-contain"
+                            priority
+                        />
                     </Link>
 
                     {/* Desktop Nav Links */}
@@ -187,7 +193,7 @@ export default function Navbar() {
                                 {t('prices')}
                             </Link>
 
-                            <Button onClick={() => { setMobileMenuOpen(false); setBookingModalOpen(true); }} className="border-2 border-red-500 text-red-500 bg-transparent w-full py-3 text-lg font-medium mt-2">
+                            <Button onClick={() => { setMobileMenuOpen(false); setBookingModalOpen(true); }} className="w-full py-3 text-lg font-bold uppercase tracking-wider text-white bg-gradient-to-r from-red-500 to-red-600 hover:from-red-600 hover:to-red-700 rounded-lg shadow-md hover:shadow-lg transition-all mt-2">
                                 {t('bookNow')}
                             </Button>
                         </div>
