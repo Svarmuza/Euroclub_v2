@@ -1,26 +1,104 @@
-@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Montserrat+Alternates:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --background: #F8FAFC;
+  --foreground: #0F172A;
+  --color-sea: #0EA5E9;
+  --color-sea-dark: #0369A1;
+  --color-sun: #FACC15;
+  --color-sunset: #FB923C;
+  --color-pine: #22C55E;
+  --color-pine-dark: #15803D;
+  --shadow-modern: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-modern-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-body, 'Lexend', sans-serif);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading, 'Montserrat Alternates', sans-serif);
+}
+
+@layer components {
+  .modern-card {
+    @apply bg-white rounded-2xl border border-slate-200 shadow-modern transition-all duration-200;
+  }
+  
+  .modern-card:hover {
+    @apply -translate-y-0.5 shadow-modern-lg;
+  }
+  
+  .modern-button {
+    @apply bg-[var(--color-sea)] text-white px-6 py-3 rounded-lg font-semibold transition-all duration-200 border-none cursor-pointer inline-flex items-center justify-center;
+  }
+  
+  .modern-button:hover {
+    @apply bg-[var(--color-sea-dark)] -translate-y-0.5;
+  }
+  
+  .modern-button-cta {
+    @apply bg-[var(--color-sun)] text-slate-900;
+  }
+  
+  .modern-button-cta:hover {
+    @apply bg-yellow-400;
+  }
+  
+  .glass-2d {
+    @apply bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl;
+  }
+}
+
+@keyframes gradient-x {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.animate-gradient-x {
+  background-size: 200% 200%;
+  animation: gradient-x 5s ease infinite;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 1s ease-out forwards;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-sea);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-sea-dark);
 }

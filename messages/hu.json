@@ -1,0 +1,749 @@
+{
+  "Index": {
+    "title": "Welcome to Euroclub"
+  },
+  "Navbar": {
+    "about": "About",
+    "programs": "Programs",
+    "junior": "Junior",
+    "teen": "Teen",
+    "prices": "Prices",
+    "bookNow": "Apply Now",
+    "adventure": "Adventure"
+  },
+  "Footer": {
+    "description": "Summer camps by the sea",
+    "contact": "Contact",
+    "links": "Useful links",
+    "linksItems": {
+      "about": "About Us",
+      "junior": "Junior Camp",
+      "teen": "Teen Camp",
+      "prices": "Prices",
+      "faq": "FAQ"
+    },
+    "copyright": "All rights reserved."
+  },
+  "Home": {
+    "hero": {
+      "title": "Euroclub",
+      "subtitle": "International English Summer Camp",
+      "ageRange": "For kids and teens aged 7 to 18",
+      "teachers": "With native speakers",
+      "levels": "For all levels - beginner to native speaker",
+      "juniorBtn": "JUNIOR",
+      "juniorAge": "program 7-12y",
+      "teenBtn": "TEEN",
+      "teenAge": "program 12-17y"
+    },
+    "unforgettable": {
+      "title": "A summer you'll remember forever!",
+      "desc": "Meet new people and have fun! Use real English, play sports, make friends from all over the world, dance at the Mega Pool party, and enjoy the sunny beach – what more could you need for a dream summer?"
+    },
+    "adventure": {
+      "title": "Never boring – always an adventure!",
+      "desc": "English is our official language. All teachers are NATIVE SPEAKERS. The optimal stay is 2 weeks, but you can stay 1-8 weeks. Choose your camp and program. Add games, quizzes, sports, and don't miss our famous Pool Parties! Want more action? The ADVENTURE PACKAGE gives you 15 crazy trips: rafting, go-karts, jet ski, scuba diving, and more!",
+      "btnJunior": "PROGRAMS for 7-12y.",
+      "btnTeen": "PROGRAMS for 12-17y."
+    },
+    "testimonials": {
+      "title": "What our campers say",
+      "items": [
+        {
+          "name": "Biba Mihelčić",
+          "text": "My granddaughter has been going to Euroclub for 5 years. Every time she comes back with beautiful memories and many new friends. She can't wait for the next year. I know the camp does a great job with children. Keep it up!",
+          "location": "Croatia",
+          "rating": 5
+        },
+        {
+          "name": "Neo Pifat",
+          "text": "I've been going here for seven years, every year is wonderful and the animators are excellent. Every day is planned to be fun and unforgettable. I found my best friends in Euroclub. It has become like one big family!❤️",
+          "location": "Croatia",
+          "rating": 5
+        },
+        {
+          "name": "Anja Malbaša",
+          "text": "Best experience ever. My daughter Rebeka is thrilled and is coming for 2 weeks next year. Everything is wonderful, from the atmosphere to the teachers. The most important thing is socializing and meeting new friends. 💘💖🩵",
+          "location": "Croatia",
+          "rating": 5
+        }
+      ]
+    },
+    "story": {
+      "title": "A summer camp with a unique story",
+      "desc": "Since 1991, we have been the summer home for generations. Friendships are born here, skills are learned, and memories are made that last a lifetime. Find out more about our story!",
+      "btn": "ABOUT US"
+    },
+    "future": {
+      "title": "The future starts now!",
+      "desc": "Summer camp is the beginning of your adventure into the future: it develops independence, confidence, critical thinking, emotional intelligence, teamwork, problem solving, and digital literacy."
+    },
+    "parents": {
+      "label": "For parents",
+      "title": "Why do parents choose Euroclub?",
+      "card1Title": "Experience & Trust",
+      "card1Desc": "Because we have over 30 years of experience. Euroclub builds trust among parents and smiles among thousands of children safely.",
+      "card2Title": "Education & Growth",
+      "card2Desc": "English is the official language. Programs encourage independence and emotional intelligence with smart digital balance.",
+      "card3Title": "Accommodation & Fun",
+      "card3Desc": "We offer real rooms with private bathrooms, a free water park, a pool, sports, and the best evening parties.",
+      "card3Footer": "Euroclub is an investment in your child's future."
+    }
+  },
+  "Programs": {
+    "junior": {
+      "hero": {
+        "title": "Junior Programs 7-12y",
+        "subtitle": "Diverse programs tailored for children from 7 to 12 years old"
+      },
+      "categories": {
+        "languages": "Language Learning",
+        "sports": "Sports",
+        "skills": "Future Skills"
+      },
+      "programs": {
+        "oxford": {
+          "title": "Oxford English Academy",
+          "desc": "Choosing the world's most important language for summer learning is a safe investment in your child's future.",
+          "cta": "Click for more info"
+        },
+        "croatian": {
+          "title": "Learn Croatian",
+          "desc": "Ideal for foreign students to get basic knowledge and conversational skills in Croatian.",
+          "cta": "Click for more info"
+        },
+        "german": {
+          "title": "Learn German",
+          "desc": "Fun way to learn German through games and communication.",
+          "cta": "Click for more info"
+        },
+        "italian": {
+          "title": "Learn Italian",
+          "desc": "Melodic language learning for kids.",
+          "cta": "Click for more info"
+        },
+        "french": {
+          "title": "Learn French",
+          "desc": "Communicate in French in an encouraging atmosphere.",
+          "cta": "Click for more info"
+        },
+        "sports": {
+          "title": "Sports Academy",
+          "desc": "Active summer for kids on land and sea.",
+          "cta": "Click for more info"
+        },
+        "digital": {
+          "title": "Digital Academy",
+          "desc": "Combining creativity and technology for youth.",
+          "cta": "Click for more info"
+        },
+        "challenger": {
+          "title": "Challenger program",
+          "desc": "Adrenaline and action for young adventurers.",
+          "cta": "Click for more info"
+        },
+        "arts": {
+          "title": "Arts & Glamour",
+          "desc": "Creativity, fashion and dance for young missees.",
+          "cta": "Click for more info"
+        }
+      }
+    },
+    "teen": {
+      "hero": {
+        "title": "Teen Programs 12-17y",
+        "subtitle": "Challenging and creative programs tailored for teenagers"
+      },
+      "categories": {
+        "languages": "Language Learning",
+        "sports": "Sports",
+        "skills": "Future Skills"
+      },
+      "programs": {
+        "oxford": {
+          "title": "Oxford English Academy",
+          "desc": "Master the global language this summer.",
+          "cta": "Click for more info"
+        },
+        "croatian": {
+          "title": "Learn Croatian",
+          "desc": "Specifically designed for international teens.",
+          "cta": "Click for more info"
+        },
+        "german": {
+          "title": "Learn German",
+          "desc": "Boost your German skills in Croatia.",
+          "cta": "Click for more info"
+        },
+        "italian": {
+          "title": "Learn Italian",
+          "desc": "Italian language for older students.",
+          "cta": "Click for more info"
+        },
+        "french": {
+          "title": "Learn French",
+          "desc": "Speak French with confidence.",
+          "cta": "Click for more info"
+        },
+        "sports": {
+          "title": "Sports Academy",
+          "desc": "High energy sports camp.",
+          "cta": "Click for more info"
+        },
+        "digital": {
+          "title": "Digital Academy",
+          "desc": "Modern techniques and digital creations.",
+          "cta": "Click for more info"
+        },
+        "challenger": {
+          "title": "Challenger program",
+          "desc": "The ultimate adventure for teens.",
+          "cta": "Click for more info"
+        },
+        "leadership": {
+          "title": "Leadership & Teen Business",
+          "desc": "Develop skills for your future career.",
+          "cta": "Click for more info"
+        },
+        "animator": {
+          "title": "Junior Counselor",
+          "desc": "Learn how to be a leader and work with kids.",
+          "cta": "Click for more info"
+        },
+        "arts": {
+          "title": "Arts & Glamour",
+          "desc": "Fashion and creative arts for teens.",
+          "cta": "Click for more info"
+        }
+      }
+    }
+  },
+  "About": {
+    "hero": {
+      "title": "Euroclub – international English language summer camp for children and youth",
+      "subtitle": "Our mission is to ensure you have a summer to remember!"
+    },
+    "stats": {
+      "students": "participants, teachers and native speakers",
+      "years": "fun summers – since 1991",
+      "hours": "workshop hours of choice per week",
+      "resort": "resort exclusively for children and youth"
+    },
+    "mission": {
+      "title": "More than fun, more than learning!",
+      "desc": "We are aware that traditional knowledge is no longer enough. That's why with us you get what you really need: think critically, make independent decisions, develop confidence and empathy, and work on effective communication and problem solving. And there's no traditional school bell – you're in nature surrounded by friends!"
+    },
+    "details": {
+      "workshops": {
+        "title": "Workshops",
+        "desc": "Workshops in our camp cover various interests – this is where future leaders, athletes, polyglots, artists, engineers are born..."
+      },
+      "activities": {
+        "title": "Activities",
+        "desc": "Every moment is thoughtfully planned. Excursions, tournaments, aquapark, talent shows, quizzes, games, competitions... – you choose your adventure!"
+      },
+      "digital": {
+        "title": "Digital Balance",
+        "desc": "We are aware that Generation Alpha lives technology. So we won't completely deny it to them, but we will limit it in favor of laughter and socializing with friends. We use mobile phones after lunch for chatting with parents and in some fun and creative activities, and the rest of the time they are safe – and we don't miss them at all!"
+      },
+      "location": {
+        "title": "Everything in one place",
+        "desc": "The camp is located separately from the settlement, yet has all the facilities that will be fun for you – besides the beach with aquapark, we also have our own pool! This means you have everything you need within the camp, but our experienced staff will always be nearby if you need anything. They will also organize walks and visits to the local market for you."
+      }
+    }
+  },
+  "Prices": {
+    "title": "Dates and Prices 2026",
+    "subtitle": "Invest in a summer full of knowledge, adventure and new friendships.",
+    "intro": "It is possible to stay in the camp from 1 to 8 weeks. The optimal length for activating passive knowledge is minimum 2 weeks.",
+    "basic": {
+      "title": "English Summer Camp",
+      "badge": "Basic Package",
+      "desc": "Flexible duration from 1 to 8 weeks",
+      "table": {
+        "date": "Date",
+        "full": "One-time payment",
+        "installments": "Installments",
+        "monthly": "10 | 6 Installments",
+        "data": [
+          {
+            "date": "14.06.",
+            "full": "770€",
+            "installments": "847€",
+            "monthly": "85€ | 141€"
+          },
+          {
+            "date": "21.06.",
+            "full": "770€",
+            "installments": "847€",
+            "monthly": "85€ | 141€"
+          },
+          {
+            "date": "28.06.",
+            "full": "830€",
+            "installments": "913€",
+            "monthly": "91€ | 152€"
+          },
+          {
+            "date": "05.07.",
+            "full": "880€",
+            "installments": "968€",
+            "monthly": "97€ | 161€"
+          },
+          {
+            "date": "12.07.",
+            "full": "880€",
+            "installments": "968€",
+            "monthly": "97€ | 161€"
+          }
+        ]
+      },
+      "includes": {
+        "title": "7-Day Program Includes:",
+        "items": [
+          "Accommodation in Euroclub international camp",
+          "4-bed rooms with private bathroom and shower",
+          "Full board with 3 meals per day",
+          "Intensive language course (20 + 5 hours)",
+          "Learning materials and equipment",
+          "Free use of pool and aqua park",
+          "Animation in English",
+          "Games and tournaments",
+          "Evening spectacles",
+          "24h medical care",
+          "Injury insurance",
+          "VAT"
+        ]
+      }
+    },
+    "adventure": {
+      "title": "Adventure Package",
+      "badge": "Premium Experience",
+      "desc": "2-8 weeks of English camp enriched with adrenaline and tours",
+      "table": {
+        "date": "Date",
+        "full": "One-time payment",
+        "installments": "Installments",
+        "monthly": "10 | 6 Installments",
+        "data": [
+          {
+            "date": "14.06. - 29.06.",
+            "full": "€ 2.230",
+            "installments": "€ 2.453",
+            "monthly": "€ 245 | € 409"
+          },
+          {
+            "date": "21.06. - 05.07.",
+            "full": "€ 2.290",
+            "installments": "€ 2.519",
+            "monthly": "€ 252 | € 420"
+          }
+        ]
+      },
+      "includes": {
+        "title": "Adventure Additionally Includes:",
+        "items": [
+          "Adrenaline park and zip line",
+          "Full-day boat trip to Kornati National Park",
+          "Archery tournament",
+          "Rafting on Cetina River",
+          "Visit to Krka National Park",
+          "Laser tag",
+          "Tube and jet ski",
+          "Fun Park Biograd"
+        ]
+      }
+    },
+    "discounts": {
+      "title": "Discounts and Benefits",
+      "desc": "We reward loyalty and coming with family or friends.",
+      "loyalty": {
+        "title": "Loyalty Discount",
+        "items": [
+          {
+            "value": "15€",
+            "text": "weekly for each year spent with us"
+          },
+          {
+            "value": "30€",
+            "text": "weekly for the second and each subsequent week"
+          }
+        ]
+      },
+      "family": {
+        "title": "Family Discount",
+        "items": [
+          {
+            "value": "15€",
+            "text": "weekly per participant for same family members"
+          }
+        ]
+      }
+    }
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "categories": [
+      {
+        "category": "General Information",
+        "questions": [
+          {
+            "id": "faq-1",
+            "question": "What age is the camp suitable for?",
+            "answer": "The camp is for children and young people aged 7-17. Activities are adapted for everyone - both for the little ones and for the older ones."
+          },
+          {
+            "id": "faq-2",
+            "question": "Who is the camp not for?",
+            "answer": "The camp is not for PARENTS :). Prepare them well so they know what is expected of them and ask them to be responsible during the camp: respect all camp rules, meal and class times..."
+          }
+        ]
+      },
+      {
+        "category": "Programs and Workshops",
+        "questions": [
+          {
+            "id": "faq-3",
+            "question": "Can a camper choose two or more workshops in the same week?",
+            "answer": "Choosing multiple workshops in the same week is not possible since all workshops take place at the same time. However, each following week you can choose a different workshop."
+          },
+          {
+            "id": "faq-5",
+            "question": "Which program to choose depending on age?",
+            "answer": "7 - 10 years: Oxford English Academy... 10 - 17 years: Any workshop... 12 - 17 years: Adventure English... 15 - 18 years: Junior Animator Academy."
+          },
+          {
+            "id": "faq-6",
+            "question": "Can a child change programs in camp?",
+            "answer": "If it really doesn't suit them, the program can be changed during the first two days. Please send requests to office@euroclub.hr."
+          },
+          {
+            "id": "faq-8",
+            "question": "Will my child learn English in camp?",
+            "answer": "In seven days children will START USING the language. Passive knowledge will become active in the company of teachers and international friends."
+          },
+          {
+            "id": "faq-9",
+            "question": "Is attendance at classes mandatory?",
+            "answer": "YES. CLASSES ARE MANDATORY! Apart from being one of the camp's goals, we use class attendance to check children's presence."
+          }
+        ]
+      },
+      {
+        "category": "Reservation and Payment",
+        "questions": [
+          {
+            "id": "faq-7",
+            "question": "What is the reservation process?",
+            "answer": "1. Fill out the form... 2. Administrator contacts you... 3. Payment instructions... 4. Letter with camp info... 5. Departure/arrival instructions."
+          },
+          {
+            "id": "faq-14",
+            "question": "What in case of cancellation?",
+            "answer": "Travel insurance is available. Without insurance, refunds are: up to 60 days (85%), 59-21 days (50%), 20-8 days (30%), 7-0 days (0%)."
+          },
+          {
+            "id": "faq-15",
+            "question": "Is transportation included?",
+            "answer": "Transportation is not included. We organize transportation WITH ESCORT from larger cities for groups."
+          }
+        ]
+      },
+      {
+        "category": "Stay at Camp",
+        "questions": [
+          {
+            "id": "faq-4",
+            "question": "What is the optimal length of stay?",
+            "answer": "One week for children up to 10 years who are not used to being without parents; two to three weeks for older children."
+          },
+          {
+            "id": "faq-10",
+            "question": "Is meal attendance mandatory?",
+            "answer": "YES. Even if they don't want to eat, children are required to attend meals so leaders can monitor them."
+          },
+          {
+            "id": "faq-11",
+            "question": "What is the accommodation like?",
+            "answer": "Participants are accommodated in pavilions in Luša settlement near Šibenik. Rooms have 3-4 beds, private toilet and shower."
+          },
+          {
+            "id": "faq-12",
+            "question": "How is the camp functioning organized?",
+            "answer": "Rules must be respected. Nutrition is self-service. Mobile phones are prohibited in classes and during meals."
+          },
+          {
+            "id": "faq-13",
+            "question": "How to contact leaders in camp?",
+            "answer": "You will get contact details available from 10:30-12:00 every day, other times ONLY FOR EMERGENCIES."
+          }
+        ]
+      },
+      {
+        "category": "Other",
+        "questions": [
+          {
+            "id": "faq-16",
+            "question": "Send an additional question",
+            "answer": "If you have additional questions, send them to office@euroclub.hr"
+          }
+        ]
+      }
+    ]
+  },
+  "Reservation": {
+    "title": "Reserve Your Spot",
+    "subtitle": "Complete the form below to book your summer camp adventure.",
+    "form": {
+      "personal": "Participant Personal Information",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "birthDate": "Birth Date",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "program": "Choose Program",
+      "term": "Choose Term",
+      "notes": "Notes",
+      "submit": "Submit Reservation"
+    }
+  },
+  "SEO": {
+    "about": {
+      "title": "About Us - Euroclub | More than 30 Years of Tradition",
+      "desc": "Meet Euroclub - the leading international summer camp for children and youth in Croatia. Learn about our mission, expert team, and tradition."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions - Euroclub",
+      "desc": "Find answers to all your questions about Euroclub camp. Information on accommodation, activities, safety, and more."
+    },
+    "prices": {
+      "title": "Prices and Dates - Euroclub Summer Camp",
+      "desc": "View prices, available dates, and discounts for Euroclub summer camp. Book your dream summer with the best conditions."
+    },
+    "reservation": {
+      "title": "Reservation - Euroclub Summer Camp",
+      "desc": "Secure your place in the funnest summer camp. Quick and easy reservation for Junior and Teen programs."
+    },
+    "junior": {
+      "title": "Junior Camp - Euroclub | English for Children 7-12 Years",
+      "desc": "Euroclub Junior camp for children aged 7-12 - a safe start to learning English through play, sports, and fun. 24/7 supervision."
+    },
+    "teen": {
+      "title": "Teen Summer Camp 13-17 - Euroclub | Summer Camp for Teenagers",
+      "desc": "Euroclub Teen Summer Camp - the summer that changes everything! English through experience, friends from all over the world, and unforgettable adventures."
+    }
+  },
+  "JuniorCamp": {
+    "title": "Euroclub Junior Camp",
+    "subtitle": "Perfect summer for your child!",
+    "description": "Looking for a place where your child will spend a summer filled with fun, learning, and new experiences?\n\nAt Euroclub, we create an opportunity for growth and a safe environment for acquiring skills that will benefit them for a lifetime!",
+    "features": {
+      "english": {
+        "title": "English Through Play - Stress-Free!",
+        "nativeSpeakers": {
+          "title": "Work with Native Speakers:",
+          "desc": "Your child will learn from native English speakers through interactive workshops. It's a unique opportunity to adopt authentic pronunciation and gain confidence in communication!"
+        },
+        "playBased": "English isn't learned from books - it's learned through play, conversation, and teamwork. Children acquire the language while having fun and participating in numerous activities."
+      },
+      "friendships": {
+        "title": "New Friendships and a Rich Program of Activities",
+        "international": {
+          "title": "International Environment:",
+          "desc": "Children meet and collaborate with peers from all over the world every day. Through team games, quizzes, and creative workshops, children connect and spontaneously create bonds that transcend borders."
+        },
+        "confidence": {
+          "title": "Confidence and Independence:",
+          "desc": "Your child returns home with an expanded worldview!"
+        }
+      },
+      "digitalBalance": {
+        "title": "Digital Balance: Swapping Screens for Experiences!",
+        "focus": {
+          "title": "Focus on Real Moments:",
+          "desc": "Cell phones are used only at agreed-upon times. Less screen time means more laughter, socializing, and creating unforgettable moments."
+        },
+        "activities": {
+          "title": "Sports, Creativity, and Face-to-Face:",
+          "desc": "Instead of screens, days are filled with sports games, creative workshops, and conversations."
+        }
+      },
+      "adventure": {
+        "title": "Adventure Package",
+        "desc": "For children seeking even more excitement, there's the Adventure package! It includes additional excursions, explorations, and special adventures that complete the summer experience. Everything is already included in the price and provides memories that last a long time.",
+        "safety": "Rest assured: Your child spends the summer qualitatively and meaningfully – learning, socializing, and having fun in a safe and supportive environment.",
+        "button": "More about Adventure Package"
+      }
+    },
+    "cta": {
+      "title": "Returning home richer in knowledge, experience, and memories that will last a lifetime!",
+      "button": "Book Now"
+    }
+  },
+  "TeenCamp": {
+    "title": "EUROCLUB TEEN SUMMER CAMP",
+    "subtitle": "The summer that changes everything!",
+    "description": "You know when someone tells you it was their best summer ever? Now it's your turn to experience it – right here at Euroclub in Šibenik! There's no boredom with a crew from all over the world and an action-packed schedule that surprises you with something new every day!",
+    "features": {
+      "english": {
+        "title": "English through experience, not from books.",
+        "desc": "English isn't learned from books – but through play, conversation, and teamwork. Teens acquire the language while having fun and participating in numerous activities.",
+        "active": {
+          "title": "Active English:",
+          "desc": "The entire program is conducted in English. It's not school lessons, but natural language acquisition through conversation with peers and native-speaker teachers."
+        },
+        "nativeSpeakers": {
+          "title": "Native Speakers:",
+          "desc": "Our leaders are native English speakers, giving you a unique opportunity to adopt authentic pronunciation and confidence in communication – all in a relaxed atmosphere."
+        }
+      },
+      "friendships": {
+        "title": "Crew from all over the world and a daily dose of adrenaline",
+        "lifeLong": {
+          "title": "Friendships for Life",
+          "desc": "You'll meet teenagers from all corners of the world. Through team games, sports challenges, and evening hangouts, you build connections and friendships that last."
+        },
+        "action": {
+          "title": "Action-Packed Schedule",
+          "desc": "There's no room for boredom here. Every day is filled with sports tournaments, creative workshops, quizzes, and new experiences. Laughter and challenges are guaranteed."
+        }
+      },
+      "digitalBalance": {
+        "title": "Smart Digital Balance",
+        "desc1": "We understand the need for connection, but at Euroclub we believe in balance. Phones are available for a maximum of 90 minutes a day – enough to stay in touch, but not so much that you miss the real fun!",
+        "desc2": "This gives you the chance to truly meet new friends, be part of a team, and live in the moment – without the constant pressure of social media."
+      },
+      "adventure": {
+        "title": "Adventure Package",
+        "desc": "Add even more action! Rafting, jet-skiing, scuba diving, windsurfing, go-karting, and amusement parks – turbo experiences you won't forget!",
+        "button": "More about Adventure Package"
+      }
+    },
+    "cta": {
+      "title": "Are you ready for the best summer of your life?",
+      "subtitle": "Join teenagers from all over the world and create memories that last forever!",
+      "button": "REGISTER NOW"
+    }
+  },
+  "WhyEuroclub": {
+    "hero": {
+      "title": "Euroclub – nemzetközi angol nyelvi nyári tábor gyermekeknek és fiataloknak",
+      "subtitle": "Küldetésünk, hogy felejthetetlen nyarat biztosítsunk számodra!"
+    },
+    "stats": {
+      "students": "résztvevő, tanár és anyanyelvi beszélő",
+      "years": "vidám nyár – 1991 óta",
+      "hours": "választható workshop óra hetente",
+      "resort": "üdülőhely kizárólag gyermekeknek és fiataloknak"
+    },
+    "mission": {
+      "title": "Több mint szórakozás, több mint tanulás!",
+      "desc": "Tisztában vagyunk azzal, hogy a hagyományos tudás már nem elég. Ezért nálunk azt kapod, amire valóban szükséged van: kritikus gondolkodást, önálló döntéshozatalt, önbizalom és empátia fejlesztését, valamint hatékony kommunikációt és problémamegoldást. És nincs hagyományos iskolai csengő – a természetben vagy, barátokkal körülvéve!"
+    },
+    "details": {
+      "workshops": {
+        "title": "Workshopok",
+        "desc": "Táborunk workshopjai különböző érdeklődési köröket fednek le – itt születnek a jövő vezetői, sportolói, poliglottjai, művészei, mérnökei..."
+      },
+      "activities": {
+        "title": "Tevékenységek",
+        "desc": "Minden pillanat alaposan megtervezett. Kirándulások, tornák, aquapark, tehetségkutatók, kvízek, játékok, versenyek... – te választod ki a kalandodat!"
+      },
+      "digital": {
+        "title": "Digitális egyensúly",
+        "desc": "Tisztában vagyunk vele, hogy az Alfa generáció a technológiában él. Ezért nem fogjuk teljesen megtagadni tőlük, de korlátozni fogjuk a nevetés és a barátokkal való ismerkedés javára. A mobiltelefonokat ebéd után használjuk a szülőkkel való beszélgetésre és néhány szórakoztató, kreatív tevékenységhez, az idő többi részében pedig biztonságban vannak – és egyáltalán nem hiányoznak nekünk!"
+      },
+      "location": {
+        "title": "Minden egy helyen",
+        "desc": "A tábor a településtől külön helyezkedik el, mégis minden olyan létesítménnyel rendelkezik, ami szórakoztató számodra – a strand és az aquapark mellett saját medencénk is van! Ez azt jelenti, hogy a táboron belül minden megvan, amire szükséged van, de tapasztalt munkatársaink mindig a közelben lesznek, ha szükséged van valamire. Sétákat és látogatásokat is szerveznek majd a helyi piacra."
+      }
+    },
+    "cta": {
+      "title": "Tanulmányozza programjainkat, és válassza ki az Önnek megfelelőt!",
+      "subtitle": "Az életkorom:"
+    }
+  },
+  "Accommodation": {
+    "hero": {
+      "title": "Euroclub Szállás"
+    },
+    "intro": {
+      "desc1": "A résztvevőket évszázados fenyőfák árnyékában lévő pavilonokban szállásolják el a Šibenik melletti Brodaricán. Ez az egyetlen ilyen típusú üdülőhely az Adrián, amely kizárólag a gyermekek és fiatalok szolgálatában áll.",
+      "desc2": "Minden pavilonban a bejáratnál egy szoba a tanároké/felügyelőké, akik vigyáznak rájuk, és akikhez bármiért fordulhatnak a nap 24 órájában.",
+      "desc3": "A szobák három vagy négy ágyasak, saját WC-vel és zuhanyzóval rendelkeznek. A településnek saját strandja van, és az egész területet sűrű fenyőerdő veszi körül. A városban több strand is található, amelyek körülbelül tíz perc sétára vannak.",
+      "desc4": "A 200 gyermek befogadására alkalmas étterem mellett a településen nyitott és zárt terek is találhatók az órákhoz, disco, szórakoztató szoba, szabadtéri mozi és amfiteátrum a szórakozáshoz és versenyekhez. Az üdülőhelyen minden korosztály számára alkalmas medence is található napozóágyakkal és szalmanapernyőkkel."
+    },
+    "safety": {
+      "title": "#Biztonság",
+      "desc1": "Az Euroclub teljesülés kerítéssel van körülvéve, és kizárólag a gyermekek és kísérőik számára van fenntartva, más vendégek jelenléte nélkül. A közelben nincsenek szállodák vagy nagy forgalmú turisztikai létesítmények. A tábor videó megfigyelés alatt áll.",
+      "desc2": "Tartózkodásuk alatt minden résztvevő biztosított, tanáraik és animátoraik, éjszakai őreik és strandőreik a nap 24 órájában vigyáznak a biztonságukra. Az elsősegélynyújtás a táborban van, az ügyeletes klinika pedig 5 perc autóútra található a TELEPÜLÉSTŐL."
+    },
+    "fun": {
+      "title": "#Szórakozás",
+      "desc1": "A legtisztább tenger és a tengeri vidámparkkal rendelkező strand mellett focipálya, kosárlabdapálya, kézilabdapálya, bocsapálya, röplabda- vagy strandfocipálya, kosárlabdapálya, kalandpoligon - lövészet légpuskával és íjjal, valamint tengeri park tengeri játékokkal (piramis, vízi ösvény, UFO libikóka és sok más) áll rendelkezésre. A tengeri tevékenységek közül kiemeljük a SUP deszkákat, a szabadtüdős merüléshez szükséges felszereléseket, a vízen járó labdát, a vízi ugróplatformokat és sok mást. Hogy még több szórakoztató tartalmat kínáljunk, az üdülőhely központjában egy medence is található minden kiegészítő létesítménnyel, hogy a tartózkodás még érdekesebb és felejthetetlenebb legyen. A szabadtéri amfiteátrumban minden este vonzó éjszakai programokat szervezünk játékokkal, tánccal, zenével, valamint számos sport- és kreatív versennyel.",
+      "desc2": "Számos kirándulás közül választhatnak, hogy a nyár a lehető legjobb legyen. Többek között rafting, gokart, jet-ski, laser tag, kalandpark, Dalmaland, Krka NP, Kornati NP, Telaščica PP, Krapanj-sziget, Šibenik és Zadar városnézés és sok más lehetőség emelkedik ki."
+    },
+    "location": {
+      "title": "#Helyszín",
+      "desc": "Az Euroclub Nyári Tábor a Šibenik melletti Brodaricán található. A tábor egy évszázados fenyőerdőben található, saját stranddal. A környék összes főbb látnivalója a közelben van, mint például Split, Šibenik, Vodice és Zadar városai, a Krka NP, a Kornati NP és sok más helyszín és létesítmény (30-60 perc autóval). Kiemelnénk a Plitvicei-tavak NP-t, a Paklenica NP-t, a Vrana-tavi PP-t, a Velebit PP-t, a közeli látnivalók közül pedig a Solymászati Központot, az Ethno Village Dalmati-t és a St. Ante csatornában található Šibenik Látogatóközpontot."
+    }
+  },
+  "DailySchedule": {
+    "hero": {
+      "title": "Napirend",
+      "subtitle": "Egész napos tevékenységi ütemterv nyári táborunkban"
+    },
+    "intro": {
+      "desc1": "Bár a délelőttök a tanulásé, a diákok egy-két órát találnak arra is, hogy részt vegyenek vízimentő játékainkon a tengerparton, vagy egyszerűen csak pihenjenek az órák között.",
+      "desc2": "Délután animátoraink különféle szórakoztató tevékenységeket, tornákat és versenyeket szerveznek, amelyek az eurogames sporteseményekben csúcsosodnak ki, ahol a diákok képviselik csapatukat és különféle játékokban versenyeznek.",
+      "desc3": "Minden este bőséges zenével és tánccal bulikat és látványosságokat szervezünk a diszkóban vagy a tengerparton. Két szerencsés versenyző lesz a tábor királya vagy királynője, miss-e vagy mister-e. Éjszakai fürdőzéssel, tengerparti piknikkel, karaoke show-val, szabadtéri mozi fesztivállal és még sok mással készültünk."
+    },
+    "scheduleTitle": "Napi Tevékenységi Ütemterv",
+    "schedule": [
+      { "time": "08:00 - 08:30", "bgColor": "yellow", "borderColor": "yellow", "activities": "ÉBRESZTŐ / REGGELI ZUMBA / REGGELI" },
+      { "time": "09:00 - 10:30", "bgColor": "blue", "borderColor": "blue", "activities": "1. ÓRA" },
+      { "time": "10:30 - 12:00", "bgColor": "green", "borderColor": "green", "activities": "SZABADIDŐ / ÚSZÁS, JÁTÉKOK A TENGERPARTON ÉS A MEDENCÉNÉL" },
+      { "time": "12:00 - 13:15", "bgColor": "blue", "borderColor": "blue", "activities": "2. ÓRA" },
+      { "time": "13:30 - 15:00", "bgColor": "orange", "borderColor": "orange", "activities": "EBÉD / PIHENŐIDŐ A SZOBÁKBAN" },
+      { "time": "15:00 - 15:45", "bgColor": "blue", "borderColor": "blue", "activities": "3. ÓRA / UZSONNA" },
+      { "time": "16:00 - 19:00", "bgColor": "purple", "borderColor": "purple", "activities": "SZABADIDŐ / SPORT, ÚSZÁS, VERSENYEK, OLIMPIAI JÁTÉKOK" },
+      { "time": "19:30 - 20:00", "bgColor": "red", "borderColor": "red", "activities": "VACSORA" },
+      { "time": "21:00 - 22:45", "bgColor": "indigo", "borderColor": "indigo", "activities": "ESTI BULI / témájú szórakoztató programok - diszkó" },
+      { "time": "23:00 - 23:30", "bgColor": "gray", "borderColor": "gray", "activities": "JÓ ÉJSZAKÁT / VILLANYOLTÁS" }
+    ],
+    "cta": {
+      "title": "Készen áll egy felejthetetlen nyárra?",
+      "subtitle": "Csatlakozzon nyári táborunkhoz, és vegyen részt olyan tevékenységekben, amelyek új élményeket és barátságokat nyújtanak egész életére!",
+      "button": "Tekintse meg az árakat és jelentkezzen"
+    }
+  },
+  "AdventurePackage": {
+    "hero": {
+      "title": "Kalandcsomag",
+      "subtitle": "Több akció, több izgalom, több mindenből!"
+    },
+    "intro": {
+      "desc1": "Ha még több adrenalinra, kalandra és szórakozásra vágyik, válassza a KALANDCSOMAGOT – egy tábori kiegészítőt, amely igazi kalanddá varázsolja a nyarát!",
+      "desc2": "Olyan táborozóknak készült, akik extra élményekre, kihívásokra és felfedezésre vágynak, és 2-8 hetes tartózkodáshoz választható – annyi kaland, amennyit csak akar!",
+      "desc3": "A több nap több barátot, több önbizalmat és – még több akciót jelent!"
+    },
+    "gallery": {
+      "title": "Felejthetetlen kirándulásaink",
+      "subtitle": "...és további tevékenységek!"
+    },
+    "whyChoose": {
+      "title": "Miért válassza a KALANDCSOMAGOT?",
+      "items": [
+        { "icon": "⏱️", "title": "Több idő", "desc": "Legalább két hét élményekkel és új barátságokkal teli idő." },
+        { "icon": "💪", "title": "Bátorságot épít", "desc": "Önállóság és csapatszellem minden kihíváson keresztül." },
+        { "icon": "⚖️", "title": "Tökéletes egyensúly", "desc": "Az aktív pihenés és a tapasztalati tanulás között." },
+        { "icon": "🌟", "title": "Ideális kalandoroknak", "desc": "Gyermekeknek, akik felfedezni és tanulni akarnak, és teljességgel akarják élni az életet." }
+      ]
+    },
+    "cta": {
+      "title": "Csatlakozzon a generációhoz, amely nem vár a kalandra – hanem megteremti azt!",
+      "subtitle": "👉 Foglalja le helyét a KALANDCSOMAGBAN még ma, és fedezze fel, milyen izgalmas az élet, ha minden nap új történetet hoz.",
+      "button": "Foglaljon most"
+    }
+  }
+}

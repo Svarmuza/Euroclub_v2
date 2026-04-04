@@ -1,0 +1,1433 @@
+{
+  "Index": {
+    "title": "Dobrodošli u Euroclub"
+  },
+  "Navbar": {
+    "about": "O nama",
+    "programs": "Programi",
+    "junior": "Junior",
+    "teen": "Teen",
+    "prices": "Cijene",
+    "bookNow": "Prijavi se",
+    "adventure": "Adventure",
+    "onama": "O NAMA",
+    "whyEuroclub": "Zašto Euroclub?",
+    "accommodation": "Smještaj i lokacija",
+    "transfer": "Usluga transfera",
+    "dailySchedule": "Dnevni raspored",
+    "juniorAge": "program 7-12g",
+    "teenAge": "program 12-17g",
+    "premium": "Premium paket"
+  },
+  "SEO": {
+    "home": {
+      "title": "Euroclub Ljetni Kamp | Nezaboravno ljeto za djecu i mlade",
+      "desc": "Ljetni kamp engleskog jezika na Jadranu. Od 1991. godine organiziramo kampove za djecu i tinejdžere od 7 do 17 godina uz stručni nadzor i izvorni govornike."
+    },
+    "about": {
+      "title": "O nama - Euroclub | Više od 30 godina tradicije",
+      "desc": "Upoznajte Euroclub - vodeći međunarodni ljetni kamp za djecu i mlade u Hrvatskoj. Saznajte više o našoj misiji, stručnom timu i tradiciji."
+    },
+    "faq": {
+      "title": "Često postavljena pitanja - Euroclub",
+      "desc": "Pronađite odgovore na sva vaša pitanja o Euroclub kampu. Informacije o smještaju, aktivnostima, sigurnosti i drugom."
+    },
+    "prices": {
+      "title": "Cijene i termini - Euroclub ljetni kamp",
+      "desc": "Pogledajte cijene, dostupne termine i popuste za Euroclub ljetni kamp. Rezervirajte ljeto iz snova po najboljim uvjetima."
+    },
+    "reservation": {
+      "title": "Rezervacija - Euroclub ljetni kamp",
+      "desc": "Osigurajte svoje mjesto u najzabavnijem ljetnom kampu. Brza i jednostavna rezervacija za Junior i Teen programe."
+    },
+    "junior": {
+      "title": "Junior Kamp - Euroclub | Engleski za djecu 7-12 godina",
+      "desc": "Euroclub Junior kamp za djecu 7-12 godina - siguran start učenja engleskog uz igru, sport i zabavu. Nadzor 24/7."
+    },
+    "teen": {
+      "title": "Teen ljetni kamp 13-17 - Euroclub | Ljetni kamp za tinejdžere",
+      "desc": "Euroclub Teen ljetni kamp - ljeto koje mijenja sve! Engleski kroz iskustvo, prijatelji iz cijelog svijeta i nezaboravne avanture."
+    },
+    "programs": {
+      "title": "Programi - Euroclub ljetni kamp",
+      "desc": "Istražite sve programe Euroclub kampa - od Oxford English Academy do sportskih i digitalnih radionica za djecu i tinejdžere."
+    },
+    "programsTeen": {
+      "title": "Teen Programi 12-17 - Euroclub",
+      "desc": "Teen programi za tinejdžere 12-17 godina - Leadership, Challenger, Animator i drugi programi za odrastanje i zabavu."
+    },
+    "oxfordEnglish": {
+      "title": "Oxford English Academy - Euroclub",
+      "desc": "Oxford English Academy - intenzivni program engleskog jezika uz izvorne govornike za djecu 7-17 godina."
+    },
+    "sports": {
+      "title": "Sportska Akademija - Euroclub | Engleski uz more",
+      "desc": "Sportski kamp uz more za djecu 7-17 godina. Nogomet, košarka, plivanje, vodeni sportovi i još puno toga!"
+    },
+    "digitalAcademy": {
+      "title": "Digitalna Akademija - Euroclub",
+      "desc": "Program digitalne akademije koji spaja kreativnost i tehnologiju za mlade - učenje kroz digitalne alate i medije."
+    },
+    "artFashion": {
+      "title": "Arts & Glamour - Euroclub",
+      "desc": "Glamurozna radionica za mlade kreativke - šminkanje, ples, dizajn odjeće i modna pista."
+    },
+    "leadership": {
+      "title": "Leadership & Teen Business - Euroclub",
+      "desc": "Program za razvoj liderskih vještina kroz praktične vježbe i projekte za mlade."
+    },
+    "teenChallenger": {
+      "title": "Challenger Program - Euroclub",
+      "desc": "Dvotjedni kamp pun adrenalina, akcije i uzbuđenja za mlade pustolovce."
+    },
+    "juniorAnimator": {
+      "title": "Junior Animator - Euroclub",
+      "desc": "Naučite osnove rada s djecom i stvorite temelje za budući rad u turizmu ili animaciji."
+    },
+    "croatianCamp": {
+      "title": "Nauči hrvatski - Euroclub",
+      "desc": "Ljetni kamp hrvatskog jezika za djecu iz inozemstva - upoznajte hrvatski jezik i kulturu u predivnoj Dalmaciji."
+    },
+    "germanCamp": {
+      "title": "Nauči njemački - Euroclub",
+      "desc": "Učenje njemačkog jezika kroz zabavne aktivnosti i igru u Euroclub kampu."
+    },
+    "italianCamp": {
+      "title": "Nauči talijanski - Euroclub",
+      "desc": "Ovaj pjevni susjedni jezik idealan je za sve uzraste - naučite talijanski kroz igru!"
+    },
+    "frenchCamp": {
+      "title": "Nauči francuski - Euroclub",
+      "desc": "Najbolji način za učenje francuskog je u poticajnoj atmosferi - pridruži se Euroclub kampu!"
+    },
+    "transfer": {
+      "title": "Usluga transfera - Euroclub",
+      "desc": "Organizirani prijevoz za siguran dolazak i odlazak vašeg djeteta u kamp iz većih gradova."
+    },
+    "whyEuroclub": {
+      "title": "Zašto Euroclub? - Euroclub",
+      "desc": "Saznajte zašto je Euroclub najbolji izbor za ljetni kamp vašeg djeteta - tradicija još od 1991. godine!"
+    },
+    "accommodation": {
+      "title": "Smještaj - Euroclub | Sobe s 4 kreveta",
+      "desc": "Smještaj u Euroclub kampu - paviljoni u hladu stoljetnih borova, sobe s 4 kreveta, vlastiti WC i tuš."
+    },
+    "adventurePackage": {
+      "title": "Adventure Paket - Euroclub",
+      "desc": "ADVENTURE PAKET - dodatak kampu koji tvoje ljeto pretvara u pravu pustolovinu! Rafting, jet ski, scuba diving i još puno toga."
+    },
+    "dailySchedule": {
+      "title": "Dnevni raspored - Euroclub",
+      "desc": "Plan aktivnosti tijekom dana u Euroclub kampu - od buđenja do večernje zabave."
+    }
+  },
+  "Footer": {
+    "description": "Ljetni kamp engleskog jezika za nezaboravne uspomene od 1991. godine.",
+    "contact": "Kontakt",
+    "programs": "Programi",
+    "campTypes": "Vrste kampa",
+    "programsList": "Programi",
+    "information": "Informacije",
+    "about": "O nama",
+    "accommodation": "Smještaj",
+    "prices": "Cijene",
+    "dailySchedule": "Dnevni raspored",
+    "terms": "Opći uvjeti",
+    "allRightsReserved": "Sva prava pridržana.",
+    "office": "Ured",
+    "mobile": "Mobitel",
+    "camp": "Kamp",
+    "campAddress": "Kamp adresa",
+    "privacy": "Izjava o privatnosti",
+    "years": "godina",
+    "junior": "Junior",
+    "teen": "Teen"
+  },
+  "Home": {
+    "hero": {
+      "title": "Euroclub",
+      "subtitle": "Međunarodni ljetni kamp engleskog jezika",
+      "ageRange": "Za djecu i mlade od 7 do 18 godina",
+      "teachers": "S izvornim govornicima",
+      "levels": "Za sve razine znanja - početni do 'native speaker'",
+      "juniorBtn": "JUNIOR",
+      "juniorAge": "program 7-12g",
+      "teenBtn": "TEEN",
+      "teenAge": "program 12-17g"
+    },
+    "unforgettable": {
+      "title": "Ljeto koje ćeš pamtiti zauvijek!",
+      "desc": "Druži se, veseli se! Koristi engleski, dobro se zabavi, bavi se sportom, stekni nove prijatelje iz raznih krajeva svijeta, pleši na Mega Pool partiju i, naravno, uživaj na osunčanoj plaži – što ti više treba za ljeto iz snova?"
+    },
+    "adventure": {
+      "title": "Nikad dosadno – uvijek avantura!",
+      "hotTopic": "ADVENTUREPAKET 2026",
+      "description": "Engleski je naš službeni jezik. Nastavnici su <b>IZVORNI GOVORNICI</b>. Optimalan boravak je 2 tjedna i više, ali moguće je u kampu provesti 1-8 tjedana. Odaberi svoj kamp i program po želji. <br /> Dodaj tome igre, kvizove, sport i smijeh te nikako ne zaobiđi mega popularne Pool partije za Euroclubovce. Želiš još više akcije, adrenalina i nezaboravnih trenutaka? Onda je <b>ADVENTURE PAKET</b> stvoren baš za tebe! <br /> Čeka te dodatnih 15 ludih izleta i aktivnosti koje dižu zabavu na potpuno novu razinu – rafting, go-kart, jet ski, scuba diving, windsurfing, zabavni parkovi i još puno toga! Pripremi se za turbo doživljaje i uspomene koje se ne zaboravljaju!",
+      "btnJunior": "PROGRAMI za 7-12g.",
+      "btnTeen": "PROGRAMI za 12-17g."
+    },
+    "story": {
+      "title": "Ljetni kamp s jedinstvenom pričom",
+      "desc": "Još od 1991. smo ljetni dom brojnim generacijama djece i tinejdžera. Tu su rođena brojna prijateljstva, naučene vještine, stečena iskustva i stvorene uspomene koje naši kamperi nose cijelog života. Saznaj više o nama i našoj priči!",
+      "btn": "O NAMA"
+    },
+    "future": {
+      "title": "Budućnost počinje sad!",
+      "desc": "Ljetni kamp je početak tvoje avanture prema budućnosti: razvija tvoju samostalnost, samopouzdanje, vještine kritičkog razmišljanja, emocionalne inteligencije, timski rad, kreativno rješavanje problema i digitalne pismenosti - vještine koje će 'sutra' biti najtraženije."
+    },
+    "parents": {
+      "title": "Zašto roditelji biraju baš Euroclub?",
+      "para1": "Mi smo jedini resort isključivo za djecu i mlade na Jadranu. Smješteni u Brodarici kod Šibenika, u samom srcu Dalmacije, oaza smo u kojoj je vaše dijete sigurno, aktivno i sretno. Sve je unutar kampa – od smještaja i sportskih terena do zabave i plaže. Naše osoblje radi u smjenama dok odgajatelji u kampu borave 24/7, uvijek na raspolaganju. Svi voditelji, animatori i lideri su profesionalni pedagozi ili studenti pedagogije i ne vrše samo nadzor – oni stvaraju nezaboravno iskustvo za svako dijete.",
+      "para2": "Roditelji su dobrodošli! Sami dovezite ili preuzmite dijete. Smještaj je moguć u Brodarici, u neposrednoj blizini (400 m od kampa) ili u Šibeniku (7 km). Odlučite li ostati, možete istražiti ljepote Dalmacije – nacionalne parkove Kornati i Krka, Jadransko more, riječne kanjone i otoke iz snova."
+    },
+    "testimonials": {
+      "title": "Što kažu naši kamperi",
+      "items": [
+        {
+          "name": "Biba Mihelčić",
+          "text": "Moja unuka ide u euriclub već 5 godina. Svaki put se vrati sa lijepim sijećanjima i puno novih prijatelja. Svake godine jedva čeka novu. Po njoj znam da u kampu rade dobar posao sa dijecom. Samo tako nastavite. Lijep pozdrav!",
+          "location": "Hrvatska",
+          "rating": 5
+        },
+        {
+          "name": "Neo Pifat",
+          "text": "Idem ovdje vec sedam godina, svaka godina je prekrsna i animatori su odlicni. Svaki dan je isplaniran i napravljen da nam ne bude dosadno nego zabavno i nezaboravno. U euroclubu sam našao svoja najbolja i najstvarnija prijateljstva. Euroclub je postao kao jedna velika obitelj!❤️",
+          "location": "Hrvatska",
+          "rating": 5
+        },
+        {
+          "name": "Anja Malbaša",
+          "text": "Najbolje iskustvo ikad. Moja kćer Rebeka je oduševljena i dogodine dolazi 2 tjedna. Sve je predivno, od ambijenta do profesora. Najbitnije je druženje i upoznavanje novih prijatelja. 💘💖🩵",
+          "location": "Hrvatska",
+          "rating": 5
+        },
+        {
+          "name": "Andrew Buik",
+          "text": "Best summer ever, so much fun things to do and the animators are the best!",
+          "location": "International",
+          "rating": 5
+        },
+        {
+          "name": "Tatjana Peskir",
+          "text": "My kid was there this summer for 2 weeks and absolutely loved it. She has mild autism and was there with her asisstant, and she had a blast. Everyone was great, the day trips were fun, the parties were fun, overall would recommend. 😄😄",
+          "location": "International",
+          "rating": 5
+        },
+        {
+          "name": "Zabos Dóra",
+          "text": "Best camp, forever❣️",
+          "location": "Hungary",
+          "rating": 5
+        },
+        {
+          "name": "Schmidt Wolfgang",
+          "text": "Supi sehr schön! 😄",
+          "location": "Germany",
+          "rating": 5
+        }
+      ]
+    }
+  },
+  "Programs": {
+    "junior": {
+      "hero": {
+        "title": "Junior Programi 7-12g",
+        "subtitle": "Raznovrsni programi prilagođeni djeci od 7 do 12 godina"
+      },
+      "categories": {
+        "languages": "Učenje jezika",
+        "sports": "Sport",
+        "skills": "Vještine budućnosti"
+      },
+      "programs": {
+        "oxford": {
+          "title": "Oxford English Academy",
+          "desc": "Odabir najvažnijeg svjetskog jezika za ljetno učenje je sigurno ulaganje u budućnost vašeg djeteta. Imamo programe za sve uzraste i sve razine znanja!",
+          "cta": "Kliknite za više informacija"
+        },
+        "croatian": {
+          "title": "Learn Croatian",
+          "desc": "Ako dolazite iz inozemstva i želite da se vaše dijete pobliže upozna s hrvatskim jezikom, ovo je idealna radionica. Naši nastavnici imaju višegodišnje iskustvo u podučavanju jezika i s lakoćom prenose svoje znanje!",
+          "cta": "Kliknite za više informacija"
+        },
+        "german": {
+          "title": "Learn German",
+          "desc": "Iako će neki reći da je ovaj jezik težak, mi dokazujemo suprotno – i to kroz brojne igre, pjesme, zabavne aktivnosti i puuuno komunikacije!",
+          "cta": "Kliknite za više informacija"
+        },
+        "italian": {
+          "title": "Learn Italian",
+          "desc": "Ovaj pjevni susjedni jezik idealan je za vaše mališane! Na ovoj radionici se igramo, pjevamo, prolazimo kroz zabavne aktivnosti, pričamo – i ono najvažnije, učimo jezik kroz njegovu primjenu!",
+          "cta": "Kliknite za više informacija"
+        },
+        "french": {
+          "title": "Learn French",
+          "desc": "Mi znamo da je najbolji način za učenje jezika, pa čak i onog kompleksnijeg kao što je to francuski, taj da na njemu komuniciramo u poticajnoj, a opet opuštenoj atmosferi!",
+          "cta": "Kliknite za više informacija"
+        },
+        "sports": {
+          "title": "Sports Academy",
+          "desc": "#ACTIVEsummer i na moru i na kopnu! Na ovoj radionici prolazimo kroz razne sportove, od osnova do utakmica i turnira.",
+          "cta": "Kliknite za više informacija"
+        },
+        "digital": {
+          "title": "Digital Academy",
+          "desc": "Digital Academy je program koji povezuje kreativnost i tehnologiju, omogućujući mladima da razviju medijske vještine.",
+          "cta": "Kliknite za više informacija"
+        },
+        "challenger": {
+          "title": "Challenger program",
+          "desc": "Dvotjedni kamp pun adrenalina, akcije i uzbuđenja za mlade pustolovce koji žele više od običnog ljeta.",
+          "cta": "Kliknite za više informacija"
+        },
+        "arts": {
+          "title": "Arts & Glamour",
+          "desc": "Ova glamurozna radionica idealna je za sve male misice koje žele naučiti više o šminkanju, plesu, dizajnu odjeće, pjevanju i šetanju modnim pistama!",
+          "cta": "Kliknite za više informacija"
+        }
+      }
+    },
+    "teen": {
+      "hero": {
+        "title": "Teen Programi 12-17g",
+        "subtitle": "Raznovrsni programi prilagođeni tinejdžerima od 12 do 17 godina"
+      },
+      "availability": {
+        "title": "Dostupnost programa po terminima",
+        "note1": "Oxford English, Junior Counselor i Digital Academy su garantirani programi u svim terminima. Za ostale programe – minimalna grupa je 8. Za manje od 8 prijavljene djece za pojedini program u nekom terminu, zadržavamo pravo promjene istog – ponudit ćemo da se odabere neki od programa koji se organiziraju u tom terminu.",
+        "note2": "Za grupe 8+ možemo organizirati bilo koji program u bilo kojem željenom terminu, ukoliko u kampu ima mjesta."
+      },
+      "categories": {
+        "languages": "Učenje jezika",
+        "sports": "Sport",
+        "skills": "Vještine budućnosti"
+      },
+      "programs": {
+        "oxford": {
+          "title": "Oxford English Academy",
+          "desc": "Odabir najvažnijeg svjetskog jezika za ljetno učenje je sigurno ulaganje u budućnost vašeg djeteta. Imamo programe za sve uzraste i sve razine znanja!",
+          "cta": "Kliknite za više informacija"
+        },
+        "croatian": {
+          "title": "Learn Croatian",
+          "desc": "Ako dolazite iz inozemstva i želite da se vaše dijete pobliže upozna s hrvatskim jezikom, ovo je idealna radionica. Naši nastavnici imaju višegodišnje iskustvo u podučavanju jezika i s lakoćom prenose svoje znanje!",
+          "cta": "Kliknite za više informacija"
+        },
+        "german": {
+          "title": "Learn German",
+          "desc": "Iako će neki reći da je ovaj jezik težak, mi dokazujemo suprotno – i to kroz brojne igre, pjesme, zabavne aktivnosti i puuuno komunikacije!",
+          "cta": "Kliknite za više informacija"
+        },
+        "italian": {
+          "title": "Learn Italian",
+          "desc": "Ovaj pjevni susjedni jezik idealan je za vaše mališane! Na ovoj radionici se igramo, pjevamo, prolazimo kroz zabavne aktivnosti, pričamo – i ono najvažnije, učimo jezik kroz njegovu primjenu!",
+          "cta": "Kliknite za više informacija"
+        },
+        "french": {
+          "title": "Learn French",
+          "desc": "Mi znamo da je najbolji način za učenje jezika, pa čak i onog kompleksnijeg kao što je to francuski, taj da na njemu komuniciramo u poticajnoj, a opet opuštenoj atmosferi!",
+          "cta": "Kliknite za više informacija"
+        },
+        "sports": {
+          "title": "Sports Academy",
+          "desc": "#ACTIVEsummer i na moru i na kopnu! Na ovoj radionici prolazimo kroz razne sportove, od osnova do utakmica i turnira. Idealno za one koji su neprestano u pokretu!",
+          "cta": "Kliknite za više informacija"
+        },
+        "digital": {
+          "title": "Digital Academy",
+          "desc": "Digital Academy je program koji povezuje kreativnost i tehnologiju, omogućujući mladima da razviju medijske vještine.",
+          "cta": "Kliknite za više informacija"
+        },
+        "challenger": {
+          "title": "Challenger program",
+          "desc": "Dvotjedni kamp pun adrenalina, akcije i uzbuđenja za tinejdžere koji žele više od običnog ljeta.",
+          "cta": "Kliknite za više informacija"
+        },
+        "leadership": {
+          "title": "Leadership & Teen Business",
+          "desc": "Program za razvoj liderskih vještina kroz praktične vježbe, timski rad i projekte koji priprema mlade za uspjeh u budućim karijerama.",
+          "cta": "Kliknite za više informacija"
+        },
+        "animator": {
+          "title": "Junior Counselor",
+          "desc": "Ovo je idealan program za mlade ljude koji žele naučiti osnove rada s djecom i stvoriti temelje za budući rad u turizmu ili animaciji!",
+          "cta": "Kliknite za više informacija"
+        },
+        "arts": {
+          "title": "Arts & Glamour",
+          "desc": "Ova glamurozna radionica idealna je za sve male misice koje žele naučiti više o šminkanju, plesu, dizajnu odjeće, pjevanju i šetanju modnim pistama!",
+          "cta": "Kliknite za više informacija"
+        }
+      }
+    }
+  },
+  "About": {
+    "hero": {
+      "title": "O Nama",
+      "subtitle": "35 godina tradicije i osmijeha"
+    },
+    "stats": {
+      "students": "polaznika, nastavnika i izvornih govornika",
+      "years": "zabavnih ljeta – od 1991. godine",
+      "hours": "sati radionice po izboru tjedno",
+      "resort": "resort samo za djecu i mlade"
+    },
+    "mission": {
+      "title": "Tajna našeg uspjeha je naš tim!",
+      "desc": "Od 1991. godine, Euroclub smatra svojim primarnim ciljem uskladiti svoj organizacijski sustav s potrebama koje izražavaju polaznici kampa i nastavnici. Zato se naše osoblje sastoji od profesionalaca specijaliziranih za zabavu, obrazovanje i podršku. Oni marljivo rade svaki dan kako bi osigurali najbolje moguće iskustvo. Bit će s vama od polaska, 24/7 tijekom cijelog kampa, i osigurat će da uživate u danima i večerima punim zabave, sve do vašeg povratka kući."
+    },
+    "details": {
+      "workshops": {
+        "title": "Radionice",
+        "desc": "Radionice u našem kampu pokrivaju razne interese – tu se rađaju budući lideri, sportaši, poligloti, umjetnici..."
+      },
+      "activities": {
+        "title": "Aktivnosti",
+        "desc": "Svaki trenutak je kvalitetno isplaniran. Izleti, turniri, aquapark, talent shows, kvizovi, igre..."
+      },
+      "digital": {
+        "title": "Digitalni balans",
+        "desc": "Mobitele koristimo nakon ručka za čavrljanje s roditeljima, a ostatak vremena uživamo u stvarnom druženju."
+      },
+      "location": {
+        "title": "Sve na jednom mjestu",
+        "desc": "Kamp se nalazi odvojeno od naselja. Imamo plažu s aquaparkom i vlastiti bazen - sve unutar kampa!"
+      }
+    }
+  },
+  "Accommodation": {
+    "hero": {
+      "title": "Euroclub Smještaj"
+    },
+    "main": {
+      "intro": "Polaznici su smješteni u paviljonima u hladu stoljetnih borova u Brodarici kraj Šibenika. <strong>Jedini je resort ovog tipa na Jadranu koje je isključivo u službi djece i mladih.</strong>",
+      "supervision": "U svakom paviljonu jedna soba na ulazu pripada profesorima/voditeljima koji o njima brinu i kojima se za bilo što mogu obratiti 24 sata dnevno.",
+      "rooms": "Sobe imaju tri ili četiri kreveta, vlastiti WC i tuš. Naselje ima vlastitu plažu te je čitavo područje okruženo gustom borovom šumom. Nekoliko plaža u mjestu udaljeno je desetak minuta hodom.",
+      "facilities": "Osim restoranom za 200 djece, naselje raspolaže otvorenim i zatvorenim prostorima za nastavu, 'discom', prostorijom za zabavu, 'kinom' na otvorenom te amfiteatrom za zabave i natjecanja. U resortu se nalazi i bazen prilagođen za sve uzraste sa ležaljkama i slamnatim suncobranima."
+    },
+    "safety": {
+      "title": "#Sigurno",
+      "description": "Naselje Eurocluba je ograđeno i rezervirano isključivo za djecu i njihovu pratnju, bez prisustva drugih gostiju. U blizini nema hotela ni visoko frekventnih turističkih sadržaja. Kamp je pod video nadzorom.",
+      "details": "Tijekom boravka, svi polaznici su osigurani, a za njihovu sigurnost 24 sata se brinu njihovi profesori i animatori, noćni čuvar i čuvari plaže. Prva pomoć je u kampu, a dežurna ambulanta je u mjestu 5 minuta autom od naselja."
+    },
+    "fun": {
+      "title": "#Zabavno",
+      "beachActivities": "Osim najčišćeg mora i plaže s morskim zabavnim parkom, na njihovom raspolaganju su igralište za nogomet, košarku, rukomet, boćalište, igralište odbojke ili nogometa na pijesku, košarkaško igralište, adventure polygon - poligon za gađanje u metu zračnom puškom i lukom i strijelom, te morski park s igračkama u moru sa piramidom, vodenom stazom, UFO klackalicom i brojnim drugima. Od drugih aktivnosti na moru izdvajamo SUP daske, opremu za ronjenje na dah, lopta za hodanje po moru, vodene platforme za skokove i brojne druge. Kako bi ponudili još više zabavnih sadržaja, u samom centru resorta se nalazi i bazen sa svim popratnim sadržajima kako bi boravak učinili još zanimljivijim i nezaboravnim. U vanjskom amfiteatru svaku večer organiziramo atraktivne noćne programe igre, plesa, glazbe, kao i brojna sportska i kreativna natjecanja.",
+      "excursions": "Pružamo mogućnost odabira brojnih izleta kako bi vaše ljeto učinili najboljim do sada. Između ostalih izdvajamo Rafting, Karting, Jet Ski, Laser Tag, Adrenalin park, Dalmaland, NP Krka, NP Kornati, PP Telaščica, otok Krapanj, razgledavanje Zadra i brojni drugi sadržaji."
+    },
+    "location": {
+      "title": "#Lokacija",
+      "description": "Euroclub Summer Camp se nalazi u Brodarici kod Šibenika. Kamp je smješten u stoljetnoj borovoj šumi sa pristupom vlastitoj plaži. Nalazimo se u blizini svih većih atrakcija ovog područja, kao što su gradovi Split, Šibenik, Vodice i Zadar, NP Krka, NP Kornati te brojni drugi lokaliteti i sadržaji (30-60 minuta vožnje). Također bi izdvojili i NP Plitvička Jezera, NP Paklenica, PP Vransko jezero, PP Velebit, a od ostalih obližnjih atrakcija izdvajamo Sokolarski centar, Etno selo Dalmati i Posjetiteljski centar Šibenik u kanalu Sv. Ante."
+    }
+  },
+  "Prices": {
+    "title": "Termini i Cijene 2026.",
+    "subtitle": "Investirajte u ljeto prepuno znanja, avanture i novih prijateljstava.",
+    "intro": "U kampu je moguće boraviti od 1 do 8 tjedana. Optimalna duljina boravka za aktivaciju pasivnog znanja engleskog jezika jest minimalno 2 tjedana.",
+    "basic": {
+      "title": "Engleski Ljetni Kamp",
+      "badge": "Osnovni Paket",
+      "desc": "Fleksibilno trajanje od 1 do 8 tjedana",
+      "table": {
+        "date": "Datum",
+        "full": "Plaćanje odjednom",
+        "installments": "Rate",
+        "monthly": "10 | 6 Rata",
+        "data": [
+          {
+            "date": "14.06.",
+            "full": "695€",
+            "installments": "765€",
+            "monthly": "76€ | 127€"
+          },
+          {
+            "date": "21.06.",
+            "full": "695€",
+            "installments": "765€",
+            "monthly": "76€ | 127€"
+          },
+          {
+            "date": "28.06.",
+            "full": "740€",
+            "installments": "814€",
+            "monthly": "81€ | 136€"
+          },
+          {
+            "date": "05.07.",
+            "full": "760€",
+            "installments": "836€",
+            "monthly": "84€ | 139€"
+          },
+          {
+            "date": "12.07.",
+            "full": "760€",
+            "installments": "836€",
+            "monthly": "84€ | 139€"
+          },
+          {
+            "date": "19.07.",
+            "full": "760€",
+            "installments": "836€",
+            "monthly": "84€ | 139€"
+          },
+          {
+            "date": "26.07.",
+            "full": "760€",
+            "installments": "836€",
+            "monthly": "84€ | 139€"
+          },
+          {
+            "date": "02.08.",
+            "full": "760€",
+            "installments": "836€",
+            "monthly": "84€ | 139€"
+          },
+          {
+            "date": "09.08.",
+            "full": "710€",
+            "installments": "781€",
+            "monthly": "78€ | 130€"
+          },
+          {
+            "date": "16.08.",
+            "full": "710€",
+            "installments": "781€",
+            "monthly": "78€ | 130€"
+          },
+          {
+            "date": "23.08.",
+            "full": "695€",
+            "installments": "765€",
+            "monthly": "76€ | 127€"
+          }
+        ]
+      },
+      "includes": {
+        "title": "7-Dnevni Program Uključuje:",
+        "items": [
+          "Smještaj u međunarodnom ljetnom kampu Euroclub u Brodarici kod Šibenika",
+          "Sobe s 4 kreveta - s vlastitim WC-om i tušem",
+          "Puni pansion s 3 obroka dnevno (izbor od 3 jela po obroku)",
+          "Intenzivni tečaj jezika ili kreativne radionice (20 + 5 sati)",
+          "Korištenje materijala za učenje, opreme, sportskih i zabavnih sadržaja",
+          "Besplatno korištenje bazena i morskog zabavnog parka",
+          "Večernja i dnevna animacija na engleskom jeziku",
+          "Igre, turnire i ostale aktivnosti tijekom dana",
+          "Organizirani večernji spektakli na bazenu ili na plaži",
+          "Liječnička skrb dostupna 24h - dežurna ambulanta",
+          "Osiguranje od ozljeda",
+          "PDV"
+        ]
+      }
+    },
+    "adventure": {
+      "title": "Adventure Paket",
+      "badge": "Premium Iskustvo",
+      "desc": "2-8 tjedana engleskog kampa obogaćeno adrenalinom i izletima",
+      "table": {
+        "date": "Datum",
+        "full": "Plaćanje odjednom",
+        "installments": "Rate",
+        "monthly": "10 | 6 Rata",
+        "data": [
+          {
+            "date": "14.06.",
+            "full": "2.120€",
+            "installments": "2.270€",
+            "monthly": "227€ | 454€"
+          },
+          {
+            "date": "21.06.",
+            "full": "2.120€",
+            "installments": "2.270€",
+            "monthly": "227€ | 454€"
+          },
+          {
+            "date": "28.06.",
+            "full": "2.165€",
+            "installments": "2.315€",
+            "monthly": "232€ | 463€"
+          },
+          {
+            "date": "05.07.",
+            "full": "2.230€",
+            "installments": "2.380€",
+            "monthly": "238€ | 476€"
+          },
+          {
+            "date": "12.07.",
+            "full": "2.250€",
+            "installments": "2.400€",
+            "monthly": "240€ | 480€"
+          },
+          {
+            "date": "19.07.",
+            "full": "2.250€",
+            "installments": "2.400€",
+            "monthly": "240€ | 480€"
+          },
+          {
+            "date": "26.07.",
+            "full": "2.250€",
+            "installments": "2.400€",
+            "monthly": "240€ | 480€"
+          },
+          {
+            "date": "02.08.",
+            "full": "2.200€",
+            "installments": "2.350€",
+            "monthly": "235€ | 470€"
+          },
+          {
+            "date": "09.08.",
+            "full": "2.150€",
+            "installments": "2.300€",
+            "monthly": "230€ | 460€"
+          },
+          {
+            "date": "16.08.",
+            "full": "2.135€",
+            "installments": "2.285€",
+            "monthly": "229€ | 457€"
+          }
+        ]
+      },
+      "includes": {
+        "title": "Adventure Dodatno Uključuje:",
+        "items": [
+          "Adrenalin park - niski i visoki konopi sa zip line-om",
+          "Cjelodnevni izlet brodom Nacionalnom parku Kornati uz ručak na brodu",
+          "James bond - turnir u streličarstvu",
+          "Rafting na Cetini",
+          "Spužvarski otok Krapanj i posjet galeriji spužvarstva",
+          "Laser tag",
+          "Posjet Nacionalnom parku Krka",
+          "Split shopping + go kart",
+          "Tube i jet ski",
+          "Fun Park Biograd",
+          "Razgledavanje Zadra"
+        ]
+      }
+    },
+    "discounts": {
+      "title": "Popusti i Pogodnosti",
+      "desc": "Nagradjujemo vjernost i dolazak u društvu. Provjerite naše posebne ponude.",
+      "loyalty": {
+        "title": "Loyalty Popust",
+        "items": [
+          {
+            "value": "15€",
+            "text": "tjedno za svaku godinu koju si proveo/la kod nas"
+          },
+          {
+            "value": "30€",
+            "text": "tjedno za drugi i svaki slijedeći tjedan boravka (osim Adventure)"
+          }
+        ]
+      },
+      "family": {
+        "title": "Family Popust",
+        "items": [
+          {
+            "value": "15€",
+            "text": "tjedno po polazniku za više djece iz iste obitelji"
+          }
+        ]
+      }
+    }
+  },
+  "FAQ": {
+    "title": "Najčešća pitanja",
+    "categories": [
+      {
+        "category": "Općenite informacije",
+        "questions": [
+          {
+            "id": "faq-1",
+            "question": "Za koji je uzrast kamp prikladan?",
+            "answer": "Kamp je za djecu i mlade od 7-17 godina. Bez obzira na to, aktivnosti u kampu su prilagođene tako da ima ponešto za svakoga – i za malce i za starije."
+          },
+          {
+            "id": "faq-2",
+            "question": "Za koga nije kamp?",
+            "answer": "Kamp nije za RODITELJE:). To što ste vi preplašeni ne znači da se to treba odraziti na djecu. Dobro ih pripremite da znaju što se od njih očekuje, što da oni očekuju i zatražite od njih odgovornost za vrijeme kampa: poštovati sva pravila kampa, vremena obroka i nastave, voditi računa o svome krevetu/sobi/bungalovu/učionici…"
+          }
+        ]
+      },
+      {
+        "category": "Programi i radionice",
+        "questions": [
+          {
+            "id": "faq-3",
+            "question": "Može li kamper odabrati dvije ili više radionica u istom tjednu?",
+            "answer": "Odabrati više radionica u istome tjednu nije moguće pošto se sve radionice odvijaju u isto vrijeme tako da se odabrati može samo jedna – Ili Oxford English ili neka druga od ponuđenih radionica koje su također na engleskom. Ipak, svaki sljedeći tjedan možete odabrati različitu radionicu."
+          },
+          {
+            "id": "faq-5",
+            "question": "Koji program odabrati ovisno o uzrastu?",
+            "answer": "7 - 10 godina: Preporučamo Oxford English Academy – osim za iznimne slučajeve. Razlog je u tome što jedino kod ovog programa djeca budu razvrstana i po dobi i po predznanju pa se ne može dogoditi da su s puno starijom djecom.\n\n10 - 17 godina: Ovaj uzrast može odabrati bilo koju radionicu po volji. Napominjemo samo da je Sport Academy \"najopuštenija\" radionica, i iako se također vodi na engleskom, najmanje je orijentirana standardnom učenju engleskog jezika.\n\n12 - 17 godina: Oni koji žele, ovdje mogu odabrati i Adventure English – dakle dvotjedni program koji, osim radionice po izboru kroz jutro, uključuje i 9 zabavnih izleta.\n\n15 - 18 godina: Oni koji su već godinama kod nas ili oni koji to jednostavno žele – a aktivno koriste engleski jezik – mogu se prijaviti i na Junior Animator Academy – pripremu za buduće animatore."
+          },
+          {
+            "id": "faq-6",
+            "question": "Može li dijete promjeniti program u kampu?",
+            "answer": "Ukoliko mu zbilja ne odgovara, program se može promijeniti tijekom prva dva dana. Molimo zahtjeve za promjenom poslati na office@euroclub.hr ili na 095-907-9116 (od 10-11sati)"
+          },
+          {
+            "id": "faq-8",
+            "question": "Hoće li moje dijete naučiti engleski u kampu?",
+            "answer": "Bilo bi super da u sedam dana možemo naučiti strani jezik. Tada bi svi bili poliglote. No nažalost, mi još nismo u tom stadiju. Ipak, iako neće naučiti jezik u sedam dana, djeca će ga u tom periodu POČETI KORISTITI. Pasivno znanje koje najčešće dobijaju u školi će, u društvu profesora i prijatelja od kojih je više od polovice stranaca, postati aktivno.\n\nU dva se tjedna da i štošta naučiti, opustiti i komunicirati sa prijateljima i voditeljima, a u tri tjedna već se zaboravi što je to sramežljivost i govori bez straha.\n\nNapominjemo da je kamp koncipiran u smislu aktivnog korištenja jezika, te da su gramatičke strukture i pravopis samo popratni."
+          },
+          {
+            "id": "faq-9",
+            "question": "Da li je nastava obvezna?",
+            "answer": "DA. NASTAVA JE OBAVEZNA! Osim što je to jedan od ciljeva kampa, prisustvovanjem na nastavi i radimo 'provjeru' prisutnosti i aktivnosti djece (ne želimo da cijeli dan spavaju, a onda cijelu noć bude druge). Iznimke su u slučaju kada liječnik u kampu odredi da zbog bolesti dijete ne treba biti na nastavi."
+          }
+        ]
+      },
+      {
+        "category": "Rezervacija i plaćanje",
+        "questions": [
+          {
+            "id": "faq-7",
+            "question": "Koji je proces rezervacije?",
+            "answer": "1. Popunite obrazac na linku - rezervacije za provjeru slobodnih mjesta (link na vrhu naše stranice) ili nazovite 095-907-9116. Ovaj je dio informativan – još niste napravili rezervaciju.\n\n2. Kada pošaljete obrazac provjerit će se da li ima mjesta u željenom terminu i javit će vam se administrator. Dobit ćete ugovor koji će biti potrebno popuniti i vratiti mailom– time ćete napraviti predrezervaciju.\n\n3. Prema podatcima iz ugovora, dobit ćete upute za plaćanje i predračun. Ukoliko ne naznačite drugačije, prvi obrok ili plaćanje u cjelosti – bi trebalo napraviti u sljedećih dvadesetak dana.\n\n4. Prije dolaska u kamp dobit ćete pismo s informacijama o kampu, menijem, informacijama o izletima, testom...\n\n5. Također, neposredno pred dolazak u kamp, dobit ćete i upute o polasku/dolasku, s kontakt podatcima voditelja puta i u kampu."
+          },
+          {
+            "id": "faq-14",
+            "question": "Što u slučaju odustajanja od aranžmana?",
+            "answer": "Pri rezervaciji na raspolaganju vam je dodatno PUTNO OSIGURANJE, koje uključuje gubitak prtljage, osiguranje od nezgode i osiguranje od OPRAVDANOG ODUSTANKA.\n\nBez uplate osiguranja – povrat se može izvršiti na slijedeći način:\n- do 60 dana prije početka kampa Organizator zadržava 15% Ugovorenog iznosa\n- 59-21 dan od početka kampa 50% Ugovorenog iznosa\n- unutar 20-8 dana od početka kampa Organizator zadržava 70 % Ugovorenog iznosa\n- 7-0 dana do početka kampa Organizator zadržava ukupan Ugovoreni iznos"
+          },
+          {
+            "id": "faq-15",
+            "question": "Da li je prijevoz uključen u cijenu?",
+            "answer": "Prijevoz nije uključen u cijenu. Ukoliko dijete sami dovedete tako nećete platiti nikakve prijevozne troškove. Ukoliko Vam odgovara organizirani dolazak, iz većih gradova organiziramo prijevoz UZ PRATNJU za veće grupe djece."
+          }
+        ]
+      },
+      {
+        "category": "Boravak u kampu",
+        "questions": [
+          {
+            "id": "faq-4",
+            "question": "Koja je optimalna duljina boravka u kampu?",
+            "answer": "Odgovor na ovo pitanje varira od osobe do osobe, a ovisi i o uzrastu djeteta. Tako će djeci do 10 godina, posebno onima koji nisu navikli biti bez roditelja, za početak biti dovoljno jedan tjedan dok su starijoj djeci dva do tri tjedna optimalna."
+          },
+          {
+            "id": "faq-10",
+            "question": "Da li je prisustvovanje obrocima obvezno?",
+            "answer": "DA. Čak i u slučaju da ne žele jesti, djeca su obvezna prisustvovati na obrocima. Njihov voditelj će na taj način imati uvid u njihovu prehranu, razloge zbog kojih ne jedu i moći će reagirati u slučaju potrebe."
+          },
+          {
+            "id": "faq-11",
+            "question": "Kakav je smještaj?",
+            "answer": "Polaznici su smješteni u paviljonima u hladu stoljetnih borova u naselju Luša, u Brodarici kraj Šibenika. Jedino je naselje ovog tipa na Jadranu koje je isključivo u službi djece i mladih.\n\nU svakom paviljonu jedna soba na ulazu pripada profesorima/voditeljima koji o njima brinu i kojima se za bilo što mogu obratiti 24 sata dnevno.\n\nSobe imaju tri ili četiri kreveta, vlastiti WC i tuš. Naselje ima vlastitu plažu iza sjenovitog šumarka te je čitavo područje okruženo gustom borovom šumom.\n\nOsim restoranom za 200 djece, naselje raspolaže otvorenim i zatvorenim prostorima za nastavu, 'discom', prostorijom za zabavu, 'kinom' na otvorenom te amfiteatrom za zabave i natjecanja."
+          },
+          {
+            "id": "faq-12",
+            "question": "Kako je organizirano funkcioniranje kampa?",
+            "answer": "Kamp nije organiziran kao mala vojska:), ali određena pravila se moraju poštivati – ustajanje, dnevni raspored, raspored nastave i obroka, spavanje. Slobodno vrijeme im je ostavljeno na volju – da biraju neku od aktivnosti – sportskih, zabavnih, kvizova, radionica... ili se odluče za odmaranje na plaži ili u sobi.\n\nHrana: Prehrana je u kampu organizirana u vlastitom restoranu na principu samoposluživanja.\n\nČistoća: O čistoći u kampu vodimo posebnu brigu. Od djece tražimo minimum vlastitog angažmana.\n\nMobiteli: Zabranjeno je korištenje mobitela na nastavi i obrocima – osim ako nastavnik ne naznači drugačije.\n\nNastava: Programi u našoj ljetnoj školi uči se na zabavan i zanimljiv način. Nastava i aktivnosti su na engleskom, u prirodi, 20 obveznih i 5 izbornih nastavnih sati tjedno."
+          },
+          {
+            "id": "faq-13",
+            "question": "Kako kontaktirati voditelje u kampu?",
+            "answer": "U pismu koje ćete dobiti prije kampa,dobiti ćete i broj voditelja te e-mail u kampu koji će biti na raspolaganju od 10:30-12:00 svaki dan, u ostalo vrijeme SAMO ZA HITNE SLUČAJEVE. U slučaju bilo kakvog problema u kampu mi ćemo se javiti vama."
+          }
+        ]
+      },
+      {
+        "category": "Ostalo",
+        "questions": [
+          {
+            "id": "faq-16",
+            "question": "Pošaljite dodatno pitanje",
+            "answer": "Imate li dodatnih pitanja na koja želite znati odgovor, pošaljite ga office@euroclub.hr"
+          }
+        ]
+      }
+    ]
+  },
+  "Reservation": {
+    "title": "Rezervirajte svoje mjesto",
+    "subtitle": "Ispunite obrazac za rezervaciju svog ljetnog kampa",
+    "form": {
+      "parentName": "Ime Roditelja",
+      "childName": "Ime Djeteta",
+      "lastName": "Prezime",
+      "birthDate": "Datum Rođenja",
+      "email": "Email Adresa",
+      "phone": "Broj Telefona",
+      "program": "Odaberi Program",
+      "term": "Odaberi Termin",
+      "notes": "Napomena",
+      "submit": "Pošalji Rezervaciju"
+    }
+  },
+  "JuniorCamp": {
+    "title": "Euroclub Junior Kamp",
+    "subtitle": "Savršeno ljeto za vaše dijete!",
+    "description": "Tražite mjesto gdje će vaše dijete provesti ljeto ispunjeno zabavom, učenjem i novim iskustvima?\n\nU Euroclubu stvaramo priliku za rast i sigurno okruženje za stjecanje vještina koje će im koristiti cijeli život!",
+    "features": {
+      "english": {
+        "title": "Engleski jezik kroz igru – bez pritiska!",
+        "nativeSpeakers": {
+          "title": "Rad s izvornim govornicima:",
+          "desc": "Vaše će dijete učiti od izvornih govornika engleskog jezika kroz interaktivne radionice. To je jedinstvena prilika za usvajanje autentičnog izgovora i stjecanje samopouzdanja u komunikaciji!"
+        },
+        "playBased": "Engleski se ne uči iz knjiga – nego kroz igru, razgovor i timski rad. Djeca usvajaju jezik dok se zabavljaju i sudjeluju u brojnim aktivnostima."
+      },
+      "friendships": {
+        "title": "Nova prijateljstva i bogat program aktivnosti",
+        "international": {
+          "title": "Međunarodno okruženje:",
+          "desc": "Djeca svakodnevno upoznaju i surađuju s vršnjacima iz cijelog svijeta. Kroz timske igre, kvizove i kreativne radionice djeca se povezuju i spontano stvaraju veze koja nadilaze granice."
+        },
+        "confidence": {
+          "title": "Samopouzdanje i samostalnost:",
+          "desc": "Vaše se dijete vraća kući proširenih pogleda na svijet!"
+        }
+      },
+      "digitalBalance": {
+        "title": "Digitalna ravnoteža: isključite ekrane, uključite doživljaje!",
+        "focus": {
+          "title": "Fokus na stvarne trenutke:",
+          "desc": "Mobiteli se koriste samo u dogovoreno vrijeme. Manje ekrana znači više smijeha, druženja i stvaranja nezaboravnih trenutaka."
+        },
+        "activities": {
+          "title": "Sport, kreativnost i lice-u-lice:",
+          "desc": "Umjesto ekrana, dani su ispunjeni sportskim igrama, kreativnim radionicama i razgovorima."
+        }
+      },
+      "adventure": {
+        "title": "Adventure paket",
+        "desc": "Za djecu željnu još više uzbuđenja tu je Adventure paket! Uključuje dodatne izlete, istraživanja i posebne avanture koje upotpunjuju ljetno iskustvo. Sve je već uključeno u cijenu i pruža uspomene koje se dugo pamte.",
+        "safety": "Budite sigurni: Vaše dijete provodi ljeto kvalitetno i smisleno – učeći, družeći se i zabavljajući se u sigurnom i poticajnom okruženju."
+      }
+    },
+    "gallery": {
+      "title": "Pogledajte kako nam je zabavno!"
+    },
+    "cta": {
+      "title": "Dajte svom djetetu ljeto koje zaslužuje!",
+      "subtitle": "Rezervirajte mjesto u Euroclub Junior Kampu već danas i osigurajte im nezaboravne uspomene.",
+      "button": "Rezerviraj Sada"
+    }
+  },
+  "TeenCamp": {
+    "title": "EUROCLUB TEEN SUMMER CAMP",
+    "subtitle": "Ljeto koje mijenja sve!",
+    "description": "Znaš ono kad ti netko kaže da mu je bilo najbolje ljeto ikad? Sada je red na tebi da to doživiš – i to upravo u Euroclubu u Šibeniku! Nema dosade uz ekipu iz cijelog svijeta i raspored pun akcije koji te svaki dan iznenadi nečim novim!",
+    "features": {
+      "english": {
+        "title": "Engleski kroz iskustvo, ne iz knjiga.",
+        "desc": "Engleski se ne uči iz knjiga – nego kroz igru, razgovor i timski rad. Djeca usvajaju jezik dok se zabavljaju i sudjeluju u brojnim aktivnostima.",
+        "active": {
+          "title": "Aktivni engleski:",
+          "desc": "Cijeli program se odvija na engleskom jeziku. To nije školska nastava, već prirodno usvajanje jezika kroz razgovor s vršnjacima i nastavnicima-izvornim govornicima."
+        },
+        "nativeSpeakers": {
+          "title": "Izvorni govornici:",
+          "desc": "Naši voditelji su izvorni govornici engleskog jezika, što ti daje jedinstvenu priliku za usvajanje autentičnog izgovora i sigurnost u komunikaciji – i to u opuštenoj atmosferi."
+        }
+      },
+      "friendships": {
+        "title": "Ekipa iz cijelog svijeta i dnevna doza adrenalina",
+        "lifeLong": {
+          "title": "Prijateljstva za život",
+          "desc": "Upoznat ćeš tinejdžere iz svih krajeva svijeta. Kroz timske igre, sportske izazove i večernja druženja, stvaraš povezanosti i prijateljstva koja traju."
+        },
+        "action": {
+          "title": "Raspored pun akcije",
+          "desc": "Kod nas nema mjesta dosadi. Svaki dan je ispunjen sportskim turnirima, kreativnim radionicama, kvizovima i novim iskustvima. Smijeh i izazovi su zagarantirani."
+        }
+      },
+      "digitalBalance": {
+        "title": "Pametni digitalni balans",
+        "desc1": "Razumijemo potrebu za povezanošću, ali u Euroclubu vjerujemo u balans. Mobiteli su dostupni maksimalno 90 minuta dnevno – dovoljno za ostati u kontaktu, ali ne toliko da propustiš pravu zabavu!",
+        "desc2": "Ovako imaš priliku stvarno upoznati nove prijatelje, biti dio tima i živjeti u trenutku – bez stalnog pritiska društvenih mreža."
+      },
+      "adventure": {
+        "title": "Adventure paket",
+        "desc": "Dodaj još više akcije! Rafting, jet ski, scuba diving, windsurfing, go-kart i zabavni parkovi – turbo doživljaji koje nećeš zaboraviti!",
+        "button": "Više o Adventure paketu"
+      }
+    },
+    "cta": {
+      "title": "Spreman/na si za najbolje ljeto tvog života?",
+      "subtitle": "Pridruži se tinejdžerima iz cijelog svijeta i stvori uspomene koje traju zauvijek!",
+      "button": "PRIJAVI SE SADA"
+    }
+  },
+  "WhyEuroclub": {
+    "hero": {
+      "title": "Zašto Euroclub?",
+      "subtitle": "Naša je misija osigurati ti ljeto za pamćenje!"
+    },
+    "stats": {
+      "students": "polaznika, nastavnika i izvornih govornika",
+      "years": "zabavnih ljeta – od 1991. godine",
+      "hours": "sati radionice po izboru tjedno",
+      "resort": "resort samo za djecu i mlade"
+    },
+    "mission": {
+      "title": "Više od zabave, više od učenja!",
+      "desc": "Svjesni smo toga da klasična znanja više nisu dovoljna. Zato kod nas dobivaš ono što ti uistinu treba: kritički razmišljaš, samostalno donosiš odluke, razvijaš samopouzdanje i empatiju te radiš na efikasnoj komunikaciji i rješavanju problema. A nema klasičnog školskog zvona – u prirodi si okružen prijateljima!"
+    },
+    "details": {
+      "workshops": {
+        "title": "Radionice",
+        "desc": "Radionice u našem kampu pokrivaju razne interese – tu se rađaju budući lideri, sportaši, poligloti, umjetnici, inženjeri…"
+      },
+      "activities": {
+        "title": "Aktivnosti",
+        "desc": "Svaki trenutak je kvalitetno isplaniran. Izleti, turniri, aquapark, talent shows, kvizovi, igre, natjecanja… – ti biraš svoju avanturu!"
+      },
+      "digital": {
+        "title": "Digitalni balans",
+        "desc": "Svjesni smo da Generacija Alfa živi tehnologiju. Stoga im je nećemo potpuno uskratiti, ali ćemo je ograničiti u korist smijeha i druženja s prijateljima. Mobitele koristimo nakon ručka za čavrljanje s roditeljima i kod nekih zabavnih i kreativnih aktivnosti, a ostatak vremena su na sigurnom – i uopće nam ne nedostaju!"
+      },
+      "location": {
+        "title": "Sve na jednom mjestu",
+        "desc": "Kamp se nalazi odvojeno od naselja, a opet ima sve sadržaje koji će ti biti zabavni – osim plaže s aquaparkom, imamo i vlastiti bazen! To znači da imaš sve što ti je potrebno unutar kampa, ali naši će iskusni zaposlenici uvijek biti u blizini ako ti nešto zatreba. Organizirat će ti i šetnje i posjet lokalnom marketu."
+      }
+    },
+    "cta": {
+      "title": "Prouči naše programe i odaberi onaj baš za sebe!",
+      "subtitle": "Moja dob je:"
+    }
+  },
+  "DailySchedule": {
+    "hero": {
+      "title": "Dnevni raspored",
+      "subtitle": "Plan aktivnosti tijekom dana u našem ljetnom kampu"
+    },
+    "intro": {
+      "desc1": "Tijekom jutra vrijeme je rezervirano za učenje, učenici će također pronaći sat ili dva za sudjelovanje u igrama na plaži ili će jednostavno odmarati i opuštati se između njihovih lekcija.",
+      "desc2": "Tijekom popodneva naši animatori organiziraju mnoštvo zabavnih aktivnosti, turnira i natjecanja kulminirajući s olimpijskim igrama, sportskom događaju gdje se učenici reprezentiraju i natječu za svoj tim kroz igre brzine, vještine i spretnosti.",
+      "desc3": "Svaku večer s mnogo muzike i plesa organiziramo zabave i spektakle na plaži ili u disku. Dvoje sretnih natjecatelja postat će kralj i kraljica, miss i mister cijelog kampa. Pripremili smo i noćno kupanje, piknik na plaži otvoreni filmski festival, karaoke show i još mnogo toga.."
+    },
+    "scheduleTitle": "Dnevni raspored aktivnosti",
+    "schedule": [
+      {
+        "time": "08:00 - 08:30",
+        "bgColor": "yellow",
+        "borderColor": "yellow",
+        "activities": "BUĐENJE\nMORNING ZUMBA\nDORUČAK"
+      },
+      {
+        "time": "09:00 - 10:30",
+        "bgColor": "blue",
+        "borderColor": "blue",
+        "activities": "1. LEKCIJA"
+      },
+      {
+        "time": "10:30 - 12:00",
+        "bgColor": "green",
+        "borderColor": "green",
+        "activities": "SLOBODNO VRIJEME\nKUPANJE, IGRE NA PLAŽI I BAZENU"
+      },
+      {
+        "time": "12:00 - 13:15",
+        "bgColor": "blue",
+        "borderColor": "blue",
+        "activities": "2. LEKCIJA"
+      },
+      {
+        "time": "13:30 - 15:00",
+        "bgColor": "orange",
+        "borderColor": "orange",
+        "activities": "RUČAK\nODMOR U SOBAMA"
+      },
+      {
+        "time": "15:00 - 15:45",
+        "bgColor": "blue",
+        "borderColor": "blue",
+        "activities": "3. LEKCIJA\nUŽINA"
+      },
+      {
+        "time": "16:00 - 19:00",
+        "bgColor": "purple",
+        "borderColor": "purple",
+        "activities": "SLOBODNO VRIJEME\nSPORT, KUPANJE, NATJECANJA, OLIMPIJSKE IGRE"
+      },
+      {
+        "time": "19:30 - 20:00",
+        "bgColor": "red",
+        "borderColor": "red",
+        "activities": "VEČERA"
+      },
+      {
+        "time": "21:00 - 22:45",
+        "bgColor": "indigo",
+        "borderColor": "indigo",
+        "activities": "VEČERNJA ZABAVA\ntematski zabavni programi - disko"
+      },
+      {
+        "time": "23:00 - 23:30",
+        "bgColor": "gray",
+        "borderColor": "gray",
+        "activities": "PRIPREMA ZA POČINAK\ngašenje svjetla"
+      }
+    ],
+    "cta": {
+      "title": "Spreman za nezaboravno ljeto?",
+      "subtitle": "Pridruži se našem ljetnom kampu i uživaj u aktivnostima koje će ti pružiti novo iskustvo i prijateljstva za cijeli život!",
+      "button": "Pogledaj cijene i prijavi se"
+    }
+  },
+  "AdventurePackage": {
+    "hero": {
+      "title": "ADVENTURE PAKET",
+      "subtitle": "Jer ljeto bez adrenalina nije pravo ljeto!"
+    },
+    "intro": {
+      "desc1": "Ako tražiš još više adrenalina, avanture i zabave, odaberi ADVENTURE PAKET – kampski dodatak koji tvoje ljeto pretvara u pravu avanturu!",
+      "desc2": "Namijenjen je polaznicima koji žele dodatna iskustva, izazove i istraživanje, a možeš ga odabrati za 2 do 8 tjedana boravka – koliko avantura želiš!",
+      "desc3": "Više dana znači više prijatelja, više samopouzdanja i – još više akcije!"
+    },
+    "gallery": {
+      "title": "Naši Nezaboravni Izleti",
+      "subtitle": "...i dodatne aktivnosti!"
+    },
+    "whyChoose": {
+      "title": "Zašto odabrati ADVENTURE PAKET?",
+      "items": [
+        {
+          "icon": "⏱️",
+          "title": "Više vremena",
+          "desc": "Najmanje dva tjedna puna iskustava i novih prijateljstava."
+        },
+        {
+          "icon": "💪",
+          "title": "Razvija hrabrost",
+          "desc": "Samostalnost i timski duh kroz svaki izazov."
+        },
+        {
+          "icon": "⚖️",
+          "title": "Savršena ravnoteža",
+          "desc": "Između aktivnog odmora i učenja kroz iskustvo."
+        },
+        {
+          "icon": "🌟",
+          "title": "Idealno za avanturiste",
+          "desc": "Za djecu koja žele istraživati, učiti i živjeti punim plućima."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Pridruži se generaciji koja ne čeka avanturu – nego je stvara!",
+      "subtitle": "Rezerviraj svoje mjesto u ADVENTURE PAKETU danas i otkrij koliko je život uzbudljiv kad svaki dan donosi novu priču.",
+      "button": "Rezerviraj Sada"
+    }
+  },
+  "Transfer": {
+    "hero": {
+      "title": "Usluga transfera",
+      "subtitle": "Organizirani prijevoz za siguran dolazak i odlazak vašeg djeteta u kamp"
+    },
+    "intro": {
+      "title": "Siguran dolazak u kamp",
+      "desc": "Nudimo organizirani prijevoz iz većih gradova u pratnji naših voditelja. To osigurava sigurno i ugodno putovanje za vaše dijete."
+    },
+    "features": {
+      "supervised": {
+        "title": "Prijevoz s pratnjom",
+        "desc": "Sav naš prijevoz uključuje pratnju naših iskusnih voditelja koji brinu o sigurnosti i zabavi djece tijekom putovanja."
+      },
+      "cities": {
+        "title": "Prijevoz iz većih gradova",
+        "desc": "Organiziramo prijevoz iz Zagreba, Splita, Rijeke i drugih većih gradova. Točni datumi i rasporedi potvrđuju se prilikom rezervacije."
+      },
+      "groups": {
+        "title": "Za grupe",
+        "desc": "Za veće grupe djece (8+) nudimo posebne uvjete i prilagođene rasporede. Kontaktirajte nas za više informacija."
+      },
+      "safety": {
+        "title": "Sigurnost na prvom mjestu",
+        "desc": "Sva vozila su opremljena potrebnom opremom, a naši vozači su iskusni i provjereni. Djeca su pod stalnim nadzorom tijekom cijelog putovanja."
+      }
+    },
+    "pricing": {
+      "title": "Cijena prijevoza",
+      "option1": "Prijevoz nije uključen u cijenu kampa",
+      "option2": "Dijete možete dovesti sami bez dodatnih troškova",
+      "option3": "Za organizirani prijevoz s pratnjom, cijena ovisi o destinaciji i broju putnika"
+    },
+    "booking": {
+      "title": "Kako rezervirati prijevoz",
+      "step1": {
+        "title": "Rezervirajte kamp",
+        "desc": "Prvo rezervirajte mjesto u kampu putem našeg obrasca"
+      },
+      "step2": {
+        "title": "Odaberite opciju",
+        "desc": "Prilikom rezervacije navedite želite li organizirani prijevoz"
+      },
+      "step3": {
+        "title": "Kontaktirat ćemo vas",
+        "desc": "Naš tim će vas kontaktirati s detaljima i cijenom prijevoza"
+      }
+    },
+    "contact": {
+      "title": "Imate pitanja o prijevozu?",
+      "desc": "Naš tim je dostupan za sva pitanja vezana uz prijevoz i logistiku."
+    },
+    "reservation": {
+      "note": "Prijevoz možete rezervirati prilikom prijave za kamp",
+      "button": "Prijavite se za kamp"
+    }
+  },
+  "OxfordEnglish": {
+    "hero": {
+      "badge": "Premium Summer Education",
+      "title": "Oxford English",
+      "titleAccent": "Academy",
+      "subtitle": "Učite engleski uz izvorne govornike u međunarodnom okruženju",
+      "cta": "Rezervirajte mjesto"
+    },
+    "features": {
+      "guaranteed": {
+        "title": "Garantirani program",
+        "desc": "Garantirani program u svim terminima i za sve uzraste i nivoe znanja djece 7 - 17 godina."
+      },
+      "nativeSpeakers": {
+        "title": "Izvorni govornici",
+        "desc": "20 jutarnjih + 5 popodnevnih školskih sati. Nastavu vode izvorni govornici i profesori engleskog jezika iz cijelog svijeta."
+      },
+      "adaptedGroups": {
+        "title": "Prilagođene grupe",
+        "desc": "Grupe su podijeljene prema uzrastu i predznanju. Osim online testiranja, provodi se i konverzacijski test prvi dan."
+      },
+      "literature": {
+        "title": "Originalna literatura",
+        "desc": "U nastavi se koristi originalna literatura Oxford-a, Cambridge-a i Longman University Press-a."
+      }
+    },
+    "program": {
+      "title": "O Programu",
+      "desc1": "Oxford English Academy nudi intenzivan program učenja engleskog jezika za djecu i mlade od 7 do 17 godina, za sve razine poznavanja jezika.",
+      "desc2": "Program se sastoji od 20 školskih sati tjedno, s naglaskom na komunikacijske vještine i korištenje jezika. Nastava je dinamična i interaktivna, uz igre, pjesme i grupne aktivnosti koje potiču učenike na aktivno sudjelovanje.",
+      "desc3": "Nastavnici su izvorni govornici engleskog jezika ili kvalificirani profesori, a grupe se formiraju prema uzrastu i predznanju. Na početku programa provodi se testiranje koje uključuje online i konverzacijski test.",
+      "desc4": "Program koristi originalne materijale poznatih izdavača koji omogućuju učinkovito učenje. Po završetku programa, polaznici dobiju certifikat Eurocluba o završenoj akademiji."
+    },
+    "note": {
+      "title": "VAŽNA NAPOMENA",
+      "desc": "Djeci do 9 godina snažno preporučamo baš Oxford English program, budući da njihovo znanje jezika u pravilu još nije dovoljno za pratiti ostale programe koji se svi odvijaju na engleskom također. Nadalje, ovdje su grupe razvrstane i po dobi, što u ostalim programima često nije slučaj."
+    },
+    "availability": {
+      "title": "Dostupni termini",
+      "program": "Oxford English Academy",
+      "cta": "PRIJAVI SE SADA"
+    },
+    "adventure": {
+      "title": "Discovery & Adventure",
+      "desc": "Ovaj program može se realizirati i kao dio adventure paketa, koji uključuje sve izlete iz bogate ponude, pružajući polaznicima dodatne prilike za uzbuđenje, istraživanje i nezaboravne doživljaje.",
+      "cta": "Saznaj više o Adventure Paketu"
+    },
+    "programsLabel": "Istražite naše ostale programe:",
+    "juniorPrograms": "Junior Programi 7-12g",
+    "teenPrograms": "Teen Programi 12-17g"
+  },
+  "Sports": {
+    "hero": {
+      "title": "Engleski Ljetni Sportski Kamp",
+      "subtitle": "na Moru za Djecu i Mlade",
+      "desc": "15+ sportova na kopnu i moru. Kamp s noćenjem, u sobama s WC-om. Brodarica, Šibenik, Dalmacija.",
+      "cta": "Rezerviraj mjesto za ljeto 2026"
+    },
+    "features": {
+      "sports": {
+        "title": "15+ sportova",
+        "desc": "Nogomet, košarka, odbojka, plivanje, vodeni sportovi, atletika i još mnogo toga — na kopnu i na moru!"
+      },
+      "seaLand": {
+        "title": "Na kopnu i na moru",
+        "desc": "Jedini kamp s vlastitom plažom, bazenom i sportskim terenima — sve na engleskom."
+      },
+      "safety": {
+        "title": "24/7 nadzor i sigurnost",
+        "desc": "Profesionalni pedagozi, treneri i odgajatelji brinu o svakom djetetu — nonstop."
+      },
+      "certificate": {
+        "title": "Certifikat po završetku",
+        "desc": "Svaki polaznik dobiva Euroclub certifikat o završenom sportskom kampu."
+      }
+    },
+    "sports": {
+      "title": "Sportovi u programu",
+      "land": "Sportovi na kopnu",
+      "water": "Vodeni sportovi"
+    },
+    "about": {
+      "title": "O Sportskom Kampu",
+      "desc1": "Euroclub Sportski Kamp nudi djeci i mladima jedinstveno međunarodno sportsko iskustvo u trajanju od 1-8 tjedana.",
+      "desc2": "Program uključuje 20 sati tjedno sportskih aktivnosti tjedno na kopnu i u moru, uz voditelje/trenere koji prilagođavaju aktivnosti svakom polazniku. Slobodno vrijeme ispunjeno je kvizovima, plesom, leadership radionicama, igrama za rast i razvoj – u moru, na kopnu ili na bazenu.",
+      "desc3": "Slobodno vrijeme, vježbe, treninzi i natjecanja održavaju se na ENGLESKOM JEZIKU, u društvu prijatelja iz cijelog svijeta i izvornih govornika engleskog jezika. Za razliku od specijaliziranih jednosportskih kampova, mi smo višesportski kamp — kamperi isprobavaju i igraju razne sportove svaki dan."
+    },
+    "availability": {
+      "title": "Dostupni termini 2026",
+      "desc": "Program je dostupan u svim terminima za Junior (7-12g) i Teen (13-17g) polaznike",
+      "cta": "REZERVIRAJ MJESTO"
+    },
+    "adventure": {
+      "title": "Želiš još više akcije?",
+      "desc": "Dodaj Adventure paket uz sportski kamp — rafting, go-kart, jet ski, scuba diving, windsurfing, zabavni parkovi i još 15 ludih izleta i aktivnosti!",
+      "cta": "Saznaj više o Adventure Paketu"
+    }
+  },
+  "DigitalAcademy": {
+    "hero": {
+      "title": "Digital Academy",
+      "subtitle": "Stvori, snimi, objavi. Postani dio medijskog svijeta!",
+      "cta": "PRIJAVI SE"
+    },
+    "about": {
+      "title": "O Programu",
+      "desc": "Digital Academy spaja kreativnost, tehnologiju i zabavu u jedinstven program za mlade koji žele zakoračiti u svijet filma, fotografije, novinarstva i digitalnih medija. Program se odvija na engleskom jeziku, što omogućuje sudionicima da svoje ideje, kreativnost i komunikacijske vještine razvijaju na međunarodnoj razini."
+    },
+    "features": {
+      "creativity": {
+        "title": "Kreiraj vlastite filmove",
+        "desc": "Kreiraj vlastite filmove, snimaj reportaže i postani pravi digitalni storyteller kroz interaktivne #DigitalMedia radionicu."
+      },
+      "media": {
+        "title": "Digitalni mediji",
+        "desc": "Tijekom kampa polaznici će stvarati video i foto sadržaj, snimati i montirati vlastite uratke, pisati novinske članke i objave za društvene mreže."
+      },
+      "tech": {
+        "title": "Tehnologija i oprema",
+        "desc": "Ako želiš ovo ljeto osmisliti scenarij, producirati ga, režirati, odglumiti i snimiti — imamo opremu i znanje."
+      },
+      "certificate": {
+        "title": "Certifikat",
+        "desc": "Po završetku programa, svaki sudionik prima Euroclub certifikat – potvrdu o stečenim znanju i kreativnim postignucima."
+      }
+    },
+    "programsLabel": "Istražite naše ostale programe:",
+    "juniorPrograms": "Junior Programi 7-12g",
+    "teenPrograms": "Teen Programi 12-17g"
+  },
+  "ArtFashion": {
+    "hero": {
+      "title": "Art & Glamour Academy",
+      "subtitle": "Umjetnost, stil i samopouzdanje u jednom!",
+      "cta": "PRIJAVI SE"
+    },
+    "about": {
+      "title": "O Programu",
+      "desc": "Arts & Glamour Academy spaja umjetnost i modu u jedinstveno iskustvo koje mladima omogućuje da istraže svoje talente, razviju osobni stil i izraze sebe na potpuno novi način. Kroz praktične radionice slikanja, crtanja, modeliranja, dizajna, make-upa i stylinga, polaznici uče kako ideje pretvoriti u stvarne umjetničke i modne kreacije."
+    },
+    "features": {
+      "makeup": {
+        "title": "Makeup & Styling",
+        "desc": "Otkrijte svoju kreativnu stranu kroz umjetnost i modu, naučite dizajnirati i kreirati jedinstvene stilove koji izražavaju tvoju ličnost."
+      },
+      "dance": {
+        "title": "Ples & Nastup",
+        "desc": "Za sve one koji uživaju u glamuru - modnim pistama, revijama, šminkanju, izrađivanju odjeće, plesu, pjevanju…"
+      },
+      "fashion": {
+        "title": "Modni dizajn",
+        "desc": "Kroz praktične radionice slikanja, crtanja, modeliranja, dizajna, make-upa i stylinga, polaznici uče kako ideje pretvoriti u stvarne umjetničke i modne kreacije."
+      },
+      "runway": {
+        "title": "Modna pista",
+        "desc": "Vrhunac akademije je modna revija i izložba umjetničkih radova – događaj u kojem polaznici predstavljaju vlastite kreacije pred publikom."
+      }
+    },
+    "programsLabel": "Istražite naše ostale programe:",
+    "juniorPrograms": "Junior Programi 7-12g",
+    "teenPrograms": "Teen Programi 12-17g"
+  },
+  "Leadership": {
+    "hero": {
+      "title": "Leadership Academy",
+      "subtitle": "Današnji teenageri – sutra lideri!",
+      "cta": "PRIJAVI SE"
+    },
+    "about": {
+      "title": "O Programu",
+      "desc": "Leadership & Teen Business Academy osmišljena je za mlade od 12 do 17 godina koji žele razviti vještine vođenja, timskog rada i uspješne komunikacije – kvalitete koje čine razliku u svakom području života. Ovaj jedinstveni program spaja sportske izazove, praktične radionice i motivacijske aktivnosti."
+    },
+    "features": {
+      "skills": {
+        "title": "Liderske vještine",
+        "desc": "Razvij liderske vještine kroz praktične projekte, nauči kako motivirati tim i postani vizionar koji pokreće pozitivne promjene u svojoj zajednici."
+      },
+      "teamwork": {
+        "title": "Timski rad",
+        "desc": "Kroz sportske aktivnosti, simulacije i timske projekte, mladi uče važnost suradnje, poštovanja i odgovornosti."
+      },
+      "projects": {
+        "title": "Pravi projekti",
+        "desc": "Program traje dva tjedna, sudionici razvijaju kreativno razmišljanje, emocionalnu inteligenciju i vještine rješavanja problema, uz fokus na stvarne životne situacije."
+      },
+      "future": {
+        "title": "Budućnost",
+        "desc": "Ovo je kombinacija sportskih i mentalnih aktivnosti za teenagere od 13-17 godina! Nastava se izvodi na engleskom jeziku uz vodstvo izvornih govornika."
+      }
+    },
+    "programsLabel": "Istražite naše ostale programe:",
+    "teenPrograms": "Teen Programi 12-17g"
+  },
+  "TeenChallenger": {
+    "hero": {
+      "badge": "Adrenalinska Avantura",
+      "title": "Teen Challenger Academy",
+      "subtitle": "Tvoj izazov. Tvoja avantura. Tvoje ljeto!",
+      "cta": "Rezerviraj Sada"
+    },
+    "about": {
+      "title": "O Programu",
+      "desc": "Teen Challenger Academy je dvotjedni kamp pun adrenalina, akcije i uzbuđenja, stvoren za tinejdžere koji žele više od običnog ljeta. Camp spaja zabavu, timske izazove i istraživanje Dalmacije, dok sudionici otkrivaju svoje granice, snagu i samopouzdanje."
+    },
+    "features": {
+      "adrenaline": {
+        "title": "Adrenalin",
+        "desc": "Svaki dan donosi nešto novo – od sportskih turnira i vodenih sportova poput windsurfinga, SUP-a, ronjenja i jet skija."
+      },
+      "challenges": {
+        "title": "Timski izazovi",
+        "desc": "Fizički izazovi, timska natjecanja i prepreke koje testiraju izdržljivost i upornost. Sudionici sudjeluju u timskim misijama koje potiču suradnju i kritičko razmišljanje."
+      },
+      "safety": {
+        "title": "Sigurna avantura",
+        "desc": "Sve aktivnosti su pod nadzorom certificiranih instruktora koji osiguravaju maksimalnu sigurnost."
+      },
+      "excitement": {
+        "title": "Neprestana uzbuđenja",
+        "desc": "Tinejdžeri istražuju Nacionalni park Krka, doživljavaju rafting, karting utrke, dan u zabavnom parku Dalmaland, te avanture na otoku Krapnju."
+      }
+    },
+    "programsLabel": "Istražite naše ostale programe:",
+    "teenPrograms": "Teen Programi 12-17g"
+  },
+  "JuniorAnimator": {
+    "hero": {
+      "title": "Junior Animator Academy",
+      "subtitle": "Nauči biti animator i priključi se animatorskom timu Euroclub-a.",
+      "cta": "PRIJAVI SE"
+    },
+    "about": {
+      "title": "O Programu",
+      "desc": "Junior Animator Academy pruža mladima od 16 godina i više priliku da razviju animatorske vještine kroz bogat programa aktivnosti. Polaznici će učiti organizirati sportske igre, kreativne radionice, te aktivnosti kao što su gluma, pjevanje, ples i upravljanje društvenim mrežama."
+    },
+    "features": {
+      "children": {
+        "title": "Rad s djecom",
+        "desc": "Organiziranje sportsko-zabavnih aktivnosti i natjecanja. Kroz rad s grupama, polaznici stječu iskustvo u vođenju, timskom radu i komunikaciji."
+      },
+      "tourism": {
+        "title": "Turističke vještine",
+        "desc": "Stjecanje iskustva za budući rad kao turistički animator. Savladavanje scenskog nastupa i javnog govora."
+      },
+      "skills": {
+        "title": "Profesionalne vještine",
+        "desc": "Iskustvo u glumi, pjevanju, plesu i radio programu. Vođenje programa i administriranje društvenih mreža."
+      },
+      "future": {
+        "title": "Buduća karijera",
+        "desc": "Mogućnost zaposlenja u Euroclub programima. Nakon završetka programa, polaznici dobivaju Euroclub certifikat."
+      }
+    },
+    "programsLabel": "Istražite naše ostale programe:",
+    "teenPrograms": "Teen Programi 12-17g"
+  },
+  "CroatianCamp": {
+    "hero": {
+      "badge": "Jezik i Kultura",
+      "title": "Kamp Hrvatskog Jezika",
+      "subtitle": "Program je namijenjen prvenstveno djeci Hrvatske dijaspore, te djeci stranaca koji borave u Hrvatskoj.",
+      "cta": "PRIJAVI SE"
+    },
+    "about": {
+      "title": "O Programu",
+      "desc": "Ljetni kamp hrvatskog jezika u Euroclubu savršena je prilika za djecu iz hrvatske dijaspore i stranu djecu koja borave u Hrvatskoj da aktivno uče hrvatski jezik kroz igru, zabavu i druženje. Program obuhvaća 20 sati nastave tjedno, a vode ga iskusni nastavnici – izvorni govornici hrvatskog jezika. Kroz interaktivne igre, pjesme, kvizove, grupni rad i kreativne radionice, djeca brzo i s lakoćom usvajaju jezik."
+    },
+    "programsLabel": "Istražite naše ostale programe:",
+    "juniorPrograms": "Junior Programi 7-12g",
+    "teenPrograms": "Teen Programi 12-17g"
+  },
+  "GermanCamp": {
+    "hero": {
+      "badge": "Jezik i Kultura",
+      "title": "Kamp Njemačkog Jezika",
+      "subtitle": "Lernen, lachen und erleben!",
+      "cta": "PRIJAVI SE"
+    },
+    "about": {
+      "title": "O Programu",
+      "desc": "Ljetni kamp njemačkog jezika u Euroclubu pruža djeci priliku da poboljšaju svoje znanje njemačkog kroz zabavu, komunikaciju i timski rad. Program uključuje 20 sati nastave tjedno, a vodi ga tim iskusnih nastavnika i izvornih govornika koji učenje pretvaraju u nezaboravno iskustvo. Nastava se temelji na konverzaciji i stvarnim situacijama, uz pomoć interaktivnih igara, projekata i grupnih aktivnosti."
+    },
+    "programsLabel": "Istražite naše ostale programe:",
+    "juniorPrograms": "Junior Programi 7-12g",
+    "teenPrograms": "Teen Programi 12-17g"
+  },
+  "ItalianCamp": {
+    "hero": {
+      "badge": "Jezik i Kultura",
+      "title": "Kamp Talijanskog Jezika",
+      "subtitle": "Impara l'italiano con stile!",
+      "cta": "PRIJAVI SE"
+    },
+    "about": {
+      "title": "O Programu",
+      "desc": "U Ljetnom kampu talijanskog jezika u Euroclubu, djeca otkrivaju ljepotu talijanskog jezika i kulture kroz zabavne, interaktivne i dinamične lekcije na otvorenom. Program uključuje 20 sati nastave koju vode izvorni govornici i iskusni profesori talijanskog jezika, uz naglasak na konverzaciju i svakodnevnu komunikaciju. Učenje se odvija kroz igre, pjesme, scenske improvizacije i timske aktivnosti."
+    },
+    "programsLabel": "Istražite naše ostale programe:",
+    "juniorPrograms": "Junior Programi 7-12g",
+    "teenPrograms": "Teen Programi 12-17g"
+  },
+  "FrenchCamp": {
+    "hero": {
+      "badge": "Jezik i Kultura",
+      "title": "Ljetni Kamp Francuskog Jezika",
+      "subtitle": "Parlez français en été!",
+      "cta": "PRIJAVI SE"
+    },
+    "about": {
+      "title": "O Programu",
+      "desc": "Ljetni kamp francuskog jezika u Euroclubu pruža djeci i mladima priliku da uče i koriste francuski jezik kroz igru, glazbu i druženje u prekrasnom okruženju uz more. Program uključuje 20 sati nastave na otvorenom, s fokusom na govornu praksu i svakodnevne situacije. Kroz igre u parovima, grupne aktivnosti i zabavne radionice, polaznici uče francuski prirodno i s lakoćom."
+    },
+    "programsLabel": "Istražite naše ostale programe:",
+    "juniorPrograms": "Junior Programi 7-12g",
+    "teenPrograms": "Teen Programi 12-17g"
+  },
+  "CookieConsent": {
+    "title": "Cijenimo vašu privatnost",
+    "description": "Koristimo kolačiće za poboljšanje vašeg iskustva pregledavanja, pružanje personaliziranog sadržaja i analizu našeg prometa.",
+    "accept": "Prihvati",
+    "decline": "Odbij",
+    "settings": "Postavke kolačića",
+    "necessary": "Neophodni kolačići",
+    "necessaryDesc": "Potrebni za ispravno funkcioniranje web stranice",
+    "analytics": "Analitika",
+    "analyticsDesc": "Pomažu nam razumjeti kako posjetitelji koriste našu web stranicu",
+    "marketing": "Marketing",
+    "marketingDesc": "Koriste se za pružanje personaliziranih oglasa",
+    "saveSettings": "Spremi postavke",
+    "viewPreferences": "Prikaži postavke"
+  },
+  "ContactForm": {
+    "title": "Kontaktirajte nas",
+    "subtitle": "Imate pitanje? Rado bismo čuli od vas!",
+    "form": {
+      "name": "Vaše ime",
+      "email": "Email adresa",
+      "subject": "Predmet",
+      "message": "Poruka",
+      "submit": "Pošalji poruku"
+    },
+    "success": "Hvala! Vaša poruka je poslana.",
+    "error": "Nešto je pošlo po krivu. Molimo pokušajte ponovo.",
+    "info": {
+      "phone": "Telefon",
+      "email": "Email",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "NotFound": {
+    "title": "Stranica nije pronađena",
+    "subtitle": "Stranica koju tražite ne postoji ili je premještena.",
+    "button": "Idi na početnu stranicu"
+  }
+}

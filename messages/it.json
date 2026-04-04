@@ -1,0 +1,682 @@
+{
+  "Index": {
+    "title": "Benvenuti in Euroclub"
+  },
+  "Navbar": {
+    "about": "Chi Siamo",
+    "programs": "Programmi",
+    "junior": "Junior",
+    "teen": "Teen",
+    "prices": "Prezzi",
+    "bookNow": "Iscriviti",
+    "adventure": "Avventura",
+    "onama": "CHI SIAMO",
+    "whyEuroclub": "Perché Euroclub?",
+    "accommodation": "Alloggio e posizione",
+    "transfer": "Servizio transfer",
+    "dailySchedule": "Routine quotidiana",
+    "juniorAge": "Programma 7-12 anni",
+    "teenAge": "Programma 12-17 anni",
+    "premium": "Pacchetto premium"
+  },
+  "Footer": {
+    "description": "Campi estivi al mare per ricordi indimenticabili dal 1991.",
+    "contact": "Contatto",
+    "programs": "Programmi",
+    "campTypes": "Tipi di campo",
+    "programsList": "Programmi",
+    "information": "Informazioni",
+    "about": "Chi siamo",
+    "accommodation": "Alloggio",
+    "prices": "Prezzi",
+    "dailySchedule": "Routine quotidiana",
+    "terms": "Termini e condizioni",
+    "allRightsReserved": "Tutti i diritti riservati.",
+    "office": "Ufficio",
+    "mobile": "Cellulare",
+    "camp": "Campo",
+    "campAddress": "Indirizzo del campo",
+    "privacy": "Informativa sulla privacy",
+    "years": "anni"
+  },
+  "Home": {
+    "hero": {
+      "title": "Euroclub",
+      "subtitle": "Campo estivo internazionale di inglese",
+      "ageRange": "Per bambini e ragazzi dai 7 ai 18 anni",
+      "teachers": "Con madrelingua",
+      "levels": "Per tutti i livelli",
+      "juniorBtn": "JUNIOR",
+      "juniorAge": "programma 7-12 anni",
+      "teenBtn": "TEEN",
+      "teenAge": "programma 12-17 anni"
+    },
+    "unforgettable": {
+      "title": "Un'Estate che Ricorderai per Sempre!",
+      "desc": "Socializza, divertiti! Usa l'inglese, passa dei bei momenti, fai sport, fai nuove amicizie da diverse parti del mondo, balla alla Mega Pool Party e, naturalmente, goditi la spiaggia soleggiata – cos'altro ti serve per un'estate da sogno?"
+    },
+    "adventure": {
+      "title": "Mai Noioso – Sempre un'Avventura!",
+      "desc": "L'inglese è la nostra lingua ufficiale. Gli insegnanti sono MADRELINGUA. Il soggiorno ottimale è di 2 settimane o più, ma è possibile trascorrere da 1 a 8 settimane al campo. Scegli il tuo campo e programma come preferisci. Aggiungi giochi, quiz, sport e risate, e non perderti le mega-popolari Pool Party per gli Euroclubers. Vuoi ancora più azione, adrenalina e momenti indimenticabili? Allora il PACCHETTO AVVENTURA è stato creato proprio per te! Ti aspettano 15 escursioni e attività pazzesche che portano il divertimento a un livello completamente nuovo – rafting, go-kart, jet ski, immersioni subacquee, windsurf, parchi divertimento e molto altro! Preparati per esperienze turbo e ricordi che non saranno dimenticati!",
+      "btnJunior": "PROGRAMMI per 7-12 anni",
+      "btnTeen": "PROGRAMMI per 12-17 anni"
+    },
+    "story": {
+      "title": "Un Campo Estivo con una Storia Unica",
+      "desc": "Dal 1991, siamo stati una casa estiva per numerose generazioni di bambini e adolescenti. Qui sono nate amicizie, si sono apprese competenze, si sono fatte esperienze e si sono creati ricordi che i nostri campeggiatori portano con sé per tutta la vita. Scopri di più su di noi e la nostra storia!",
+      "btn": "CHI SIAMO"
+    },
+    "future": {
+      "title": "Il futuro inizia ora!",
+      "desc": "Il futuro inizia ora! Il campo estivo è l'inizio della tua avventura verso il futuro: sviluppa la tua indipendenza, autostima, capacità di pensiero critico, intelligenza emotiva, lavoro di squadra, problem solving creativo e alfabetizzazione digitale - competenze che saranno le più ricercate domani nel mondo dei lavori del futuro."
+    },
+    "parents": {
+      "label": "Per i genitori",
+      "title": "Perché i Genitori Scelgono Euroclub?",
+      "card1Title": "Esperienza e Fiducia",
+      "card1Desc": "Siamo l'unico resort esclusivamente per bambini e giovani sull'Adriatico. Situato a Brodarica vicino a Šibenik, nel cuore della Dalmazia, siamo un'oasi dove il tuo bambino è sicuro, attivo e felice. Tutto è all'interno del campo – dall'alloggio e le strutture sportive all'intrattenimento e alla spiaggia. Il nostro staff lavora a turni, mentre gli educatori vivono nel campo 24/7, sempre disponibili. Tutti gli organizzatori, animatori e leader sono educatori professionisti o studenti di pedagogia, e non si limitano a supervisionare – creano un'esperienza indimenticabile per ogni bambino.",
+      "card2Title": "Educazione e Crescita",
+      "card2Desc": "L'inglese è la nostra lingua ufficiale. Incoraggiamo l'indipendenza e l'intelligenza emotiva con un equilibrato bilanciamento digitale.",
+      "card3Title": "Alloggio e Divertimento",
+      "card3Desc": "Offriamo vere camere con bagni privati, un parco acquatico gratuito, una piscina, sport e i migliori party serali.",
+      "card3Footer": "Euroclub è un investimento per il futuro di tuo figlio."
+    },
+    "testimonials": {
+      "title": "Cosa Dicono i Genitori",
+      "items": [
+        {
+          "name": "Biba Mihelčić",
+          "text": "Mia nipote va all'Euroclub da 5 anni. Ogni volta torna con bei ricordi e molti nuovi amici. Non vede l'ora che arrivi il prossimo anno. So che il campo fa un ottimo lavoro con i bambini. Continuate così!",
+          "location": "Croazia",
+          "rating": 5
+        },
+        {
+          "name": "Neo Pifat",
+          "text": "Vado qui da sette anni, ogni anno è meraviglioso e gli animatori sono eccellenti. Ogni giorno è pianificato per non annoiarsi ma per divertirsi ed essere indimenticabile. Ho trovato le mie amicizie migliori e più vere all'Euroclub. L'Euroclub è diventato come una grande famiglia!❤️",
+          "location": "Croazia",
+          "rating": 5
+        },
+        {
+          "name": "Anja Malbaša",
+          "text": "La migliore esperienza di sempre. Mia figlia Rebeka è entusiasta e tornerà il prossimo anno per 2 settimane. Tutto è meraviglioso, dall'ambiente agli insegnanti. Lo più importante è fare amicizia e incontrare nuovi amici. 💘💖🩵",
+          "location": "Croazia",
+          "rating": 5
+        }
+      ]
+    }
+  },
+  "Programs": {
+    "junior": {
+      "hero": {
+        "title": "Programmi Junior 7-12 anni",
+        "subtitle": "Programmi diversi adattati per bambini da 7 a 12 anni"
+      },
+      "categories": {
+        "languages": "Apprendimento delle lingue",
+        "sports": "Sport",
+        "skills": "Competenze Future"
+      },
+      "programs": {
+        "oxford": {
+          "title": "Accademia di Inglese Oxford",
+          "desc": "Scegliere la lingua più importante del mondo per l'apprendimento estivo è un investimento sicuro per il futuro di tuo figlio.",
+          "cta": "Maggiori informazioni"
+        },
+        "croatian": {
+          "title": "Impara il Croato",
+          "desc": "Ideale per studenti stranieri per ottenere conoscenze di base e competenze conversazionali in croato.",
+          "cta": "Maggiori informazioni"
+        },
+        "german": {
+          "title": "Impara il Tedesco",
+          "desc": "Modo divertente per imparare il tedesco attraverso giochi e comunicazione.",
+          "cta": "Maggiori informazioni"
+        },
+        "italian": {
+          "title": "Impara l'Italiano",
+          "desc": "Apprendimento linguistico melodico per bambini.",
+          "cta": "Maggiori informazioni"
+        },
+        "french": {
+          "title": "Impara il Francese",
+          "desc": "Comunica in francese in un'atmosfera incoraggiante.",
+          "cta": "Maggiori informazioni"
+        },
+        "sports": {
+          "title": "Accademia dello Sport",
+          "desc": "Estate attiva per bambini sulla terra e sul mare.",
+          "cta": "Maggiori informazioni"
+        },
+        "digital": {
+          "title": "Accademia Digitale",
+          "desc": "Combinazione di creatività e tecnologia per i giovani.",
+          "cta": "Maggiori informazioni"
+        },
+        "challenger": {
+          "title": "Programma Challenger",
+          "desc": "Adrenalina e azione per giovani avventurieri.",
+          "cta": "Maggiori informazioni"
+        },
+        "arts": {
+          "title": "Arte e Glamour",
+          "desc": "Creatività, moda e danza per giovani ragazze.",
+          "cta": "Maggiori informazioni"
+        }
+      }
+    },
+    "teen": {
+      "hero": {
+        "title": "Programmi Teen 12-17 anni",
+        "subtitle": "Programmi stimolanti e creativi adattati per teenager"
+      },
+      "categories": {
+        "languages": "Apprendimento delle lingue",
+        "sports": "Sport",
+        "skills": "Competenze Future"
+      },
+      "programs": {
+        "oxford": {
+          "title": "Accademia di Inglese Oxford",
+          "desc": "Padreggia la lingua globale questa estate.",
+          "cta": "Maggiori informazioni"
+        },
+        "croatian": {
+          "title": "Impara il Croato",
+          "desc": "Specificamente progettato per teenager internazionali.",
+          "cta": "Maggiori informazioni"
+        },
+        "german": {
+          "title": "Impara il Tedesco",
+          "desc": "Migliora le tue competenze in tedesco in Croazia.",
+          "cta": "Maggiori informazioni"
+        },
+        "italian": {
+          "title": "Impara l'Italiano",
+          "desc": "Lingua italiana per studenti più grandi.",
+          "cta": "Maggiori informazioni"
+        },
+        "french": {
+          "title": "Impara il Francese",
+          "desc": "Parla francese con sicurezza.",
+          "cta": "Maggiori informazioni"
+        },
+        "sports": {
+          "title": "Accademia dello Sport",
+          "desc": "Campo sportivo ad alta energia.",
+          "cta": "Maggiori informazioni"
+        },
+        "digital": {
+          "title": "Accademia Digitale",
+          "desc": "Tecniche moderne e creazioni digitali.",
+          "cta": "Maggiori informazioni"
+        },
+        "challenger": {
+          "title": "Programma Challenger",
+          "desc": "L'avventura definitiva per teenager.",
+          "cta": "Maggiori informazioni"
+        },
+        "leadership": {
+          "title": "Leadership e Teen Business",
+          "desc": "Sviluppa competenze per la tua futura carriera.",
+          "cta": "Maggiori informazioni"
+        },
+        "animator": {
+          "title": "Junior Animatore",
+          "desc": "Impara come essere un leader e lavorare con i bambini.",
+          "cta": "Maggiori informazioni"
+        },
+        "arts": {
+          "title": "Arte e Glamour",
+          "desc": "Moda e arti creative per teenager.",
+          "cta": "Maggiori informazioni"
+        }
+      }
+    }
+  },
+  "About": {
+    "hero": {
+      "title": "Euroclub – campo estivo internazionale di lingua inglese per bambini e giovani",
+      "subtitle": "La nostra missione è assicurarti un'estate da ricordare!"
+    },
+    "stats": {
+      "students": "partecipanti, insegnanti e madrelingua",
+      "years": "estati divertenti – dal 1991",
+      "hours": "ore di workshop a scelta settimanali",
+      "resort": "resort esclusivamente per bambini e giovani"
+    },
+    "mission": {
+      "title": "Più che divertimento, più che apprendimento!",
+      "desc": "Siamo consapevoli che le conoscenze tradizionali non sono più sufficienti. Ecco perché con noi ottieni ciò di cui hai veramente bisogno: pensare criticamente, prendere decisioni autonome, sviluppare fiducia in te stesso ed empatia, e lavorare su una comunicazione efficace e sulla risoluzione dei problemi. E non c'è il tradizionale campanello scolastico – sei nella natura circondato da amici!"
+    },
+    "details": {
+      "workshops": {
+        "title": "Workshop",
+        "desc": "I workshop nel nostro campo coprono vari interessi – qui nascono futuri leader, atleti, poliglotti, artisti, ingegneri..."
+      },
+      "activities": {
+        "title": "Attività",
+        "desc": "Ogni momento è pianificato con attenzione. Escursioni, tornei, parco acquatico, talent show, quiz, giochi, competizioni... – scegli la tua avventura!"
+      },
+      "digital": {
+        "title": "Equilibrio Digitale",
+        "desc": "Siamo consapevoli che la Generazione Alpha vive la tecnologia. Quindi non la negheremo completamente, ma la limiteremo a favore di risate e socializzazione con gli amici. Utilizziamo i telefoni cellulari dopo pranzo per chattare con i genitori e in alcune attività divertenti e creative, e il resto del tempo sono al sicuro – e non ci mancano affatto!"
+      },
+      "location": {
+        "title": "Tutto in un unico posto",
+        "desc": "Il campo si trova separatamente dall'insediamento, ma ha tutte le strutture che saranno divertenti per te – oltre alla spiaggia con parco acquatico, abbiamo anche la nostra piscina! Questo significa che hai tutto ciò di cui hai bisogno all'interno del campo, ma il nostro personale esperto sarà sempre nelle vicinanze se hai bisogno di qualcosa. Organizzeranno anche passeggiate e visite al mercato locale per te."
+      }
+    }
+  },
+  "Prices": {
+    "title": "Date e Prezzi 2026",
+    "subtitle": "Investi in un'estate piena di conoscenza, avventura e nuove amicizie.",
+    "intro": "È possibile soggiornare nel campo da 1 a 8 settimane. La durata ottimale per attivare le conoscenze passive è minimo 2 settimane.",
+    "basic": {
+      "title": "Campo Estivo di Inglese",
+      "badge": "Pacchetto Base",
+      "desc": "Durata flessibile da 1 a 8 settimane",
+      "table": {
+        "date": "Data",
+        "full": "Pagamento unico",
+        "installments": "Rate",
+        "monthly": "10 | 6 Rate",
+        "data": [
+          {
+            "date": "14.06.",
+            "full": "770€",
+            "installments": "847€",
+            "monthly": "85€ | 141€"
+          },
+          {
+            "date": "21.06.",
+            "full": "770€",
+            "installments": "847€",
+            "monthly": "85€ | 141€"
+          },
+          {
+            "date": "28.06.",
+            "full": "830€",
+            "installments": "913€",
+            "monthly": "91€ | 152€"
+          },
+          {
+            "date": "05.07.",
+            "full": "880€",
+            "installments": "968€",
+            "monthly": "97€ | 161€"
+          },
+          {
+            "date": "12.07.",
+            "full": "880€",
+            "installments": "968€",
+            "monthly": "97€ | 161€"
+          }
+        ]
+      },
+      "includes": {
+        "title": "Il programma di 7 giorni include:",
+        "items": [
+          "Alloggio nel campo internazionale Euroclub",
+          "Camere a 4 letti con bagno privato e doccia",
+          "Pensione completa con 3 pasti al giorno",
+          "Corso intensivo di lingua (20 + 5 ore)",
+          "Materiale didattico e attrezzature",
+          "Uso gratuito della piscina e del parco acquatico",
+          "Animazione in inglese",
+          "Giochi e tornei",
+          "Spettacoli serali",
+          "Assistenza medica 24h",
+          "Assicurazione infortuni",
+          "IVA"
+        ]
+      }
+    },
+    "adventure": {
+      "title": "Pacchetto Avventura",
+      "badge": "Esperienza Premium",
+      "desc": "2-8 settimane di campo inglese arricchito con adrenalina e tour",
+      "table": {
+        "date": "Data",
+        "full": "Pagamento unico",
+        "installments": "Rate",
+        "monthly": "10 | 6 Rate",
+        "data": [
+          {
+            "date": "14.06. - 29.06.",
+            "full": "€ 2.230",
+            "installments": "€ 2.453",
+            "monthly": "€ 245 | € 409"
+          },
+          {
+            "date": "21.06. - 05.07.",
+            "full": "€ 2.290",
+            "installments": "€ 2.519",
+            "monthly": "€ 252 | € 420"
+          }
+        ]
+      },
+      "includes": {
+        "title": "L'avventura include anche:",
+        "items": [
+          "Parco avventura e zip line",
+          "Escursione in barca di una giornata al Parco Nazionale di Kornati",
+          "Torneo di tiro con l'arco",
+          "Rafting sul fiume Cetina",
+          "Visita al Parco Nazionale di Krka",
+          "Laser tag",
+          "Tube e jet ski",
+          "Fun Park Biograd"
+        ]
+      }
+    },
+    "discounts": {
+      "title": "Sconti e Vantaggi",
+      "desc": "Ricompensiamo la fedeltà e venire con la famiglia o gli amici.",
+      "loyalty": {
+        "title": "Sconto Fedeltà",
+        "items": [
+          {
+            "value": "15€",
+            "text": "a settimana per ogni anno trascorso con noi"
+          },
+          {
+            "value": "30€",
+            "text": "a settimana per la seconda e ogni settimana successiva"
+          }
+        ]
+      },
+      "family": {
+        "title": "Sconto Famiglia",
+        "items": [
+          {
+            "value": "15€",
+            "text": "a settimana per partecipante per i membri della stessa famiglia"
+          }
+        ]
+      }
+    }
+  },
+  "FAQ": {
+    "title": "Domande Frequenti",
+    "categories": [
+      {
+        "category": "Informazioni Generali",
+        "questions": [
+          {
+            "id": "faq-1",
+            "question": "Per quale età è adatto il campo?",
+            "answer": "Il campo è per bambini e giovani dai 7 ai 17 anni. Le attività sono adattate per tutti - sia per i più piccoli che per i più grandi."
+          },
+          {
+            "id": "faq-2",
+            "question": "Per chi non è adatto il campo?",
+            "answer": "Il campo non è per i GENITORI :). Preparateli bene perché sappiano cosa ci si aspetta da loro e chiedete loro di essere responsabili durante il campo: rispettate tutte le regole del campo, gli orari dei pasti e delle lezioni..."
+          }
+        ]
+      },
+      {
+        "category": "Programmi e Workshop",
+        "questions": [
+          {
+            "id": "faq-3",
+            "question": "Un campeggio può scegliere due o più workshop nella stessa settimana?",
+            "answer": "Scegliere più workshop nella stessa settimana non è possibile poiché tutti i workshop si svolgono contemporaneamente. Tuttavia, ogni settimana successiva potete scegliere un workshop diverso."
+          },
+          {
+            "id": "faq-5",
+            "question": "Quale programma scegliere in base all'età?",
+            "answer": "7 - 10 anni: Accademia di Inglese Oxford... 10 - 17 anni: Qualsiasi workshop... 12 - 17 anni: Inglese Avventura... 15 - 18 anni: Accademia Junior Animatore."
+          },
+          {
+            "id": "faq-6",
+            "question": "Un bambino può cambiare programma nel campo?",
+            "answer": "Se proprio non le si addice, il programma può essere cambiato durante i primi due giorni. Si prega di inviare le richieste a office@euroclub.hr."
+          },
+          {
+            "id": "faq-8",
+            "question": "Mio figlio imparerà l'inglese nel campo?",
+            "answer": "In sette giorni i bambini INIZIERANNO A USARE la lingua. Le conoscenze passive diventeranno attive in compagnia di insegnanti e amici internazionali."
+          },
+          {
+            "id": "faq-9",
+            "question": "La partecipazione alle lezioni è obbligatoria?",
+            "answer": "SÌ. LE LEZIONI SONO OBBLIGATORIE! Oltre a essere uno degli obiettivi del campo, utilizziamo la partecipazione alle lezioni per verificare la presenza dei bambini."
+          }
+        ]
+      },
+      {
+        "category": "Prenotazione e Pagamento",
+        "questions": [
+          {
+            "id": "faq-7",
+            "question": "Qual è il processo di prenotazione?",
+            "answer": "1. Compilare il modulo... 2. L'amministratore vi contatta... 3. Istruzioni di pagamento... 4. Lettera con informazioni sul campo... 5. Istruzioni di partenza/arrivo."
+          },
+          {
+            "id": "faq-14",
+            "question": "Cosa in caso di cancellazione?",
+            "answer": "È disponibile un'assicurazione di viaggio. Senza assicurazione, i rimborsi sono: fino a 60 giorni (85%), 59-21 giorni (50%), 20-8 giorni (30%), 7-0 giorni (0%)."
+          },
+          {
+            "id": "faq-15",
+            "question": "Il trasporto è incluso?",
+            "answer": "Il trasporto non è incluso. Organizziamo il trasporto CON ACCOMPAGNATORE dalle città più grandi per i gruppi."
+          }
+        ]
+      },
+      {
+        "category": "Soggiorno al Campo",
+        "questions": [
+          {
+            "id": "faq-4",
+            "question": "Qual è la durata ottimale del soggiorno?",
+            "answer": "Una settimana per bambini fino a 10 anni che non sono abituati a stare senza genitori; due o tre settimane per i bambini più grandi."
+          },
+          {
+            "id": "faq-10",
+            "question": "La partecipazione ai pasti è obbligatoria?",
+            "answer": "SÌ. Anche se non vogliono mangiare, i bambini sono tenuti a partecipare ai pasti affinché gli animatori possano monitorarli."
+          },
+          {
+            "id": "faq-11",
+            "question": "Com'è l'alloggio?",
+            "answer": "I partecipanti sono alloggiati in padiglioni nella colonia Luša vicino a Šibenik. Le camere hanno 3-4 letti, bagno privato e doccia."
+          },
+          {
+            "id": "faq-12",
+            "question": "Come è organizzato il funzionamento del campo?",
+            "answer": "Le regole devono essere rispettate. La nutrizione è self-service. I telefoni cellulari sono vietati durante le lezioni e i pasti."
+          },
+          {
+            "id": "faq-13",
+            "question": "Come contattare gli animatori nel campo?",
+            "answer": "Riceverete i dettagli di contatto disponibili dalle 10:30-12:00 ogni giorno, altri momenti SOLO PER EMERGENZE."
+          }
+        ]
+      },
+      {
+        "category": "Altro",
+        "questions": [
+          {
+            "id": "faq-16",
+            "question": "Invia una domanda aggiuntiva",
+            "answer": "Se avete domande aggiuntive, inviatele a office@euroclub.hr"
+          }
+        ]
+      }
+    ]
+  },
+  "Reservation": {
+    "title": "Prenota il tuo Posto",
+    "subtitle": "Completa il modulo sottostante per prenotare la tua avventura nel campo estivo.",
+    "form": {
+      "personal": "Informazioni Personali del Partecipante",
+      "firstName": "Nome",
+      "lastName": "Cognome",
+      "birthDate": "Data di Nascita",
+      "email": "Indirizzo Email",
+      "phone": "Numero di Telefono",
+      "program": "Scegli Programma",
+      "term": "Scegli Periodo",
+      "notes": "Note",
+      "submit": "Invia Prenotazione"
+    }
+  },
+  "WhyEuroclub": {
+    "hero": { "title": "Euroclub – campo estivo internazionale di lingua inglese per bambini e giovani", "subtitle": "La nostra missione è assicurarti un'estate da ricordare!" },
+    "stats": { "students": "partecipanti, insegnanti e madrelingua", "years": "estati divertenti – dal 1991", "hours": "ore di workshop a scelta settimanali", "resort": "resort esclusivamente per bambini e giovani" },
+    "mission": { "title": "Più che divertimento, più che apprendimento!", "desc": "Siamo consapevoli che le conoscenze tradizionali non sono più sufficienti. Ecco perché con noi ottieni ciò di cui hai veramente bisogno: pensare criticamente, prendere decisioni autonome, sviluppare fiducia in te stesso ed empatia, e lavorare su una comunicazione efficace e sulla risoluzione dei problemi. E non c'è il tradizionale campanello scolastico – sei nella natura circondato da amici!" },
+    "details": { "workshops": { "title": "Workshop", "desc": "I workshop nel nostro campo coprono vari interessi – qui nascono futuri leader, atleti, poliglotti, artisti, ingegneri..." }, "activities": { "title": "Attività", "desc": "Ogni momento è pianificato con attenzione. Escursioni, tornei, parco acquatico, talent show, quiz, giochi, competizioni... – scegli la tua avventura!" }, "digital": { "title": "Equilibrio Digitale", "desc": "Siamo consapevoli che la Generazione Alpha vive la tecnologia. Quindi non la negheremo completamente, ma la limiteremo a favore di risate e socializzazione con gli amici. Utilizziamo i telefoni cellulari dopo pranzo per chattare con i genitori e in alcune attività divertenti e creative, e il resto del tempo sono al sicuro – e non ci mancano affatto!" }, "location": { "title": "Tutto in un unico posto", "desc": "Il campo si trova separatamente dall'insediamento, ma ha tutte le strutture che saranno divertenti per te – oltre alla spiaggia con parco acquatico, abbiamo anche la nostra piscina! Questo significa che hai tutto ciò di cui hai bisogno all'interno del campo, ma il nostro personale esperto sarà sempre nelle vicinanze se hai bisogno di qualcosa." } },
+    "cta": { "title": "Studia i nostri programmi e scegli quello giusto per te!", "subtitle": "La mia età è:" }
+  },
+  "Accommodation": {
+    "hero": { "title": "Alloggio Euroclub" },
+    "intro": { "desc1": "I partecipanti sono ospitati in padiglioni all'ombra di pini secolari a Brodarica vicino a Sebenico. È l'unico resort di questo tipo sull'Adriatico che è esclusivamente al servizio di bambini e giovani.", "desc2": "In ogni padiglione, una stanza all'ingresso appartiene agli insegnanti/supervisori che si prendono cura di loro e ai quali possono rivolgersi per qualsiasi cosa 24 ore su 24.", "desc3": "Le camere hanno tre o quattro letti, il proprio bagno e doccia. L'insediamento ha la propria spiaggia e l'intera area è circondata da una fitta pineta. Diverse spiagge della città sono a circa dieci minuti a piedi.", "desc4": "Oltre a un ristorante per 200 bambini, l'insediamento dispone di spazi aperti e chiusi per le lezioni, una 'discoteca', una sala giochi, un 'cinema' all'aperto e un anfiteatro per intrattenimento e competizioni. Il resort dispone anche di una piscina adatta a tutte le età con lettini e ombrelloni di paglia." },
+    "safety": { "title": "#Sicuro", "desc1": "L'insediamento Euroclub è recintato e riservato esclusivamente ai bambini e ai loro accompagnatori, senza la presenza di altri ospiti. Non ci sono hotel o strutture turistiche ad alta frequenza nelle vicinanze. Il campo è sotto videosorveglianza.", "desc2": "Durante il soggiorno, tutti i partecipanti sono assicurati e la loro sicurezza è curata 24 ore su 24 dai loro insegnanti e animatori, guardie notturne e bagnini. Il pronto soccorso è nel campo e la clinica di guardia è a 5 minuti di auto dall'insediamento." },
+    "fun": { "title": "#Divertimento", "desc1": "Oltre al mare più pulito e alla spiaggia con un parco divertimenti marino, a loro disposizione ci sono un campo da calcio, basket, pallamano, bocce, campo da pallavolo o beach soccer, campo da basket, poligono avventura - poligono di tiro con fucile ad aria compressa e arco e frecce, e un parco marino con giochi in mare con piramide, percorso acquatico, altalena UFO e molti altri. Nell'anfiteatro all'aperto ogni sera organizziamo attraenti programmi notturni di giochi, danza, musica, nonché numerose competizioni sportive e creative.", "desc2": "Offriamo la possibilità di scegliere numerose escursioni per rendere la tua estate la migliore di sempre. Tra gli altri, spiccano Rafting, Karting, Jet Ski, Laser Tag, Parco adrenalinico, Dalmaland, PN Krka, PN Kornati, PP Telaščica, isola di Krapanj, tour di Zara e molte altre strutture." },
+    "location": { "title": "#Posizione", "desc": "Il Campo Estivo Euroclub si trova a Brodarica vicino a Sebenico. Il campo si trova in una pineta secolare con accesso alla propria spiaggia. Ci troviamo vicino a tutte le principali attrazioni di questa zona, come le città di Spalato, Sebenico, Vodice e Zara, PN Krka, PN Kornati e molte altre località e strutture (30-60 minuti di auto)." }
+  },
+  "DailySchedule": {
+    "hero": { "title": "Routine Giornaliera", "subtitle": "Programma delle attività durante la giornata al nostro campo estivo" },
+    "intro": { "desc1": "Anche se le mattine sono riservate allo studio, gli studenti troveranno comunque un'ora o due per partecipare ai nostri giochi baywatch sulla spiaggia, o semplicemente rilassarsi tra le lezioni.", "desc2": "Nel pomeriggio i nostri animatori organizzano una varietà di attività divertenti, tornei e competizioni, culminando con gli eventi sportivi eurogames dove gli studenti rappresentano e competono per la loro squadra in vari giochi.", "desc3": "Ogni sera, con tanta musica e danza, organizziamo feste e spettacoli in discoteca o sulla spiaggia. Due fortunati concorrenti diventeranno re o regina, miss o mister del campo. Abbiamo preparato nuoto notturno, un picnic sulla spiaggia, uno spettacolo di karaoke, festival cinematografico all'aperto e molto altro." },
+    "scheduleTitle": "Programma Giornaliero delle Attività",
+    "schedule": [
+      { "time": "08:00 - 08:30", "bgColor": "yellow", "borderColor": "yellow", "activities": "SVEGLIA / ZUMBA MATTUTINA / COLAZIONE" },
+      { "time": "09:00 - 10:30", "bgColor": "blue", "borderColor": "blue", "activities": "1ª LEZIONE" },
+      { "time": "10:30 - 12:00", "bgColor": "green", "borderColor": "green", "activities": "TEMPO LIBERO / NUOTO, GIOCHI SULLA SPIAGGIA E IN PISCINA" },
+      { "time": "12:00 - 13:15", "bgColor": "blue", "borderColor": "blue", "activities": "2ª LEZIONE" },
+      { "time": "13:30 - 15:00", "bgColor": "orange", "borderColor": "orange", "activities": "PRANZO / RIPOSO IN CAMERA" },
+      { "time": "15:00 - 15:45", "bgColor": "blue", "borderColor": "blue", "activities": "3ª LEZIONE / MERENDA" },
+      { "time": "16:00 - 19:00", "bgColor": "purple", "borderColor": "purple", "activities": "TEMPO LIBERO / SPORT, NUOTO, COMPETIZIONI, GIOCHI OLIMPICI" },
+      { "time": "19:30 - 20:00", "bgColor": "red", "borderColor": "red", "activities": "CENA" },
+      { "time": "21:00 - 22:45", "bgColor": "indigo", "borderColor": "indigo", "activities": "FESTA SERALE / programmi divertenti a tema - discoteca" },
+      { "time": "23:00 - 23:30", "bgColor": "gray", "borderColor": "gray", "activities": "BUONANOTTE / LUCI SPENTE AL CAMPO" }
+    ],
+    "cta": { "title": "Pronto per un'estate indimenticabile?", "subtitle": "Unisciti al nostro campo estivo e goditi attività che ti daranno nuove esperienze e amicizie per tutta la vita!", "button": "Vedi i prezzi e iscriviti" }
+  },
+  "AdventurePackage": {
+    "hero": { "title": "PACCHETTO AVVENTURA", "subtitle": "Più azione, più emozione, più di tutto!" },
+    "intro": { "desc1": "Se cerchi ancora più adrenalina, avventura e divertimento, scegli il PACCHETTO AVVENTURA – un'aggiunta al campo che trasforma la tua estate in una vera avventura!", "desc2": "È progettato per i campeggiatori che vogliono esperienze extra, sfide ed esplorazione, e puoi sceglierlo da 2 a 8 settimane di soggiorno – tutta l'avventura che desideri!", "desc3": "Più giorni significano più amici, più fiducia e – ancora più azione!" },
+    "gallery": { "title": "Le Nostre Gite Indimenticabili", "subtitle": "...e ulteriori attività!" },
+    "whyChoose": { "title": "Perché Scegliere il PACCHETTO AVVENTURA?", "items": [ { "icon": "⏱️", "title": "Più Tempo", "desc": "Almeno due settimane piene di esperienze e nuove amicizie." }, { "icon": "💪", "title": "Costruisce Coraggio", "desc": "Indipendenza e spirito di squadra attraverso ogni sfida." }, { "icon": "⚖️", "title": "Equilibrio Perfetto", "desc": "Tra vacanza attiva e apprendimento attraverso l'esperienza." }, { "icon": "🌟", "title": "Ideale per Avventurieri", "desc": "Per i bambini che vogliono esplorare, imparare e vivere la vita al massimo." } ] },
+    "cta": { "title": "Unisciti alla generazione che non aspetta l'avventura – la crea!", "subtitle": "👉 Prenota oggi il tuo posto nel PACCHETTO AVVENTURA e scopri quanto è emozionante la vita quando ogni giorno porta una nuova storia.", "button": "Prenota Ora" }
+  },
+  "SEO": {
+    "about": {
+      "title": "Chi Siamo - Euroclub | Più di 30 Anni di Tradizione",
+      "desc": "Scopri Euroclub - il campo estivo internazionale leader per bambini e giovani in Croazia. Scopri la nostra missione, il team di esperti e la tradizione."
+    },
+    "faq": {
+      "title": "Domande Frequenti - Euroclub",
+      "desc": "Trova risposte a tutte le tue domande sul campo Euroclub. Informazioni su alloggio, attività, sicurezza e altro ancora."
+    },
+    "prices": {
+      "title": "Prezzi e Date - Campo Estivo Euroclub",
+      "desc": "Visualizza prezzi, date disponibili e sconti per il campo estivo Euroclub. Prenota la tua estate dei sogni con le migliori condizioni."
+    },
+    "reservation": {
+      "title": "Prenotazione - Campo Estivo Euroclub",
+      "desc": "Assicura il tuo posto nel campo estivo più divertente. Prenotazione rapida e facile per i programmi Junior e Teen."
+    },
+    "junior": {
+      "title": "Campo Junior - Euroclub | Inglese per Bambini 7-12 Anni",
+      "desc": "Campo junior Euroclub per bambini dai 7 ai 12 anni - un inizio sicuro per imparare l'inglese attraverso il gioco, lo sport e il divertimento. Supervisione 24/7."
+    },
+    "teen": {
+      "title": "Campo Estivo Teen 13-17 - Euroclub | Campo Estivo per Adolescenti",
+      "desc": "Euroclub Teen Summer Camp - l'estate che cambia tutto! Inglese attraverso l'esperienza, amici da tutto il mondo e avventure indimenticabili."
+    }
+  },
+  "JuniorCamp": {
+    "title": "Campo Junior Euroclub",
+    "subtitle": "L'estate perfetta per tuo figlio!",
+    "description": "Cerchi un posto dove tuo figlio trascorrerà un'estate piena di divertimento, apprendimento e nuove esperienze?\n\nAll'Euroclub creiamo un'opportunità di crescita e un ambiente sicuro per acquisire competenze che gli beneficeranno per tutta la vita!",
+    "features": {
+      "english": {
+        "title": "Inglese attraverso il Gioco - Senza Stress!",
+        "nativeSpeakers": {
+          "title": "Lavora con Madrelingua:",
+          "desc": "Tuo figlio imparerà da madrelingua inglesi attraverso workshop interattivi. È un'opportunità unica per adottare una pronuncia autentica e acquisire sicurezza nella comunicazione!"
+        },
+        "playBased": "L'inglese non si impara dai libri - si impara attraverso il gioco, la conversazione e il lavoro di gruppo. I bambini acquisiscono la lingua mentre si divertono e partecipano a numerose attività."
+      },
+      "friendships": {
+        "title": "Nuove Amicizie e un Ricco Programma di Attività",
+        "international": {
+          "title": "Ambiente Internazionale:",
+          "desc": "I bambini incontrano e collaborano con coetanei da tutto il mondo ogni giorno. Attraverso giochi di gruppo, quiz e workshop creativi, i bambini si connettono e creano spontaneamente legami che trascendono i confini."
+        },
+        "confidence": {
+          "title": "Sicurezza e Indipendenza:",
+          "desc": "Tuo figlio torna a casa con una visione del mondo ampliata!"
+        }
+      },
+      "digitalBalance": {
+        "title": "Equilibrio Digitale: Sostituire gli Schermi con le Esperienze!",
+        "focus": {
+          "title": "Focus sui Momenti Reali:",
+          "desc": "I telefoni cellulari vengono utilizzati solo in momenti concordati. Meno tempo davanti allo schermo significa più risate, socializzazione e creazione di momenti indimenticabili."
+        },
+        "activities": {
+          "title": "Sport, Creatività e Face-to-Face:",
+          "desc": "Invece degli schermi, le giornate sono piene di giochi sportivi, workshop creativi e conversazioni."
+        }
+      },
+      "adventure": {
+        "title": "Pacchetto Avventura",
+        "desc": "Per i bambini che cercano ancora più eccitazione, c'è il pacchetto Avventura! Include escursioni aggiuntive, esplorazioni e avventure speciali che completano l'esperienza estiva. Tutto è già incluso nel prezzo e fornisce ricordi che durano a lungo.",
+        "safety": "Stai tranquillo: tuo figlio trascorre l'estate in modo qualitativo e significativo – imparando, socializzando e divertendosi in un ambiente sicuro e di supporto.",
+        "button": "Maggiori informazioni sul pacchetto avventura"
+      }
+    },
+    "cta": {
+      "title": "Tornare a casa più ricchi di conoscenze, esperienze e ricordi che dureranno per tutta la vita!",
+      "button": "Prenota Ora"
+    }
+  },
+  "TeenCamp": {
+    "title": "CAMPO ESTIVO TEEN EUROCLUB",
+    "subtitle": "L'estate che cambia tutto!",
+    "description": "Sai quando qualcuno ti dice che è stata la migliore estate di sempre? Ora è il tuo turno di esperirla - proprio qui all'Euroclub a Šibenik! Nessuna noia con un equipaggio da tutto il mondo e un programma ricco di azione che ti sorprende con qualcosa di nuovo ogni giorno!",
+    "features": {
+      "english": {
+        "title": "Inglese attraverso l'esperienza, non dai libri.",
+        "desc": "L'inglese non si impara dai libri - ma attraverso il gioco, la conversazione e il lavoro di gruppo. Gli adolescenti acquisiscono la lingua mentre si divertono e partecipano a numerose attività.",
+        "active": {
+          "title": "Inglese Attivo:",
+          "desc": "L'intero programma si svolge in inglese. Non sono lezioni scolastiche, ma acquisizione naturale della lingua attraverso conversazioni con coetanei e insegnanti madrelingua."
+        },
+        "nativeSpeakers": {
+          "title": "Madrelingua:",
+          "desc": "I nostri leader sono madrelingua inglesi, dandoti un'opportunità unica per adottare una pronuncia autentica e sicurezza nella comunicazione - tutto in un'atmosfera rilassata."
+        }
+      },
+      "friendships": {
+        "title": "Equipaggio da tutto il mondo e una dose giornaliera di adrenalina",
+        "lifeLong": {
+          "title": "Amicizie per la Vita",
+          "desc": "Incontrerai adolescenti da tutti gli angoli del mondo. Attraverso giochi di gruppo, sfide sportive e hangout serali, costruisci connessioni e amicizie che durano."
+        },
+        "action": {
+          "title": "Programma Pieno di Azione",
+          "desc": "Non c'è spazio per la noia qui. Ogni giorno è pieno di tornei sportivi, workshop creativi, quiz e nuove esperienze. Risate e sfide garantite."
+        }
+      },
+      "digitalBalance": {
+        "title": "Equilibrio Digitale Intelligente",
+        "desc1": "Capiamo la necessità di connessione, ma all'Euroclub crediamo nell'equilibrio. I telefoni sono disponibili per un massimo di 90 minuti al giorno - abbastanza per restare in contatto, ma non così tanto da perdere il vero divertimento!",
+        "desc2": "Questo ti dà la possibilità di incontrare davvero nuovi amici, far parte di un team e vivere il momento - senza la pressione costante dei social media."
+      },
+      "adventure": {
+        "title": "Pacchetto Avventura",
+        "desc": "Aggiungi ancora più azione! Rafting, jet-ski, immersioni subacquee, windsurf, go-kart e parchi divertimento - esperienze turbo che non dimenticherai!",
+        "button": "Maggiori informazioni sul pacchetto avventura"
+      }
+    },
+    "cta": {
+      "title": "Sei pronto per la migliore estate della tua vita?",
+      "subtitle": "Unisciti ad adolescenti da tutto il mondo e crea ricordi che dureranno per sempre!",
+      "button": "ISCRIVITI ORA"
+    }
+  }
+}

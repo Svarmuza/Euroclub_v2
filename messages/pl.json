@@ -1,0 +1,660 @@
+{
+  "Index": {
+    "title": "Witamy w Euroclub"
+  },
+  "Navbar": {
+    "about": "O Nas",
+    "programs": "Programy",
+    "junior": "Junior",
+    "teen": "Teen",
+    "prices": "Cennik",
+    "bookNow": "Zarezerwuj",
+    "adventure": "Przygoda"
+  },
+  "Footer": {
+    "description": "Obozy letnie nad morzem",
+    "contact": "Kontakt",
+    "links": "Przydatne linki",
+    "copyright": "Wszelkie prawa zastrzeżone."
+  },
+  "Home": {
+    "hero": {
+      "title": "Euroclub",
+      "subtitle": "Miedzynarodowy Oboz Jezyka Angielskiego",
+      "ageRange": "Dla dzieci i mlodziezy od 7 do 18 lat",
+      "teachers": "Z native speakerami",
+      "levels": "Dla wszystkich poziomow uwansowania",
+      "juniorBtn": "JUNIOR",
+      "juniorAge": "program 7-12 lat",
+      "teenBtn": "TEEN",
+      "teenAge": "program 12-17 lat"
+    },
+    "unforgettable": {
+      "title": "Lato, które zapamiętasz na zawsze!",
+      "desc": "Zawiązuj nowe przyjaźnie, baw się! Używaj angielskiego, świetnie się baw, uprawiaj sport, poznawaj nowych przyjaciół z różnych stron świata, tańcz na Mega Pool Party i oczywiście korzystaj ze słonecznej plaży – co jeszcze potrzebujesz do wymarzonego lata?"
+    },
+    "adventure": {
+      "title": "Nigdy Nudno – Zawsze Przygoda!",
+      "desc": "Angielski jest naszym oficjalnym językiem. Nauczyciele to NATYCHMIASTOWI MIŁOSZNICY. Optymalny pobyt to 2 tygodnie lub więcej, ale można spędzić w obozie od 1 do 8 tygodni. Wybierz swój obóz i program według życzenia. Dodaj gry, quizy, sport i śmiech oraz nie przegap mega popularnych Pool Parties dla Eurocluberów. Chcesz jeszcze więcej akcji, adrenaliny i niezapomnianych chwil? Wtedy PAKIET PRZYGODA został stworzony właśnie dla ciebie! Czeka na ciebie dodatkowe 15 szalonych wycieczek i aktywności, które podnoszą zabawę na zupełnie nowy poziom – rafting, go-kart, jet ski, nurkowanie, windsurfing, parki rozrywki i wiele więcej! Przygotuj się na turbo doświadczenia i wspomnienia, które nie zostaną zapomniane!",
+      "btnJunior": "PROGRAMY dla 7-12 lat",
+      "btnTeen": "PROGRAMY dla 12-17 lat"
+    },
+    "story": {
+      "title": "Obóz Letni z Wyjątkową Historią",
+      "desc": "Od 1991 roku jesteśmy domem letnim dla wielu pokoleń dzieci i młodzieży. Tutaj narodziły się przyjaźnie, nabyte umiejętności, zdobyte doświadczenia i stworzone wspomnienia, które nasi uczestnicy noszą przez całe życie. Dowiedz się więcej o nas i naszej historii!",
+      "btn": "O NAS"
+    },
+    "future": {
+      "title": "Przyszłość zaczyna się teraz!",
+      "desc": "Przyszłość zaczyna się teraz! Obóz letni to początek twojej przygody w przyszłość: rozwija twoją niezależność, pewność siebie, krytyczne myślenie, inteligencję emocjonalną, pracę zespołową, kreatywne rozwiązywanie problemów i umiejętności cyfrowe – umiejętności, które jutro będą najbardziej poszukiwane w świecie przyszłych zawodów."
+    },
+    "parents": {
+      "label": "Dla rodziców",
+      "title": "Dlaczego Rodzice Wybierają Euroclub?",
+      "card1Title": "Doświadczenie i Zaufanie",
+      "card1Desc": "Jesteśmy jedynym ośrodkiem wyłącznie dla dzieci i młodzieży na Adriatyku. Położeni w Brodaricy koło Šibenika, w sercu Dalmacji, jesteśmy oazą, gdzie twoje dziecko jest bezpieczne, aktywne i szczęśliwe. Wszystko znajduje się na terenie obozu – od zakwaterowania i obiektów sportowych po rozrywkę i plażę. Nasz personel pracuje zmianowo, a wychowawcy mieszkają w obozie 24/7, zawsze dostępni. Wszyscy organizatorzy, animatorzy i liderzy to profesjonalni pedagodzy lub studenci pedagogiki, i nie tylko nadzorują – tworzą niezapomniane doświadczenie dla każdego dziecka.",
+      "card2Title": "Edukacja i Rozwój",
+      "card2Desc": "Angielski jest naszym oficjalnym językiem. Wspieramy niezależność i inteligencję emocjonalną dzięki mądrej równowadze cyfrowej.",
+      "card3Title": "Zakwaterowanie i Zabawa",
+      "card3Desc": "Oferujemy prawdziwe pokoje z prywatnymi łazienkami, bezpłatny park wodny, basen, sport i najlepsze imprezy wieczorne.",
+      "card3Footer": "Euroclub to inwestycja w przyszłość twojego dziecka."
+    },
+    "testimonials": {
+      "title": "Co Mówią nasi Obozowicze",
+      "items": [
+        {
+          "name": "Biba Mihelčić",
+          "text": "Moja wnuczka chodzi do Euroclubu od 5 lat. Za każdym razem wraca z pięknymi wspomnieniami i wieloma nowymi przyjaciółmi. Nie może się doczekać następnego roku. Wiem, że obóz świetnie pracuje z dziećmi. Tak trzymajcie!",
+          "location": "Chorwacja",
+          "rating": 5
+        },
+        {
+          "name": "Neo Pifat",
+          "text": "Chodzę tu od siedmiu lat, każdy rok jest wspaniały, a animatorzy są doskonali. Każdy dzień jest zaplanowany, żeby nam nie było nudno, tylko wesoło i niezapomnianie. Znalazłem w Euroclubie moich najlepszych i najprawdziwszych przyjaciół. Euroclub stał się jak jedna wielka rodzina!❤️",
+          "location": "Chorwacja",
+          "rating": 5
+        },
+        {
+          "name": "Anja Malbaša",
+          "text": "Najlepsze doświadczenie w życiu. Moja córka Rebeka jest zachwycona i przyjeżdża na 2 tygodnie w przyszłym roku. Wszystko jest wspaniałe, od atmosfery po nauczycieli. Najważniejsze jest towarzystwo i poznawanie nowych przyjaciół. 💘💖🩵",
+          "location": "Chorwacja",
+          "rating": 5
+        }
+      ]
+    }
+  },
+  "Programs": {
+    "junior": {
+      "hero": {
+        "title": "Programy Junior 7-12 lat",
+        "subtitle": "Zróżnicowane programy dostosowane dla dzieci od 7 do 12 lat"
+      },
+      "categories": {
+        "languages": "Nauka języków",
+        "sports": "Sport",
+        "skills": "Umiejętności przyszłości"
+      },
+      "programs": {
+        "oxford": {
+          "title": "Akademia Angielska Oxford",
+          "desc": "Wybór najważniejszego języka na świecie do letniej nauki to bezpieczna inwestycja w przyszłość twojego dziecka.",
+          "cta": "Kliknij po więcej info"
+        },
+        "croatian": {
+          "title": "Naucz się Chorwackiego",
+          "desc": "Idealne dla zagranicznych studentów, aby uzyskać podstawową wiedzę i umiejętności konwersacyjne w języku chorwackim.",
+          "cta": "Kliknij po więcej info"
+        },
+        "german": {
+          "title": "Naucz się Niemieckiego",
+          "desc": "Zabawy sposób na naukę niemieckiego przez gry i komunikację.",
+          "cta": "Kliknij po więcej info"
+        },
+        "italian": {
+          "title": "Naucz się Włoskiego",
+          "desc": "Melodyjna nauka języka dla dzieci.",
+          "cta": "Kliknij po więcej info"
+        },
+        "french": {
+          "title": "Naucz się Francuskiego",
+          "desc": "Komunikuj się po francusku w zachęcającej atmosferze.",
+          "cta": "Kliknij po więcej info"
+        },
+        "sports": {
+          "title": "Akademia Sportowa",
+          "desc": "Aktywne lato dla dzieci na lądzie i morzu.",
+          "cta": "Kliknij po więcej info"
+        },
+        "digital": {
+          "title": "Akademia Cyfrowa",
+          "desc": "Łączenie kreatywności i technologii dla młodzieży.",
+          "cta": "Kliknij po więcej info"
+        },
+        "challenger": {
+          "title": "Program Challenger",
+          "desc": "Adrenalina i akcja dla młodych podróżników.",
+          "cta": "Kliknij po więcej info"
+        },
+        "arts": {
+          "title": "Sztuka i Glamour",
+          "desc": "Kreatywność, moda i taniec dla młodych dziewczyn.",
+          "cta": "Kliknij po więcej info"
+        }
+      }
+    },
+    "teen": {
+      "hero": {
+        "title": "Programy Teen 12-17 lat",
+        "subtitle": "Wymagające i kreatywne programy dostosowane dla nastolatków"
+      },
+      "categories": {
+        "languages": "Nauka języków",
+        "sports": "Sport",
+        "skills": "Umiejętności przyszłości"
+      },
+      "programs": {
+        "oxford": {
+          "title": "Akademia Angielska Oxford",
+          "desc": "Zostań mistrzem globalnego języka tego lata.",
+          "cta": "Kliknij po więcej info"
+        },
+        "croatian": {
+          "title": "Naucz się Chorwackiego",
+          "desc": "Sprecyzyjnie zaprojektowane dla międzynarodowych nastolatków.",
+          "cta": "Kliknij po więcej info"
+        },
+        "german": {
+          "title": "Naucz się Niemieckiego",
+          "desc": "Ulepsz swoje umiejętności niemieckiego w Chorwacji.",
+          "cta": "Kliknij po więcej info"
+        },
+        "italian": {
+          "title": "Naucz się Włoskiego",
+          "desc": "Język włoski dla starszych studentów.",
+          "cta": "Kliknij po więcej info"
+        },
+        "french": {
+          "title": "Naucz się Francuskiego",
+          "desc": "Mów po francusku z pewnością siebie.",
+          "cta": "Kliknij po więcej info"
+        },
+        "sports": {
+          "title": "Akademia Sportowa",
+          "desc": "Wysokoenergetyczny obóz sportowy.",
+          "cta": "Kliknij po więcej info"
+        },
+        "digital": {
+          "title": "Akademia Cyfrowa",
+          "desc": "Nowoczesne techniki i twórczość cyfrowa.",
+          "cta": "Kliknij po więcej info"
+        },
+        "challenger": {
+          "title": "Program Challenger",
+          "desc": "Ostateczna przygoda dla nastolatków.",
+          "cta": "Kliknij po więcej info"
+        },
+        "leadership": {
+          "title": "Przywództwo i Teen Business",
+          "desc": "Rozwijaj umiejętności na swoją przyszłą karierę.",
+          "cta": "Kliknij po więcej info"
+        },
+        "animator": {
+          "title": "Junior Animator",
+          "desc": "Naucz się być liderem i pracować z dziećmi.",
+          "cta": "Kliknij po więcej info"
+        },
+        "arts": {
+          "title": "Sztuka i Glamour",
+          "desc": "Moda i twórczość artystyczna dla nastolatków.",
+          "cta": "Kliknij po więcej info"
+        }
+      }
+    }
+  },
+  "About": {
+    "hero": {
+      "title": "Euroclub – międzynarodowy obóz letni języka angielskiego dla dzieci i młodzieży",
+      "subtitle": "Naszą misją jest zapewnienie Ci lata, które zapamiętasz!"
+    },
+    "stats": {
+      "students": "uczestników, nauczycieli i native speakerów",
+      "years": "zabawnych lat – od 1991 roku",
+      "hours": "godzin warsztatów do wyboru tygodniowo",
+      "resort": "ośrodek wyłącznie dla dzieci i młodzieży"
+    },
+    "mission": {
+      "title": "Więcej niż zabawa, więcej niż nauka!",
+      "desc": "Jesteśmy świadomi, że tradycyjna wiedza już nie wystarczy. Dlatego u nas otrzymujesz to, czego naprawdę potrzebujesz: myśl krytycznie, podejmuj samodzielne decyzje, rozwijaj pewność siebie i empatię oraz pracuj nad efektywną komunikacją i rozwiązywaniem problemów. A nie ma tradycyjnego szkolnego dzwonka – jesteś w naturze w otoczeniu przyjaciół!"
+    },
+    "details": {
+      "workshops": {
+        "title": "Warsztaty",
+        "desc": "Warsztaty w naszym obozie obejmują różne zainteresowania – to tutaj rodzą się przyszli liderzy, sportowcy, poligoci, artysci, inżynierowie..."
+      },
+      "activities": {
+        "title": "Aktywności",
+        "desc": "Każda chwila jest starannie zaplanowana. Wycieczki, turnieje, aquapark, pokazy talentów, quizy, gry, konkursy... – wybierasz swoją przygodę!"
+      },
+      "digital": {
+        "title": "Równowaga Cyfrowa",
+        "desc": "Jesteśmy świadomi, że Generacja Alfa żyje technologią. Więc nie będziemy jej całkowicie odmawiać, ale ograniczymy ją na rzecz śmiechu i towarzystwa przyjaciół. Używamy telefonów komórkowych po obiedzie do rozmów z rodzicami i w niektórych zabawnych i kreatywnych aktywnościach, a resztę czasu są bezpieczne – i wcale ich nie brakuje!"
+      },
+      "location": {
+        "title": "Wszystko w jednym miejscu",
+        "desc": "Obóz znajduje się oddzielnie od osiedla, a mimo to posiada wszystkie udogodnienia, które będą dla Ciebie zabawne – oprócz plaży z aquaparkom, mamy również własny basen! Oznacza to, że masz wszystko, czego potrzebujesz w obozie, ale nasz doświadczony personel zawsze będzie w pobliżu, jeśli będziesz czegokolwiek potrzebować. Zorganizują również dla Ciebie spacery i wizyty na lokalnym targu."
+      }
+    }
+  },
+  "Prices": {
+    "title": "Terminy i Ceny 2026",
+    "subtitle": "Zainwestuj w lato pełne wiedzy, przygód i nowych przyjaźni.",
+    "intro": "Możliwy jest pobyt w obozie od 1 do 8 tygodni. Optymalna długość do aktywacji wiedzy pasywnej to minimum 2 tygodnie.",
+    "basic": {
+      "title": "Angielski Obóz Letni",
+      "badge": "Pakiet Podstawowy",
+      "desc": "Elastyczny czas trwania od 1 do 8 tygodni",
+      "table": {
+        "date": "Data",
+        "full": "Jednorazowa płatność",
+        "installments": "Raty",
+        "monthly": "10 | 6 rat",
+        "data": [
+          {
+            "date": "14.06.",
+            "full": "770€",
+            "installments": "847€",
+            "monthly": "85€ | 141€"
+          },
+          {
+            "date": "21.06.",
+            "full": "770€",
+            "installments": "847€",
+            "monthly": "85€ | 141€"
+          },
+          {
+            "date": "28.06.",
+            "full": "830€",
+            "installments": "913€",
+            "monthly": "91€ | 152€"
+          },
+          {
+            "date": "05.07.",
+            "full": "880€",
+            "installments": "968€",
+            "monthly": "97€ | 161€"
+          },
+          {
+            "date": "12.07.",
+            "full": "880€",
+            "installments": "968€",
+            "monthly": "97€ | 161€"
+          }
+        ]
+      },
+      "includes": {
+        "title": "Program 7-dniowy zawiera:",
+        "items": [
+          "Zakwaterowanie w międzynarodowym obozie Euroclub",
+          "Pokoje 4-osobowe z prywatną łazienką i prysznicem",
+          "Pełne wyżywienie z 3 posiłkami dziennie",
+          "Intensywny kurs językowy (20 + 5 godzin)",
+          "Materiały edukacyjne i wyposażenie",
+          "Bezpłatne korzystanie z basenu i aquaparku",
+          "Animacja w języku angielskim",
+          "Gry i turnieje",
+          "Wieczorne spektakle",
+          "Opieka medyczna 24h",
+          "Ubezpieczenie od nieszczęśliwych wypadków",
+          "VAT"
+        ]
+      }
+    },
+    "adventure": {
+      "title": "Pakiet Przygoda",
+      "badge": "Doświadczenie Premium",
+      "desc": "2-8 tygodni angielskiego obozu wzbogaconego o adrenalynę i wycieczki",
+      "table": {
+        "date": "Data",
+        "full": "Jednorazowa płatność",
+        "installments": "Raty",
+        "monthly": "10 | 6 rat",
+        "data": [
+          {
+            "date": "14.06. - 29.06.",
+            "full": "€ 2.230",
+            "installments": "€ 2.453",
+            "monthly": "€ 245 | € 409"
+          },
+          {
+            "date": "21.06. - 05.07.",
+            "full": "€ 2.290",
+            "installments": "€ 2.519",
+            "monthly": "€ 252 | € 420"
+          }
+        ]
+      },
+      "includes": {
+        "title": "Przygoda zawiera dodatkowo:",
+        "items": [
+          "Park adrenaliny i linie zjazdowe",
+          "Całodniowa wycieczka łodzią do Parku Narodowego Kornati",
+          "Turniej łucznictwa",
+          "Rafting na rzece Cetina",
+          "Wizyta w Parku Narodowym Krka",
+          "Laser tag",
+          "Tube i jet ski",
+          "Fun Park Biograd"
+        ]
+      }
+    },
+    "discounts": {
+      "title": "Zniżki i Korzyści",
+      "desc": "Nagradzamy lojalność i przybycie z rodziną lub przyjaciółmi.",
+      "loyalty": {
+        "title": "Zniżka Lojalnościowa",
+        "items": [
+          {
+            "value": "15€",
+            "text": "tygodniowo za każdy rok spędzony z nami"
+          },
+          {
+            "value": "30€",
+            "text": "tygodniowo za drugi i każdy kolejny tydzień"
+          }
+        ]
+      },
+      "family": {
+        "title": "Zniżka Rodzinna",
+        "items": [
+          {
+            "value": "15€",
+            "text": "tygodniowo na uczestnika dla członków tej samej rodziny"
+          }
+        ]
+      }
+    }
+  },
+  "FAQ": {
+    "title": "Najczęściej Zadawane Pytania",
+    "categories": [
+      {
+        "category": "Informacje Ogólne",
+        "questions": [
+          {
+            "id": "faq-1",
+            "question": "Dla jakiego wieku obóz jest odpowiedni?",
+            "answer": "Oboz jest dla dzieci i młodzieży w wieku 7-17 lat. Aktywności są dostosowane dla wszystkich - zarówno dla najmłodszych, jak i dla starszych."
+          },
+          {
+            "id": "faq-2",
+            "question": "Dla kogo obóz nie jest odpowiedni?",
+            "answer": "Oboz nie jest dla RODZICÓW :). Przygotuj ich dobrze, żeby wiedzieli, czego się od nich oczekuje i poproś ich, żeby byli odpowiedzialni podczas obozu: szanuj wszystkie zasady obozu, godziny posiłków i zajęć..."
+          }
+        ]
+      },
+      {
+        "category": "Programy i Warsztaty",
+        "questions": [
+          {
+            "id": "faq-3",
+            "question": "Czy uczestnik może wybrać dwa lub więcej warsztatów w tym samym tygodniu?",
+            "answer": "Wybór wielu warsztatów w tym samym tygodniu nie jest możliwy, ponieważ wszystkie warsztaty odbywają się w tym samym czasie. Jednak w każdym następnym tygodniu możesz wybrać inny warsztat."
+          },
+          {
+            "id": "faq-5",
+            "question": "Jaki program wybrać w zależności od wieku?",
+            "answer": "7 - 10 lat: Akademia Angielska Oxford... 10 - 17 lat: Dowolny warsztat... 12 - 17 lat: Angielski Przygoda... 15 - 18 lat: Akademia Młodego Animatora."
+          },
+          {
+            "id": "faq-6",
+            "question": "Czy dziecko może zmienić program w obozie?",
+            "answer": "Jeśli naprawdę nie odpowiada, program można zmienić w ciągu pierwszych dwóch dni. Proszę wysyłać prośby na office@euroclub.hr."
+          },
+          {
+            "id": "faq-8",
+            "question": "Czy moje dziecko nauczy się angielskiego w obozie?",
+            "answer": "W siedem dni dzieci ZACZNĄ UŻYWAĆ języka. Wiedza pasywna stanie się aktywna w towarzystwie nauczycieli i międzynarodowych przyjaciół."
+          },
+          {
+            "id": "faq-9",
+            "question": "Czy uczestnictwo w zajęciach jest obowiązkowe?",
+            "answer": "TAK. ZAJĘCIA SĄ OBOWIĄZKOWE! Oprócz bycia jednym z celów obozu, używamy obecności na zajęciach do sprawdzania obecności dzieci."
+          }
+        ]
+      },
+      {
+        "category": "Rezerwacja i Płatność",
+        "questions": [
+          {
+            "id": "faq-7",
+            "question": "Jaki jest proces rezerwacji?",
+            "answer": "1. Wypełnij formularz... 2. Administrator się z tobą skontaktuje... 3. Instrukcje płatności... 4. List z informacjami o obozie... 5. Instrukcje wyjazdu/przyjazdu."
+          },
+          {
+            "id": "faq-14",
+            "question": "A co w przypadku anulacji?",
+            "answer": "Ubezpieczenie podróżne jest dostępne. Bez ubezpieczenia, zwroty są: do 60 dni (85%), 59-21 dni (50%), 20-8 dni (30%), 7-0 dni (0%)."
+          },
+          {
+            "id": "faq-15",
+            "question": "Czy transport jest wliczony?",
+            "answer": "Transport nie jest wliczony. Organizujemy transport Z OPIEKUNEM z większych miast dla grup."
+          }
+        ]
+      },
+      {
+        "category": "Pobyt w Obozie",
+        "questions": [
+          {
+            "id": "faq-4",
+            "question": "Jaki jest optymalny czas pobytu?",
+            "answer": "Jeden tydzień dla dzieci do 10 lat, które nie są przyzwyczajone do bycia bez rodziców; dwa do trzech tygodni dla starszych dzieci."
+          },
+          {
+            "id": "faq-10",
+            "question": "Czy obecność na posiłkach jest obowiązkowa?",
+            "answer": "TAK. Nawet jeśli nie chcą jeść, dzieci muszą uczestniczyć w posiłkach, żeby wychowawcy mogli je nadzorować."
+          },
+          {
+            "id": "faq-11",
+            "question": "Jakie jest zakwaterowanie?",
+            "answer": "Uczestnicy są zakwaterowani w pawilonach w osadzie Luša koło Šibenika. Pokoje mają 3-4 łóżka, prywatną toaletę i prysznic."
+          },
+          {
+            "id": "faq-12",
+            "question": "Jak zorganizowane jest funkcjonowanie obozu?",
+            "answer": "Zasady muszą być przestrzegane. Wyżywienie jest samoobsługowe. Telefony komórkowe są zabronione podczas zajęć i posiłków."
+          },
+          {
+            "id": "faq-13",
+            "question": "Jak skontaktować się z wychowawcami w obozie?",
+            "answer": "Otrzymasz dane kontaktowe dostępne od 10:30-12:00 każdego dnia, w innych porach TYLKO DLA AWARII."
+          }
+        ]
+      },
+      {
+        "category": "Inne",
+        "questions": [
+          {
+            "id": "faq-16",
+            "question": "Wyślij dodatkowe pytanie",
+            "answer": "Jeśli masz dodatkowe pytania, wyślij je na office@euroclub.hr"
+          }
+        ]
+      }
+    ]
+  },
+  "Reservation": {
+    "title": "Zarezerwuj Swoje Miejsce",
+    "subtitle": "Wypełnij poniższy formularz, aby zarezerwować przygodę w obozie letnim.",
+    "form": {
+      "personal": "Dane Osobowe Uczestnika",
+      "firstName": "Imię",
+      "lastName": "Nazwisko",
+      "birthDate": "Data Urodzenia",
+      "email": "Adres Email",
+      "phone": "Numer Telefonu",
+      "program": "Wybierz Program",
+      "term": "Wybierz Termin",
+      "notes": "Notatki",
+      "submit": "Wyślij Rezerwację"
+    }
+  },
+  "WhyEuroclub": {
+    "hero": { "title": "Euroclub – międzynarodowy obóz letni języka angielskiego dla dzieci i młodzieży", "subtitle": "Naszą misją jest zapewnienie Ci lata, które zapamiętasz!" },
+    "stats": { "students": "uczestników, nauczyciele i native speakerów", "years": "zabawnych lat – od 1991 roku", "hours": "godzin warsztatów do wyboru tygodniowo", "resort": "ośrodek wyłącznie dla dzieci i młodzieży" },
+    "mission": { "title": "Więcej niż zabawa, więcej niż nauka!", "desc": "Świadomi jesteśmy, że tradycyjna wiedza nie jest już wystarczająca. Dlatego u nas otrzymujesz to, czego naprawdę potrzebujesz: myślíš krytycznie, podejmujesz samodzielne decyzje, rozwijasz pewność siebie i empatię oraz pracujesz nad skuteczną komunikacją i rozwiązywaniem problemów. Nie ma tradycyjnego dzwonka szkolnego – jesteś w naturze, otoczony przyjaciółmi!" },
+    "details": { "workshops": { "title": "Warsztaty", "desc": "Warsztaty w naszym obozie obejmują różnorodne zainteresowania – tutaj rodzą się przyszli liderzy, sportowcy, poligloci, artyści, inżynierowie..." }, "activities": { "title": "Aktywności", "desc": "Każda chwila jest starannie zaplanowana. Wycieczki, turnieje, aquapark, pokazy talentów, quizy, gry, zawody... – ty wybierasz swoją przygodę!" }, "digital": { "title": "Równowaga Cyfrowa", "desc": "Świadomi jesteśmy, że Generacja Alpha żyje technologią. Dlatego nie odmówimy jej całkowicie, ale ograniczymy ją na rzecz śmiechu i socjalizacji z przyjaciółmi. Korzystamy z telefonów po obiedzie na czatowanie z rodzicami i w niektórych zabawnych i kreatywnych aktywnościach, a resztę czasu są bezpieczne – i w ogóle nam nie brakuje!" }, "location": { "title": "Wszystko w jednym miejscu", "desc": "Obóz znajduje się oddzielnie od osady, ale ma wszystkie udogodnienia, które Cię zainteresują – oprócz plaży z aquaparkiem mamy też własny basen! To oznacza, że masz wszystko, czego potrzebujesz, w obozie, ale nasi doświadczeni pracownicy są zawsze w pobliżu, jeśli czegoś potrzebujesz." } },
+    "cta": { "title": "Poznaj nasze programy i wybierz ten odpowiedni dla siebie!", "subtitle": "Mój wiek to:" }
+  },
+  "Accommodation": {
+    "hero": { "title": "Zakwaterowanie Euroclub" },
+    "intro": { "desc1": "Uczestnicy są zakwaterowani w pawilonach w cieniu stuletniej sosny w Brodaricy koło Szybenika. To jedyny ośrodek tego typu na Adriatyku, który jest wyłącznie w służbie dzieci i młodzieży.", "desc2": "W każdym pawilonie jeden pokój przy wejściu należy do nauczycieli/opiekunów, którzy się nimi opiekują i do których mogą się zwrócić o cokolwiek przez 24 godziny na dobę.", "desc3": "Pokoje mają trzy lub cztery łóżka, własną toaletę i prysznic. Osiedle posiada własną plażę, a cały teren otoczony jest gęstym lasem sosnowym. Kilka plaż w mieście znajduje się około dziesięciu minut spacerem.", "desc4": "Oprócz restauracji dla 200 dzieci, osiedle posiada otwarte i zamknięte przestrzenie do zajęć, 'dyskoteka', salę rozrywkową, zewnętrzne 'kino' i amfiteatr do rozrywki i konkursów. Ośrodek posiada również basen dostosowany dla wszystkich grup wiekowych z leżakami i słomianymi parasolami." },
+    "safety": { "title": "#Bezpiecznie", "desc1": "Osiedle Euroclub jest ogrodzone i zarezerwowane wyłącznie dla dzieci i ich opiekunów, bez obecności innych gości. W pobliżu nie ma hoteli ani obiektów turystycznych o dużym natężeniu ruchu. Obóz jest pod nadzorem wideo.", "desc2": "Podczas pobytu wszyscy uczestnicy są ubezpieczeni, a ich bezpieczeństwem 24 godziny na dobę zajmują się nauczyciele i animatorzy, nocni strażnicy i ratownicy plażowi. Pierwsza pomoc jest w obozie, a klinika dyżurna znajduje się 5 minut jazdy samochodem od osiedla." },
+    "fun": { "title": "#Zabawa", "desc1": "Oprócz najczystszego morza i plaży z morskim parkiem rozrywki do dyspozycji są boisko do piłki nożnej, koszykówki, piłki ręcznej, boiska do gry w bule, boisko do siatkówki lub piłki plażowej, boisko do koszykówki, park przygód - strzelnica z wiatrówką i łukiem i strzałkami oraz park morski z zabawkami w morzu z piramidą, ścieżką wodną, UFO huśtawką i wieloma innymi. Wieczorem w amfiteatrze organizujemy atrakcyjne programy nocne z grami, tańcem, muzyką oraz licznymi konkursami sportowymi i kreatywnymi.", "desc2": "Oferujemy możliwość wyboru licznych wycieczek, aby Twoje lato było najlepsze jak dotąd. Między innymi wyróżnia się Rafting, Karting, Jet Ski, Laser Tag, Park Adrenaliny, Dalmaland, NP Krka, NP Kornati, PP Telašćica, wyspa Krapanj, zwiedzanie Zadaru i wiele innych obiektów." },
+    "location": { "title": "#Lokalizacja", "desc": "Obóz letni Euroclub znajduje się w Brodaricy koło Szybenika. Obóz położony jest w stuletnim lesie sosnowym z dostępem do własnej plaży. Znajdujemy się w pobliżu wszystkich głównych atrakcji tego regionu, takich jak miasta Split, Szybenik, Vodice i Zadar, NP Krka, NP Kornati oraz wiele innych miejsc i obiektów (30-60 minut jazdy)." }
+  },
+  "DailySchedule": {
+    "hero": { "title": "Harmonogram Dnia", "subtitle": "Plan zajęć w ciągu dnia na naszym obozie letnim" },
+    "intro": { "desc1": "Choć poranki zarezerwowane są na naukę, uczniowie znajdą również godzinę lub dwie na udział w naszych grach typu 'baywatch' na plaży lub po prostu na relaks między lekcjami.", "desc2": "Po południu nasi animatorzy organizują różnorodne zabawne zajęcia, turnieje i konkursy, których kulminacją są wydarzenia sportowe Eurogames, gdzie uczniowie reprezentują swoje drużyny i rywalizują w różnych grach.", "desc3": "Każdego wieczoru, przy dużej ilości muzyki i tańca, organizujemy imprezy i spektakle w dyskotece lub na plaży. Dwoje szczęśliwych zawodników zostanie królem lub królową, miss lub misterem obozu. Przygotowaliśmy nocne pływanie, piknik na plaży, pokaz karaoke, festiwal filmowy pod gołym niebem i wiele więcej." },
+    "scheduleTitle": "Dzienny Plan Aktywności",
+    "schedule": [
+      { "time": "08:00 - 08:30", "bgColor": "yellow", "borderColor": "yellow", "activities": "POBUDKA / PORANNA ZUMBA / ŚNIADANIE" },
+      { "time": "09:00 - 10:30", "bgColor": "blue", "borderColor": "blue", "activities": "1. LEKCJA" },
+      { "time": "10:30 - 12:00", "bgColor": "green", "borderColor": "green", "activities": "SŁOBODNY CZAS / KĄPIEL, GRY NA PLAŻY I BASENIE" },
+      { "time": "12:00 - 13:15", "bgColor": "blue", "borderColor": "blue", "activities": "2. LEKCJA" },
+      { "time": "13:30 - 15:00", "bgColor": "orange", "borderColor": "orange", "activities": "OBIAD / ODPOČINEK W POKOJACH" },
+      { "time": "15:00 - 15:45", "bgColor": "blue", "borderColor": "blue", "activities": "3. LEKCJA / PRZEKĄSKA" },
+      { "time": "16:00 - 19:00", "bgColor": "purple", "borderColor": "purple", "activities": "SŁOBODNY CZAS / SPORT, KĄPIEL, KONKURSY, IGRZYSKA OLIMPIJSKIE" },
+      { "time": "19:30 - 20:00", "bgColor": "red", "borderColor": "red", "activities": "KOLACJA" },
+      { "time": "21:00 - 22:45", "bgColor": "indigo", "borderColor": "indigo", "activities": "IMPREZA Wieczorna / programy tematyczne - dyskotech" },
+      { "time": "23:00 - 23:30", "bgColor": "gray", "borderColor": "gray", "activities": "DOBRANOC / ZGAŚNIĘCIE ŚWIATEŁ" }
+    ],
+    "cta": { "title": "Gotowy na niezapomniane lato?", "subtitle": "Dołącz do naszego obozu letniego i korzystaj z zajęć, które zapewnią Ci nowe doświadczenia i przyjaźnie na całe życie!", "button": "Zobacz ceny i zapisz się" }
+  },
+  "AdventurePackage": {
+    "hero": { "title": "PAKIET PRzygoda", "subtitle": "Więcej akcji, więcej emocji, więcej wszystkiego!" },
+    "intro": { "desc1": "Jeśli szukasz jeszcze więcej adrenaliny, przygód i zabawy, wybierz PAKIET PRZYGODA – dodatek do obozu, który zamienia Twoje lato w prawdziwą przygodę!", "desc2": "Jest przeznaczony dla uczestników, którzy chcą dodatkowych doświadczeń, wyzwań i eksploracji, i możesz go wybrać na 2 do 8 tygodni pobytu – tyle przygody, ile chcesz!", "desc3": "Więcej dni oznacza więcej przyjaciół, więcej pewności siebie i – jeszcze więcej akcji!" },
+    "gallery": { "title": "Nasze Niezapomniane Wycieczki", "subtitle": "...i dodatkowe aktywności!" },
+    "whyChoose": { "title": "Dlaczego wybrać PAKIET PRZYGODA?", "items": [ { "icon": "⏱️", "title": "Więcej czasu", "desc": "Co najmniej dwa tygodnie pełne doświadczeń i nowych przyjaźni." }, { "icon": "💪", "title": "Buduje odwagę", "desc": "Niezależność i duch zespołowy przez każde wyzwanie." }, { "icon": "⚖️", "title": "Idealna równowaga", "desc": "Między aktywnym wypoczynkiem a nauką przez doświadczenie." }, { "icon": "🌟", "title": "Idealne dla eventurystów", "desc": "Dla dzieci, które chcą eksplorować, uczyć się i żyć pełnią życia." } ] },
+    "cta": { "title": "Dołącz do generacji, która nie czeka na przygodę – ona ją tworzy!", "subtitle": "👉 Zarezerwuj swoje miejsce w PAKIECIE PRZYGODA już dziś i odkryj, jak ekscytujące jest życie, gdy każdy dzień przynosi nową historię.", "button": "Zarezerwuj teraz" }
+  },
+  "SEO": {
+    "about": {
+      "title": "O nas - Euroclub | Ponad 30 Lat Tradycji",
+      "desc": "Poznaj Euroclub - wiodący międzynarodowy obóz letni dla dzieci i młodzieży w Chorwacji. Dowiedz się więcej o naszej misji, eksperckim zespole i tradycji."
+    },
+    "faq": {
+      "title": "Najczęściej Zadawane Pytania - Euroclub",
+      "desc": "Znajdź odpowiedzi na wszystkie pytania dotyczące obozu Euroclub. Informacje o zakwaterowaniu, aktywnościach, bezpieczeństwie i nie tylko."
+    },
+    "prices": {
+      "title": "Ceny i Terminy - Obóz Letni Euroclub",
+      "desc": "Zobacz ceny, dostępne terminy i zniżki na obóz letni Euroclub. Zarezerwuj swoje wymarzone lato w najlepszych warunkach."
+    },
+    "reservation": {
+      "title": "Rezerwacja - Obóz Letni Euroclub",
+      "desc": "Zabezpiecz swoje miejsce w najbardziej rozrywkowym obozie letnim. Szybka i łatwa rezerwacja dla programów Junior i Teen."
+    },
+    "junior": {
+      "title": "Obóz Junior - Euroclub | Angielski dla Dzieci 7-12 Lat",
+      "desc": "Obóz junior Euroclub dla dzieci w wieku 7-12 lat - bezpieczny start w nauce angielskiego przez zabawę, sport i frajdę. Opieka 24/7."
+    },
+    "teen": {
+      "title": "Obóz Letni Teen 13-17 - Euroclub | Obóz Letni dla Nastolatków",
+      "desc": "Euroclub Teen Summer Camp - lato, które zmienia wszystko! Angielski przez doświadczenie, przyjaciele z całego świata i niezapomniane przygody."
+    }
+  },
+  "JuniorCamp": {
+    "title": "Euroclub Obóz Junior",
+    "subtitle": "Idealne lato dla twojego dziecka!",
+    "description": "Szukasz miejsca, gdzie twoje dziecko spędzi lato pełne zabawy, nauki i nowych doświadczeń?\n\nW Euroclubie tworzymy możliwość wzrostu i bezpieczne środowisko do nabywania umiejętności, które będą mu służyć przez całe życie!",
+    "features": {
+      "english": {
+        "title": "Angielski przez Zabawę - Bez Stresu!",
+        "nativeSpeakers": {
+          "title": "Praca z Native Speakerami:",
+          "desc": "Twoje dziecko będzie się uczyć od native speakerów angielskiego poprzez interaktywne warsztaty. To wyjątkowa okazja, żeby przyjąć autentyczną wymowę i zyskać pewność w komunikacji!"
+        },
+        "playBased": "Angielski nie jest uczony z książek - jest uczony przez zabawę, rozmowę i pracę zespołową. Dzieci nabywają język, dobrze się bawiąc i uczestnicząc w licznych aktywnościach."
+      },
+      "friendships": {
+        "title": "Nowe Przyjaźnie i Bogaty Program Aktywności",
+        "international": {
+          "title": "Środowisko Międzynarodowe:",
+          "desc": "Dzieci spotykają się i współpracują z rówieśnikami z całego świata każdego dnia. Poprzez gry zespołowe, quizy i kreatywne warsztaty, dzieci się łączą i spontanicznie tworzą więzi, które przekraczają granice."
+        },
+        "confidence": {
+          "title": "Pewność Siebie i Niezależność:",
+          "desc": "Twoje dziecko wraca do domu z poszerzonym światopoglądem!"
+        }
+      },
+      "digitalBalance": {
+        "title": "Równowaga Cyfrowa: Zamiast Ekranów - Doświadczenia!",
+        "focus": {
+          "title": "Skup się na Rzeczywistych Chwilach:",
+          "desc": "Telefony komórkowe są używane tylko w uzgodnionych czasach. Mniej czasu przed ekranem oznacza więcej śmiechu, socjalizacji i tworzenia niezapomnianych chwil."
+        },
+        "activities": {
+          "title": "Sport, Kreatywność i Twarzą w Twarz:",
+          "desc": "Zamiast ekranów, dni są wypełnione grami sportowymi, kreatywnymi warsztatami i rozmowami."
+        }
+      },
+      "adventure": {
+        "title": "Pakiet Przygoda",
+        "desc": "Dla dzieci szukających jeszcze większych emocji, istnieje pakiet Przygoda! Zawiera dodatkowe wycieczki, eksploracje i specjalne przygody, które uzupełniają letnie doświadczenie. Wszystko jest już wliczone w cenę i zapewnia wspomnienia, które trwają długo.",
+        "safety": "Bądź spokojny: Twoje dziecko spędza lato jakościowo i sensownie - uczy się, socjalizuje się i bawi w bezpiecznym i wspierającym środowisku.",
+        "button": "Więcej o pakiecie Przygoda"
+      }
+    },
+    "cta": {
+      "title": "Wracaj do domu bogatsi w wiedzę, doświadczenie i wspomnienia, które przetrwają całe życie!",
+      "button": "Zarezerwuj Teraz"
+    }
+  },
+  "TeenCamp": {
+    "title": "OBÓZ LETNI EUROCLUB TEEN",
+    "subtitle": "Lato, które zmienia wszystko!",
+    "description": "Wiesz, kiedy ktoś ci mówi, że to było jego najlepsze lato? Teraz twoja kolej, żeby tego doświadczyć - tutaj w Euroclubie w Šibenik! Nie ma nudy z załogą z całego świata i planem pełnym akcji, który cię zaskakuje czymś nowym każdego dnia!",
+    "features": {
+      "english": {
+        "title": "Angielski przez doświadczenie, nie z książek.",
+        "desc": "Angielski nie jest uczony z książek - ale przez zabawę, rozmowę i pracę zespołową. Nastolatkowie nabywają język, dobrze się bawiąc i uczestnicząc w licznych aktywnościach.",
+        "active": {
+          "title": "Aktywny Angielski:",
+          "desc": "Cały program odbywa się w języku angielskim. To nie są lekcje szkolne, ale naturalne nabywanie języka poprzez rozmowę z rówieśnikami i nauczycielami native speakerami."
+        },
+        "nativeSpeakers": {
+          "title": "Native Speakerzy:",
+          "desc": "Nasi liderzy to native speakerzy angielskiego, dając ci wyjątkową okazję do przyjęcia autentycznej wymowy i pewności w komunikacji - wszystko w zrelaksowanej atmosferze."
+        }
+      },
+      "friendships": {
+        "title": "Załoga z całego świata i dzienna dawka adrenaliny",
+        "lifeLong": {
+          "title": "Przyjaźnie na Całe Życie",
+          "desc": "Spotkasz nastolatków z wszystkich stron świata. Poprzez gry zespołowe, wyzwania sportowe i wieczorne spotkania, budujesz więzi i przyjaźnie, które trwają."
+        },
+        "action": {
+          "title": "Plan Pełen Akcji",
+          "desc": "Nie ma tutaj miejsca na nudę. Każdy dzień jest wypełniony turniejami sportowymi, kreatywnymi warsztatami, quizami i nowymi doświadczeniami. Śmiech i wyzwania są gwarantowane."
+        }
+      },
+      "digitalBalance": {
+        "title": "Mądra Równowaga Cyfrowa",
+        "desc1": "Rozumiemy potrzebę łączności, ale w Euroclubie wierzymy w równowagę. Telefony są dostępne maksymalnie 90 minut dziennie - wystarczająco, żeby pozostać w kontakcie, ale nie na tyle dużo, żeby przegapić prawdziwą zabawę!",
+        "desc2": "To daje ci szansę naprawdę poznać nowych przyjaciół, być częścią zespołu i żyć chwilą - bez stałej presji mediów społecznościowych."
+      },
+      "adventure": {
+        "title": "Pakiet Przygoda",
+        "desc": "Dodaj jeszcze więcej akcji! Rafting, jet-ski, nurkowanie, windsurfing, go-karting i parki rozrywki - turbo doświadczenia, których nie zapomnisz!",
+        "button": "Więcej o pakiecie Przygoda"
+      }
+    },
+    "cta": {
+      "title": "Czy jesteś gotowy na najlepsze lato swojego życia?",
+      "subtitle": "Dołącz do nastolatków z całego świata i twórz wspomnienia, które przetrwają na zawsze!",
+      "button": "ZAREJESTRUJ SIĘ TERAZ"
+    }
+  }
+}
