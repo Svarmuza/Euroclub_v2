@@ -952,31 +952,15 @@
     "whyChoose": {
       "title": "Why Choose ADVENTURE PACKAGE?",
       "items": [
-        {
-          "icon": "⏱️",
-          "title": "More Time",
-          "desc": "At least two weeks full of experiences and new friendships."
-        },
-        {
-          "icon": "💪",
-          "title": "Builds Courage",
-          "desc": "Independence and team spirit through every challenge."
-        },
-        {
-          "icon": "⚖️",
-          "title": "Perfect Balance",
-          "desc": "Between active vacation and learning through experience."
-        },
-        {
-          "icon": "🌟",
-          "title": "Ideal for Adventurers",
-          "desc": "For children who want to explore, learn, and live life to the fullest."
-        }
+        { "icon": "⏱️", "title": "More Time", "desc": "At least two weeks full of experiences and new friendships." },
+        { "icon": "💪", "title": "Builds Courage", "desc": "Independence and team spirit through every challenge." },
+        { "icon": "⚖️", "title": "Perfect Balance", "desc": "Between active vacation and learning through experience." },
+        { "icon": "🌟", "title": "Ideal for Adventurers", "desc": "For children who want to explore, learn, and live life to the fullest." }
       ]
     },
     "cta": {
       "title": "Join the generation that doesn't wait for adventure – it creates it!",
-      "subtitle": "Reserve your spot in the ADVENTURE PACKAGE today and discover how exciting life is when every day brings a new story.",
+      "subtitle": "Reserve your spot in the ADVENTURE PACKAGE today and discover how exciting life is when every day brings a new unforgettable story.",
       "button": "Book Now"
     }
   },

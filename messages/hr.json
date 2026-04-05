@@ -1071,11 +1071,11 @@
   "AdventurePackage": {
     "hero": {
       "title": "ADVENTURE PAKET",
-      "subtitle": "Jer ljeto bez adrenalina nije pravo ljeto!"
+      "subtitle": "Više akcije, više uzbuđenja, više svega!"
     },
     "intro": {
-      "desc1": "Ako tražiš još više adrenalina, avanture i zabave, odaberi ADVENTURE PAKET – kampski dodatak koji tvoje ljeto pretvara u pravu avanturu!",
-      "desc2": "Namijenjen je polaznicima koji žele dodatna iskustva, izazove i istraživanje, a možeš ga odabrati za 2 do 8 tjedana boravka – koliko avantura želiš!",
+      "desc1": "Ako tražiš još više adrenalina, avanture i zabave, odaberi ADVENTURE PAKET – dodatak kampu koji tvoje ljeto pretvara u pravu pustolovinu!",
+      "desc2": "Namijenjen je kamperima koji žele dodatna iskuststva, izazove i istraživanja, a možeš ga odabrati za 2 do 8 tjedna boravka – koliko god avanture želiš!",
       "desc3": "Više dana znači više prijatelja, više samopouzdanja i – još više akcije!"
     },
     "gallery": {
@@ -1085,31 +1085,15 @@
     "whyChoose": {
       "title": "Zašto odabrati ADVENTURE PAKET?",
       "items": [
-        {
-          "icon": "⏱️",
-          "title": "Više vremena",
-          "desc": "Najmanje dva tjedna puna iskustava i novih prijateljstava."
-        },
-        {
-          "icon": "💪",
-          "title": "Razvija hrabrost",
-          "desc": "Samostalnost i timski duh kroz svaki izazov."
-        },
-        {
-          "icon": "⚖️",
-          "title": "Savršena ravnoteža",
-          "desc": "Između aktivnog odmora i učenja kroz iskustvo."
-        },
-        {
-          "icon": "🌟",
-          "title": "Idealno za avanturiste",
-          "desc": "Za djecu koja žele istraživati, učiti i živjeti punim plućima."
-        }
+        { "icon": "⏱️", "title": "Više vremena", "desc": "Najmanje dva tjedna puna iskustava i novih prijateljstava." },
+        { "icon": "💪", "title": "Razvija hrabrost", "desc": "Samostalnost i timski duh kroz svaki izazov." },
+        { "icon": "⚖️", "title": "Savršena ravnoteža", "desc": "Između aktivnog odmora i učenja kroz iskustvo." },
+        { "icon": "🌟", "title": "Idealno za avanturiste", "desc": "Za djecu koja žele istraživati, učiti i živjeti punim plućima." }
       ]
     },
     "cta": {
-      "title": "Pridruži se generaciji koja ne čeka avanturu – nego je stvara!",
-      "subtitle": "Rezerviraj svoje mjesto u ADVENTURE PAKETU danas i otkrij koliko je život uzbudljiv kad svaki dan donosi novu priču.",
+      "title": "Pridruži se generaciji koja ne čeka avanturu – ona ju stvara!",
+      "subtitle": "👉 Rezerviraj svoje mjesto u ADVENTURE PAKETU već danas i otkrij koliko je život uzbudljiv kad svaki dan donosi nezaboravnu priču.",
       "button": "Rezerviraj Sada"
     }
   },
