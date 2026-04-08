@@ -5,15 +5,14 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Link } from '@/i18n/routing';
 import { motion } from 'framer-motion';
 
-const StatCircle = ({ value, label, color }: { value: string | number, label: string, color: string }) => (
+const StatCircle = ({ value, label, colorClass }: { value: string | number, label: string, colorClass: string }) => (
     <div className="flex flex-col items-center">
         <div 
-            className="w-44 h-44 rounded-full border-[12px] flex items-center justify-center text-3xl font-black mb-6 shadow-lg"
-            style={{ borderColor: color, backgroundColor: 'white' }}
+            className={`w-44 h-44 rounded-full border-[12px] flex items-center justify-center text-3xl font-black mb-6 shadow-lg bg-white ${colorClass}`}
         >
-            <span className="text-gray-800">{value}</span>
+            <span className="text-foreground">{value}</span>
         </div>
-        <p className="text-sm font-bold text-gray-600 uppercase tracking-wider max-w-[160px] leading-tight px-2 text-center">{label}</p>
+        <p className="text-sm font-bold text-slate-600 uppercase tracking-wider max-w-[160px] leading-tight px-2 text-center">{label}</p>
     </div>
 );
 
@@ -21,10 +20,10 @@ export default function WhyEuroclubPage() {
     const t = useTranslations('WhyEuroclub');
 
     const stats = [
-        { value: "133k", label: t('stats.students'), color: "#FF6B6B" },
-        { value: "35", label: t('stats.years'), color: "#4ECDC4" },
-        { value: "20", label: t('stats.hours'), color: "#45B7D1" },
-        { value: "1", label: t('stats.resort'), color: "#96CEB4" },
+        { value: "133k", label: t('stats.students'), colorClass: "border-sea text-sea" },
+        { value: "35", label: t('stats.years'), colorClass: "border-sun text-sun" },
+        { value: "20", label: t('stats.hours'), colorClass: "border-sunset text-sunset" },
+        { value: "1", label: t('stats.resort'), colorClass: "border-pine text-pine" },
     ];
 
     const details = [
@@ -35,7 +34,7 @@ export default function WhyEuroclubPage() {
     ];
 
     return (
-        <div className="bg-white min-h-screen font-sans">
+        <div className="bg-white min-h-screen">
             {/* Hero Section */}
             <section
                 className="relative min-h-screen flex items-center justify-center overflow-hidden"
@@ -73,7 +72,7 @@ export default function WhyEuroclubPage() {
                         initial={{ opacity: 0 }}
                         whileInView={{ opacity: 1 }}
                         viewport={{ once: true }}
-                        className="text-2xl md:text-4xl font-black text-gray-800 mb-20 px-4 leading-tight max-w-5xl mx-auto"
+                        className="text-2xl md:text-4xl font-black text-foreground mb-20 px-4 leading-tight max-w-5xl mx-auto"
                     >
                         Engleski je naš službeni jezik. Veseli smo, zabavni, poučni i imamo pregršt programa, aktivnosti i izleta kojima se možeš priključiti!
                     </motion.h2>
@@ -112,10 +111,10 @@ export default function WhyEuroclubPage() {
                         viewport={{ once: true }}
                         className="bg-white/90 backdrop-blur-sm rounded-2xl p-8 md:p-12 shadow-2xl text-center"
                     >
-                        <h2 className="text-4xl md:text-5xl font-black text-gray-900 mb-8 leading-tight">
+                        <h2 className="text-4xl md:text-5xl font-black text-foreground mb-8 leading-tight">
                             {t('mission.title')}
                         </h2>
-                        <p className="text-lg md:text-xl text-gray-700 leading-relaxed font-medium">
+                        <p className="text-lg md:text-xl text-slate-700 leading-relaxed font-medium">
                             {t('mission.desc')}
                         </p>
                     </motion.div>
@@ -123,7 +122,7 @@ export default function WhyEuroclubPage() {
             </section>
 
             {/* Details Grid */}
-            <section className="py-16 bg-gray-50 px-4">
+            <section className="py-16 bg-slate-50 px-4">
                 <div className="max-w-6xl mx-auto">
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {details.slice(0, 3).map((item, i) => (
@@ -138,10 +137,10 @@ export default function WhyEuroclubPage() {
                                     <CardContent className="flex flex-col gap-6 p-0">
                                         <div className="text-6xl group-hover:scale-110 transition-transform duration-300">{item.icon}</div>
                                         <div>
-                                            <h3 className="text-2xl font-black text-gray-900 mb-4 tracking-tight">
+                                            <h3 className="text-2xl font-black text-foreground mb-4 tracking-tight">
                                                 {t(`details.${item.id}.title`)}
                                             </h3>
-                                            <p className="text-gray-700 leading-relaxed text-lg">
+                                            <p className="text-slate-700 leading-relaxed text-lg">
                                                 {t(`details.${item.id}.desc`)}
                                             </p>
                                         </div>
@@ -150,7 +149,7 @@ export default function WhyEuroclubPage() {
                             </motion.div>
                         ))}
                     </div>
-                    
+
                     {/* Location - full width */}
                     <motion.div
                         initial={{ opacity: 0, y: 20 }}
@@ -163,10 +162,10 @@ export default function WhyEuroclubPage() {
                             <CardContent className="flex flex-col md:flex-row gap-6 p-0 items-start">
                                 <div className="text-6xl group-hover:scale-110 transition-transform duration-300 shrink-0">{details[3].icon}</div>
                                 <div>
-                                    <h3 className="text-2xl font-black text-gray-900 mb-4 tracking-tight">
+                                    <h3 className="text-2xl font-black text-foreground mb-4 tracking-tight">
                                         {t(`details.${details[3].id}.title`)}
                                     </h3>
-                                    <p className="text-gray-700 leading-relaxed text-lg">
+                                    <p className="text-slate-700 leading-relaxed text-lg">
                                         {t(`details.${details[3].id}.desc`)}
                                     </p>
                                 </div>
@@ -177,7 +176,7 @@ export default function WhyEuroclubPage() {
             </section>
 
             {/* CTA Section */}
-            <section className="py-16 bg-blue-600 text-white px-4">
+            <section className="py-16 bg-sea text-white px-4">
                 <div className="max-w-4xl mx-auto text-center">
                     <h2 className="text-3xl md:text-4xl font-black mb-4">
                         {t('cta.title')}
@@ -190,14 +189,14 @@ export default function WhyEuroclubPage() {
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
                         <Link
                             href="/programs"
-                            className="bg-orange-500 hover:bg-orange-600 text-white font-black py-4 px-8 rounded-lg text-lg transition-all inline-block text-center"
+                            className="bg-sunset hover:bg-sunset-dark text-white font-black py-4 px-8 rounded-lg text-lg transition-all inline-block text-center"
                         >
                             7-12 GODINA
                         </Link>
 
                         <Link
                             href="/programs/teen"
-                            className="bg-orange-500 hover:bg-orange-600 text-white font-black py-4 px-8 rounded-lg text-lg transition-all inline-block text-center"
+                            className="bg-sunset hover:bg-sunset-dark text-white font-black py-4 px-8 rounded-lg text-lg transition-all inline-block text-center"
                         >
                             13-18 GODINA
                         </Link>

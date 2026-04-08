@@ -1013,5 +1013,57 @@
       "subtitle": "Join teenagers from all over the world and create memories that last forever!",
       "button": "REGISTER NOW"
     }
+  },
+  "CookieConsent": {
+    "title": "Spoštujemo vašo zasebnost",
+    "message": "Uporabljamo piškotke za izboljšanje vaše izkušnje brskanja, zagotavljanje prilagojene vsebine in analizo našega prometa.",
+    "acceptAll": "Sprejmi vse",
+    "decline": "Zavrni",
+    "manage": "Nastavitve piškotkov",
+    "subtitle": "Upravljajte svoje nastavitve piškotkov spodaj.",
+    "necessary": "Nujni piškotki",
+    "necessaryDesc": "Potrebni za pravilno delovanje spletne strani",
+    "analytics": "Analitika",
+    "analyticsDesc": "Nam pomagajo razumeti, kako obiskovalci uporabljamo našo spletno stran",
+    "marketing": "Marketing",
+    "marketingDesc": "Uporabljajo se za prikazovanje prilagojenih oglasov",
+    "save": "Shrani nastavitve",
+    "cancel": "Prekliči"
+  },
+  "ContactForm": {
+    "title": "Kontaktirajte nas",
+    "subtitle": "Imate vprašanje? Veseli bomo vašega sporočila!",
+    "name": "Vaše ime",
+    "namePlaceholder": "Vnesite svoje ime",
+    "email": "E-poštni naslov",
+    "emailPlaceholder": "Vnesite svojo e-pošto",
+    "phone": "Telefon",
+    "phonePlaceholder": "Vnesite svojo telefonsko številko",
+    "message": "Sporočilo",
+    "messagePlaceholder": "Napišite svoje sporočilo...",
+    "submit": "Pošlji sporočilo",
+    "sending": "Pošiljanje...",
+    "success": "Hvala! Vaše sporočilo je bilo poslano.",
+    "error": "Nekaj je šlo narobe. Poskusite znova.",
+    "required": "To polje je obvezno",
+    "invalidEmail": "Vnesite veljaven e-poštni naslov",
+    "orContact": "Ali nas kontaktirajte neposredno",
+    "form": {
+      "name": "Vaše ime",
+      "email": "E-poštni naslov",
+      "subject": "Zadeva",
+      "message": "Sporočilo",
+      "submit": "Pošlji sporočilo"
+    },
+    "info": {
+      "phone": "Telefon",
+      "email": "E-pošta",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "NotFound": {
+    "title": "Stran ni najdena",
+    "subtitle": "Stran, ki jo iščete, ne obstaja ali je bila premaknjena.",
+    "button": "Pojdi na domačo stran"
   }
 }

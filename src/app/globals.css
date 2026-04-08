@@ -1,18 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Montserrat+Alternates:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;800;900&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
+  /* Brand Color Palette */
   --background: #F8FAFC;
   --foreground: #0F172A;
+  
+  /* Primary - Sea Blue */
   --color-sea: #0EA5E9;
   --color-sea-dark: #0369A1;
+  
+  /* CTA/Accent - Sun Yellow */
   --color-sun: #FACC15;
+  --color-sun-dark: #EAB308;
+  
+  /* Secondary - Sunset Orange */
   --color-sunset: #FB923C;
+  --color-sunset-dark: #EA580C;
+  
+  /* Success - Pine Green */
   --color-pine: #22C55E;
   --color-pine-dark: #15803D;
+  
+  /* Logo Red - PRIJAVI SE CTA */
+  --color-logo-red: #DC2626;
+  --color-logo-red-dark: #B91C1C;
+  
+  /* Shadows */
   --shadow-modern: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --shadow-modern-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
@@ -20,11 +37,13 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-body, 'Lexend', sans-serif);
+  font-family: 'Rubik', sans-serif;
+  font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-heading, 'Montserrat Alternates', sans-serif);
+  font-family: 'Rubik', sans-serif;
+  font-weight: 900;
 }
 
 @layer components {
@@ -45,11 +64,11 @@ h1, h2, h3, h4, h5, h6 {
   }
   
   .modern-button-cta {
-    @apply bg-[var(--color-sun)] text-slate-900;
+    @apply bg-logo text-white;
   }
   
   .modern-button-cta:hover {
-    @apply bg-yellow-400;
+    @apply bg-logo-dark;
   }
   
   .glass-2d {

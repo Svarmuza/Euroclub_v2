@@ -78,7 +78,7 @@ export default function HomeGallery() {
     const currentSetImages = getCurrentSetImages();
 
     return (
-        <section className="py-20 overflow-hidden" style={{ backgroundColor: '#168CC4' }}>
+        <section className="py-20 overflow-hidden bg-sea">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 {isDesktop ? (
                     <div className="relative h-96 w-full overflow-hidden rounded-lg">

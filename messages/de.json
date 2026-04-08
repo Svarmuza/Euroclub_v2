@@ -678,5 +678,57 @@
       "subtitle": "Schließe dich Teenagern aus aller Welt an und schaffe Erinnerungen, die ein Leben lang halten!",
       "button": "JETZT ANMELDEN"
     }
+  },
+  "CookieConsent": {
+    "title": "Wir schätzen Ihre Privatsphäre",
+    "message": "Wir verwenden Cookies, um Ihr Surferlebnis zu verbessern, personalisierte Inhalte bereitzustellen und unseren Datenverkehr zu analysieren.",
+    "acceptAll": "Alle akzeptieren",
+    "decline": "Ablehnen",
+    "manage": "Cookie-Einstellungen",
+    "subtitle": "Verwalten Sie Ihre Cookie-Einstellungen unten.",
+    "necessary": "Notwendige Cookies",
+    "necessaryDesc": "Erforderlich für das ordnungsgemäße Funktionieren der Website",
+    "analytics": "Analytik",
+    "analyticsDesc": "Helfen uns zu verstehen, wie Besucher mit unserer Website interagieren",
+    "marketing": "Marketing",
+    "marketingDesc": "Werden verwendet, um personalisierte Werbung bereitzustellen",
+    "save": "Einstellungen speichern",
+    "cancel": "Abbrechen"
+  },
+  "ContactForm": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Haben Sie eine Frage? Wir freuen uns auf Ihre Nachricht!",
+    "name": "Ihr Name",
+    "namePlaceholder": "Geben Sie Ihren Namen ein",
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+    "phone": "Telefon",
+    "phonePlaceholder": "Geben Sie Ihre Telefonnummer ein",
+    "message": "Nachricht",
+    "messagePlaceholder": "Schreiben Sie Ihre Nachricht...",
+    "submit": "Nachricht senden",
+    "sending": "Wird gesendet...",
+    "success": "Vielen Dank! Ihre Nachricht wurde gesendet.",
+    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+    "required": "Dieses Feld ist erforderlich",
+    "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "orContact": "Oder kontaktieren Sie uns direkt",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Nachricht senden"
+    },
+    "info": {
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "NotFound": {
+    "title": "Seite nicht gefunden",
+    "subtitle": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "button": "Zur Startseite"
   }
 }

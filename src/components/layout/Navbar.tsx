@@ -137,7 +137,7 @@ export default function Navbar() {
                         {/* PRIJAVI SE */}
                         <button
                             onClick={() => setBookingModalOpen(true)}
-                            className="h-12 px-4 flex items-center text-sm font-bold uppercase tracking-wider text-white bg-gradient-to-r from-red-500 to-red-600 hover:from-red-600 hover:to-red-700 rounded-lg shadow-md hover:shadow-lg transition-all"
+                            className="h-12 px-4 flex items-center text-sm font-bold uppercase tracking-wider text-white bg-logo hover:bg-logo-dark rounded-lg shadow-md hover:shadow-lg transition-all"
                         >
                             {t('bookNow')}
                         </button>
@@ -145,7 +145,7 @@ export default function Navbar() {
 
                     {/* Right Side Controls */}
                     <div className="hidden md:flex items-center gap-4">
-                        <Button onClick={() => setBookingModalOpen(true)} className="border-2 border-red-500 text-red-500 bg-transparent px-6 py-2 rounded-md hover:bg-red-50 transition-colors font-medium text-base h-10">
+                        <Button onClick={() => setBookingModalOpen(true)} className="border-2 border-logo text-logo bg-transparent px-6 py-2 rounded-md hover:bg-logo/10 transition-colors font-medium text-base h-10">
                             {t('bookNow')}
                         </Button>
                     </div>
@@ -193,7 +193,7 @@ export default function Navbar() {
                                 {t('prices')}
                             </Link>
 
-                            <Button onClick={() => { setMobileMenuOpen(false); setBookingModalOpen(true); }} className="w-full py-3 text-lg font-bold uppercase tracking-wider text-white bg-gradient-to-r from-red-500 to-red-600 hover:from-red-600 hover:to-red-700 rounded-lg shadow-md hover:shadow-lg transition-all mt-2">
+                            <Button onClick={() => { setMobileMenuOpen(false); setBookingModalOpen(true); }} className="w-full py-3 text-lg font-bold uppercase tracking-wider text-white bg-logo hover:bg-logo-dark rounded-lg shadow-md hover:shadow-lg transition-all mt-2">
                                 {t('bookNow')}
                             </Button>
                         </div>

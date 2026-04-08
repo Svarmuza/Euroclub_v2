@@ -656,5 +656,57 @@
       "subtitle": "Dołącz do nastolatków z całego świata i twórz wspomnienia, które przetrwają na zawsze!",
       "button": "ZAREJESTRUJ SIĘ TERAZ"
     }
+  },
+  "CookieConsent": {
+    "title": "Szanujemy Twoją prywatność",
+    "message": "Używamy plików cookie, aby poprawić Twoje doświadczenie przeglądania, dostarczać spersonalizowane treści i analizować nasz ruch.",
+    "acceptAll": "Akceptuj wszystkie",
+    "decline": "Odrzuć",
+    "manage": "Ustawienia plików cookie",
+    "subtitle": "Zarządzaj preferencjami plików cookie poniżej.",
+    "necessary": "Niezbędne pliki cookie",
+    "necessaryDesc": "Wymagane do prawidłowego funkcjonowania strony",
+    "analytics": "Analityka",
+    "analyticsDesc": "Pomagają nam zrozumieć, jak odwiedzający korzystają z naszej strony",
+    "marketing": "Marketing",
+    "marketingDesc": "Służą do wyświetlania spersonalizowanych reklam",
+    "save": "Zapisz ustawienia",
+    "cancel": "Anuluj"
+  },
+  "ContactForm": {
+    "title": "Skontaktuj się z nami",
+    "subtitle": "Masz pytanie? Chętnie usłyszymy od Ciebie!",
+    "name": "Twoje imię",
+    "namePlaceholder": "Wpisz swoje imię",
+    "email": "Adres email",
+    "emailPlaceholder": "Wpisz swój email",
+    "phone": "Telefon",
+    "phonePlaceholder": "Wpisz swój numer telefonu",
+    "message": "Wiadomość",
+    "messagePlaceholder": "Napisz swoją wiadomość...",
+    "submit": "Wyślij wiadomość",
+    "sending": "Wysyłanie...",
+    "success": "Dziękujemy! Twoja wiadomość została wysłana.",
+    "error": "Coś poszło nie tak. Spróbuj ponownie.",
+    "required": "To pole jest wymagane",
+    "invalidEmail": "Podaj prawidłowy adres email",
+    "orContact": "Lub skontaktuj się z nami bezpośrednio",
+    "form": {
+      "name": "Twoje imię",
+      "email": "Adres email",
+      "subject": "Temat",
+      "message": "Wiadomość",
+      "submit": "Wyślij wiadomość"
+    },
+    "info": {
+      "phone": "Telefon",
+      "email": "Email",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "NotFound": {
+    "title": "Strona nie znaleziona",
+    "subtitle": "Strona, której szukasz, nie istnieje lub została przeniesiona.",
+    "button": "Przejdź na stronę główną"
   }
 }

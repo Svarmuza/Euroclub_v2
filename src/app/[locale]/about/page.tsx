@@ -9,12 +9,12 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     return await getLocalizedMetadata('about', locale);
 }
 
-const StatCircle = ({ value, label, color, suffix = "" }: { value: string | number, label: string, color: string, suffix?: string }) => (
+const StatCircle = ({ value, label, colorClass, suffix = "" }: { value: string | number, label: string, colorClass: string, suffix?: string }) => (
     <div className="flex flex-col items-center">
-        <div className={`w-40 h-40 rounded-full border-[12px] flex items-center justify-center text-2xl font-black mb-6 shadow-inset`} style={{ borderColor: color }}>
-            <span className="text-gray-800">{value}{suffix}</span>
+        <div className={`w-40 h-40 rounded-full border-[12px] flex items-center justify-center text-2xl font-black mb-6 shadow-inset ${colorClass}`}>
+            <span className="text-foreground">{value}{suffix}</span>
         </div>
-        <p className="text-sm font-bold text-gray-600 uppercase tracking-wider max-w-[160px] leading-tight px-2">{label}</p>
+        <p className="text-sm font-bold text-slate-600 uppercase tracking-wider max-w-[160px] leading-tight px-2">{label}</p>
     </div>
 );
 
@@ -23,10 +23,10 @@ export default function AboutPage() {
     const navT = useTranslations('Navbar');
 
     const stats = [
-        { value: "133k", label: t('stats.students'), color: "#FF6B6B" },
-        { value: "35", label: t('stats.years'), color: "#4ECDC4" },
-        { value: "20", label: t('stats.hours'), color: "#45B7D1" },
-        { value: "1", label: t('stats.resort'), color: "#96CEB4" },
+        { value: "133k", label: t('stats.students'), colorClass: "border-sea text-sea" },
+        { value: "35", label: t('stats.years'), colorClass: "border-sun text-sun" },
+        { value: "20", label: t('stats.hours'), colorClass: "border-sunset text-sunset" },
+        { value: "1", label: t('stats.resort'), colorClass: "border-pine text-pine" },
     ];
 
     const details = [
@@ -37,7 +37,7 @@ export default function AboutPage() {
     ];
 
     return (
-        <div className="bg-white min-h-screen font-sans">
+        <div className="bg-white min-h-screen">
             {/* Hero Section */}
             <section
                 className="relative min-h-[90vh] flex items-center justify-center overflow-hidden px-4"
@@ -61,7 +61,7 @@ export default function AboutPage() {
             {/* Statistics Section */}
             <section className="py-24 px-4 bg-white">
                 <div className="max-w-6xl mx-auto text-center">
-                    <h2 className="text-2xl md:text-4xl font-black text-gray-800 mb-20 px-4 leading-tight max-w-5xl mx-auto">
+                    <h2 className="text-2xl md:text-4xl font-black text-foreground mb-20 px-4 leading-tight max-w-5xl mx-auto">
                         {t('mission.title')}
                     </h2>
 
@@ -86,7 +86,7 @@ export default function AboutPage() {
                 <div className="absolute inset-0 bg-black/40"></div>
                 <div className="max-w-4xl mx-auto relative z-10">
                     <div className="bg-white/95 backdrop-blur-md rounded-3xl p-8 md:p-16 shadow-2xl text-center">
-                        <p className="text-lg md:text-2xl text-gray-800 leading-relaxed font-medium">
+                        <p className="text-lg md:text-2xl text-foreground leading-relaxed font-medium">
                             {t('mission.desc')}
                         </p>
                     </div>
@@ -94,17 +94,17 @@ export default function AboutPage() {
             </section>
 
             {/* Detailed Grid Details */}
-            <section className="py-24 px-4 bg-gray-50">
+            <section className="py-24 px-4 bg-slate-50">
                 <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
                     {details.map((item) => (
                         <Card key={item.id} className="p-10 hover:shadow-2xl transition-all duration-300 border-none bg-white rounded-3xl group">
                             <CardContent className="flex flex-col md:flex-row gap-8 p-0">
                                 <div className="text-6xl group-hover:scale-110 transition-transform duration-300 shrink-0">{item.icon}</div>
                                 <div>
-                                    <h3 className="text-2xl font-black text-gray-900 mb-4 tracking-tight">
+                                    <h3 className="text-2xl font-black text-foreground mb-4 tracking-tight">
                                         {t(`details.${item.id}.title`)}
                                     </h3>
-                                    <p className="text-gray-600 leading-relaxed text-lg">
+                                    <p className="text-slate-600 leading-relaxed text-lg">
                                         {t(`details.${item.id}.desc`)}
                                     </p>
                                 </div>
@@ -115,7 +115,7 @@ export default function AboutPage() {
             </section>
 
             {/* CTAs Section */}
-            <section className="py-20 bg-blue-600 text-white px-4">
+            <section className="py-20 bg-sea text-white px-4">
                 <div className="max-w-4xl mx-auto text-center">
                     <h2 className="text-3xl md:text-4xl font-black mb-12">
                         {t('mission.title')}
@@ -124,13 +124,13 @@ export default function AboutPage() {
                     <div className="flex flex-col sm:flex-row gap-6 justify-center">
                         <Link
                             href="/junior-camp"
-                            className="bg-orange-500 hover:bg-orange-600 text-white font-black py-5 px-10 rounded-2xl text-xl transition-all shadow-xl hover:-translate-y-1"
+                            className="bg-sunset hover:bg-sunset-dark text-white font-black py-5 px-10 rounded-2xl text-xl transition-all shadow-xl hover:-translate-y-1"
                         >
                             7-12 {t('hero.title').includes('Junior') ? 'YEARS' : 'GODINA'}
                         </Link>
                         <Link
                             href="/teen-camp"
-                            className="bg-orange-600 hover:bg-orange-700 text-white font-black py-5 px-10 rounded-2xl text-xl transition-all shadow-xl hover:-translate-y-1"
+                            className="bg-sunset hover:bg-sunset-dark text-white font-black py-5 px-10 rounded-2xl text-xl transition-all shadow-xl hover:-translate-y-1"
                         >
                             13-17 {t('hero.title').includes('Junior') ? 'YEARS' : 'GODINA'}
                         </Link>

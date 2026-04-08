@@ -678,5 +678,57 @@
       "subtitle": "Rejoignez des adolescents du monde entier et créez des souvenirs qui dureront forever !",
       "button": "S'INSCRIRE MAINTENANT"
     }
+  },
+  "CookieConsent": {
+    "title": "Nous respectons votre vie privée",
+    "message": "Nous utilisons des cookies pour améliorer votre expérience de navigation, diffuser du contenu personnalisé et analyser notre trafic.",
+    "acceptAll": "Tout accepter",
+    "decline": "Refuser",
+    "manage": "Paramètres des cookies",
+    "subtitle": "Gérez vos préférences de cookies ci-dessous.",
+    "necessary": "Cookies nécessaires",
+    "necessaryDesc": "Requis pour le bon fonctionnement du site Web",
+    "analytics": "Analytique",
+    "analyticsDesc": "Nous aident à comprendre comment les visiteurs interagissent avec notre site Web",
+    "marketing": "Marketing",
+    "marketingDesc": "Utilisés pour diffuser des publicités personnalisées",
+    "save": "Enregistrer les paramètres",
+    "cancel": "Annuler"
+  },
+  "ContactForm": {
+    "title": "Contactez-nous",
+    "subtitle": "Vous avez une question ? Nous serions ravis de vous entendre !",
+    "name": "Votre nom",
+    "namePlaceholder": "Entrez votre nom",
+    "email": "Adresse e-mail",
+    "emailPlaceholder": "Entrez votre e-mail",
+    "phone": "Téléphone",
+    "phonePlaceholder": "Entrez votre numéro de téléphone",
+    "message": "Message",
+    "messagePlaceholder": "Écrivez votre message...",
+    "submit": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Merci ! Votre message a été envoyé.",
+    "error": "Quelque chose s'est mal passé. Veuillez réessayer.",
+    "required": "Ce champ est obligatoire",
+    "invalidEmail": "Veuillez entrer une adresse e-mail valide",
+    "orContact": "Ou contactez-nous directement",
+    "form": {
+      "name": "Votre nom",
+      "email": "Adresse e-mail",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le message"
+    },
+    "info": {
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "NotFound": {
+    "title": "Page non trouvée",
+    "subtitle": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "button": "Aller à la page d'accueil"
   }
 }
