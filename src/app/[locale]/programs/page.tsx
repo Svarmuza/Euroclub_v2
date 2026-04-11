@@ -134,16 +134,13 @@ export default function ProgramsPage() {
     return (
         <main className="min-h-screen bg-white">
             {/* Hero Section */}
-            <section
-                className="py-20"
-                style={{ backgroundColor: '#D1F1FF' }}
-            >
+            <section className="py-20 bg-sea/10">
                 <div className="max-w-7xl mx-auto px-4">
                     <div className="text-center mb-16">
-                        <h1 className="text-4xl md:text-6xl font-bold mb-6 text-gray-800 leading-tight">
+                        <h1 className="text-4xl md:text-6xl font-bold mb-6 text-foreground leading-tight">
                             {t('junior.hero.title')}
                         </h1>
-                        <p className="text-xl text-gray-700 max-w-3xl mx-auto">
+                        <p className="text-xl text-slate-600 max-w-3xl mx-auto">
                             {t('junior.hero.subtitle')}
                         </p>
                     </div>
@@ -156,7 +153,7 @@ export default function ProgramsPage() {
                             return (
                                 <div key={categoryIndex} className="category-column">
                                     {/* Category Header */}
-                                    <h2 className="text-2xl font-bold mb-6 text-gray-800 text-center border-b-4 border-blue-500 pb-3">
+                                    <h2 className="text-2xl font-bold mb-6 text-foreground text-center border-b-4 border-sea pb-3">
                                         {category.name}
                                     </h2>
 
@@ -173,15 +170,15 @@ export default function ProgramsPage() {
                                                     {/* Card Header */}
                                                     <button
                                                         onClick={() => toggleCard(category.key, program.id)}
-                                                        className="w-full px-6 py-4 text-left bg-gradient-to-r from-blue-50 to-cyan-50 hover:from-blue-100 hover:to-cyan-100 transition-all duration-200 flex items-center justify-between"
+                                                        className="w-full px-6 py-4 text-left bg-sea/10 hover:bg-sea/20 transition-all duration-200 flex items-center justify-between"
                                                     >
-                                                        <h3 className="text-lg font-bold text-gray-800 leading-tight pr-4">
+                                                        <h3 className="text-lg font-bold text-foreground leading-tight pr-4">
                                                             {program.title}
                                                         </h3>
                                                         {isExpanded ? (
-                                                            <ChevronUp className="h-5 w-5 text-gray-600 flex-shrink-0" />
+                                                            <ChevronUp className="h-5 w-5 text-slate-600 flex-shrink-0" />
                                                         ) : (
-                                                            <ChevronDown className="h-5 w-5 text-gray-600 flex-shrink-0" />
+                                                            <ChevronDown className="h-5 w-5 text-slate-600 flex-shrink-0" />
                                                         )}
                                                     </button>
 
@@ -199,16 +196,16 @@ export default function ProgramsPage() {
                                                         )}
 
                                                         {/* Description */}
-                                                        <p className="text-gray-700 leading-relaxed mb-4">
+                                                        <p className="text-slate-700 leading-relaxed mb-4">
                                                             {program.desc}
                                                         </p>
 
                                                         {/* Link */}
                                                         {program.link && (
-                                                            <div className="pt-3 border-t border-gray-200">
+                                                            <div className="pt-3 border-t border-slate-200">
                                                                 <Link
                                                                     href={program.link}
-                                                                    className="text-blue-600 hover:text-blue-800 text-sm font-medium transition-colors duration-200 flex items-center gap-1"
+                                                                    className="text-sea hover:text-sea-dark text-sm font-medium transition-colors duration-200 flex items-center gap-1"
                                                                 >
                                                                     {program.cta}
                                                                     <span className="text-xs">›</span>
@@ -231,7 +228,7 @@ export default function ProgramsPage() {
             <section className="py-20 bg-gray-50">
                 <div className="max-w-7xl mx-auto px-4">
                     <div className="text-center mb-8">
-                        <h2 className="text-3xl md:text-4xl font-bold text-gray-800 leading-tight mb-4">
+                        <h2 className="text-3xl md:text-4xl font-bold text-foreground leading-tight mb-4">
                             Dostupnost programa po terminima
                         </h2>
                     </div>
@@ -240,19 +237,19 @@ export default function ProgramsPage() {
                         <div className="overflow-x-auto">
                             <table className="w-full">
                                 <thead>
-                                    <tr className="bg-blue-600 text-white">
-                                        <th className="px-6 py-5 text-left font-bold border-r border-blue-500 min-w-[200px]">Program</th>
+                                    <tr className="bg-sea text-white">
+                                        <th className="px-6 py-5 text-left font-bold border-r border-sea-dark min-w-[200px]">Program</th>
                                         {dates.map((date, idx) => (
-                                            <th key={idx} className="px-4 py-5 text-center font-semibold text-sm min-w-[70px] border-r border-blue-500 last:border-0">{date}</th>
+                                            <th key={idx} className="px-4 py-5 text-center font-semibold text-sm min-w-[70px] border-r border-sea-dark last:border-0">{date}</th>
                                         ))}
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr className="divide-x divide-gray-100">
-                                        <td className="px-6 py-6 font-bold text-blue-900 bg-blue-50/50">Oxford English Academy</td>
+                                    <tr className="divide-x divide-slate-100">
+                                        <td className="px-6 py-6 font-bold text-sea-dark bg-sea/10">Oxford English Academy</td>
                                         {dates.map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center mx-auto text-green-600">
+                                                <div className="w-6 h-6 bg-pine/20 rounded-full flex items-center justify-center mx-auto text-pine">
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                                                     </svg>
@@ -260,11 +257,11 @@ export default function ProgramsPage() {
                                             </td>
                                         ))}
                                     </tr>
-                                    <tr className="divide-x divide-gray-100 bg-gray-50">
-                                        <td className="px-6 py-6 font-bold text-blue-900">Learn Croatian</td>
+                                    <tr className="divide-x divide-slate-100 bg-slate-50">
+                                        <td className="px-6 py-6 font-bold text-sea-dark">Learn Croatian</td>
                                         {dates.slice(0, 8).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center mx-auto text-green-600">
+                                                <div className="w-6 h-6 bg-pine/20 rounded-full flex items-center justify-center mx-auto text-pine">
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                                                     </svg>
@@ -273,17 +270,17 @@ export default function ProgramsPage() {
                                         ))}
                                         {dates.slice(8).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-gray-200 rounded-full flex items-center justify-center mx-auto text-gray-400">
+                                                <div className="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center mx-auto text-slate-400">
                                                     <span className="text-xs">–</span>
                                                 </div>
                                             </td>
                                         ))}
                                     </tr>
-                                    <tr className="divide-x divide-gray-100">
-                                        <td className="px-6 py-6 font-bold text-blue-900 bg-blue-50/50">Learn German</td>
+                                    <tr className="divide-x divide-slate-100">
+                                        <td className="px-6 py-6 font-bold text-sea-dark bg-sea/10">Learn German</td>
                                         {dates.slice(0, 8).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center mx-auto text-green-600">
+                                                <div className="w-6 h-6 bg-pine/20 rounded-full flex items-center justify-center mx-auto text-pine">
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                                                     </svg>
@@ -292,17 +289,17 @@ export default function ProgramsPage() {
                                         ))}
                                         {dates.slice(8).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-gray-200 rounded-full flex items-center justify-center mx-auto text-gray-400">
+                                                <div className="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center mx-auto text-slate-400">
                                                     <span className="text-xs">–</span>
                                                 </div>
                                             </td>
                                         ))}
                                     </tr>
-                                    <tr className="divide-x divide-gray-100 bg-gray-50">
-                                        <td className="px-6 py-6 font-bold text-blue-900">Learn Italian</td>
+                                    <tr className="divide-x divide-slate-100 bg-slate-50">
+                                        <td className="px-6 py-6 font-bold text-sea-dark">Learn Italian</td>
                                         {dates.slice(0, 8).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center mx-auto text-green-600">
+                                                <div className="w-6 h-6 bg-pine/20 rounded-full flex items-center justify-center mx-auto text-pine">
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                                                     </svg>
@@ -311,17 +308,17 @@ export default function ProgramsPage() {
                                         ))}
                                         {dates.slice(8).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-gray-200 rounded-full flex items-center justify-center mx-auto text-gray-400">
+                                                <div className="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center mx-auto text-slate-400">
                                                     <span className="text-xs">–</span>
                                                 </div>
                                             </td>
                                         ))}
                                     </tr>
-                                    <tr className="divide-x divide-gray-100">
-                                        <td className="px-6 py-6 font-bold text-blue-900 bg-blue-50/50">Learn French</td>
+                                    <tr className="divide-x divide-slate-100">
+                                        <td className="px-6 py-6 font-bold text-sea-dark bg-sea/10">Learn French</td>
                                         {dates.slice(0, 8).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center mx-auto text-green-600">
+                                                <div className="w-6 h-6 bg-pine/20 rounded-full flex items-center justify-center mx-auto text-pine">
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                                                     </svg>
@@ -330,17 +327,17 @@ export default function ProgramsPage() {
                                         ))}
                                         {dates.slice(8).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-gray-200 rounded-full flex items-center justify-center mx-auto text-gray-400">
+                                                <div className="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center mx-auto text-slate-400">
                                                     <span className="text-xs">–</span>
                                                 </div>
                                             </td>
                                         ))}
                                     </tr>
-                                    <tr className="divide-x divide-gray-100 bg-gray-50">
-                                        <td className="px-6 py-6 font-bold text-blue-900">Sports Academy</td>
+                                    <tr className="divide-x divide-slate-100 bg-slate-50">
+                                        <td className="px-6 py-6 font-bold text-sea-dark">Sports Academy</td>
                                         {dates.map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center mx-auto text-green-600">
+                                                <div className="w-6 h-6 bg-pine/20 rounded-full flex items-center justify-center mx-auto text-pine">
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                                                     </svg>
@@ -348,11 +345,11 @@ export default function ProgramsPage() {
                                             </td>
                                         ))}
                                     </tr>
-                                    <tr className="divide-x divide-gray-100">
-                                        <td className="px-6 py-6 font-bold text-blue-900 bg-blue-50/50">Digital Academy</td>
+                                    <tr className="divide-x divide-slate-100">
+                                        <td className="px-6 py-6 font-bold text-sea-dark bg-sea/10">Digital Academy</td>
                                         {dates.map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center mx-auto text-green-600">
+                                                <div className="w-6 h-6 bg-pine/20 rounded-full flex items-center justify-center mx-auto text-pine">
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                                                     </svg>
@@ -360,18 +357,18 @@ export default function ProgramsPage() {
                                             </td>
                                         ))}
                                     </tr>
-                                    <tr className="divide-x divide-gray-100 bg-gray-50">
-                                        <td className="px-6 py-6 font-bold text-blue-900">Challenger program</td>
+                                    <tr className="divide-x divide-slate-100 bg-slate-50">
+                                        <td className="px-6 py-6 font-bold text-sea-dark">Challenger program</td>
                                         {dates.slice(0, 4).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-gray-200 rounded-full flex items-center justify-center mx-auto text-gray-400">
+                                                <div className="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center mx-auto text-slate-400">
                                                     <span className="text-xs">–</span>
                                                 </div>
                                             </td>
                                         ))}
                                         {dates.slice(4).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center mx-auto text-green-600">
+                                                <div className="w-6 h-6 bg-pine/20 rounded-full flex items-center justify-center mx-auto text-pine">
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                                                     </svg>
@@ -379,11 +376,11 @@ export default function ProgramsPage() {
                                             </td>
                                         ))}
                                     </tr>
-                                    <tr className="divide-x divide-gray-100">
-                                        <td className="px-6 py-6 font-bold text-blue-900 bg-blue-50/50">Arts & Glamour</td>
+                                    <tr className="divide-x divide-slate-100">
+                                        <td className="px-6 py-6 font-bold text-sea-dark bg-sea/10">Arts & Glamour</td>
                                         {dates.slice(0, 8).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center mx-auto text-green-600">
+                                                <div className="w-6 h-6 bg-pine/20 rounded-full flex items-center justify-center mx-auto text-pine">
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                                                     </svg>
@@ -392,7 +389,7 @@ export default function ProgramsPage() {
                                         ))}
                                         {dates.slice(8).map((_, idx) => (
                                             <td key={idx} className="px-4 py-6 text-center">
-                                                <div className="w-6 h-6 bg-gray-200 rounded-full flex items-center justify-center mx-auto text-gray-400">
+                                                <div className="w-6 h-6 bg-slate-200 rounded-full flex items-center justify-center mx-auto text-slate-400">
                                                     <span className="text-xs">–</span>
                                                 </div>
                                             </td>
@@ -404,10 +401,10 @@ export default function ProgramsPage() {
                     </div>
 
                     <div className="mt-8 mx-auto max-w-4xl text-center">
-                        <p className="text-gray-600 italic text-sm md:text-base leading-relaxed mb-4">
+                        <p className="text-slate-600 italic text-sm md:text-base leading-relaxed mb-4">
                             * Oxford English i Digital Academy su garantirani programi u svim terminima. Za ostale programe – minimalna grupa je 8. Za manje od 8 prijavljene djece za pojedini program u nekom terminu, zadržavamo pravo promjene istog – ponudit ćemo da se odabere neki od programa koji se organiziraju u tom terminu.
                         </p>
-                        <p className="text-gray-600 italic text-sm md:text-base leading-relaxed">
+                        <p className="text-slate-600 italic text-sm md:text-base leading-relaxed">
                             **Za grupe 8+ možemo organizirati bilo koji program u bilo kojem željenom terminu, ukoliko u kampu ima mjesta.
                         </p>
                     </div>

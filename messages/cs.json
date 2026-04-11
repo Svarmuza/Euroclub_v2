@@ -1013,5 +1013,57 @@
       "subtitle": "Join teenagers from all over the world and create memories that last forever!",
       "button": "REGISTER NOW"
     }
+  },
+  "CookieConsent": {
+    "title": "Vážíme si vašeho soukromí",
+    "message": "Používáme cookies ke zlepšení vašeho zážitku z prohlížení, poskytování personalizovaného obsahu a analýze našeho provozu.",
+    "acceptAll": "Přijmout vše",
+    "decline": "Odmítnout",
+    "manage": "Nastavení cookies",
+    "subtitle": "Spravujte své předvolby cookies níže.",
+    "necessary": "Nezbytné cookies",
+    "necessaryDesc": "Jsou vyžadovány pro správné fungování webu",
+    "analytics": "Analytika",
+    "analyticsDesc": "Pomáhají nám pochopit, jak návštěvníci používají náš web",
+    "marketing": "Marketing",
+    "marketingDesc": "Používají se k zobrazování personalizovaných reklam",
+    "save": "Uložit nastavení",
+    "cancel": "Zrušit"
+  },
+  "ContactForm": {
+    "title": "Kontaktujte nás",
+    "subtitle": "Máte otázku? Rádi se od vás dozvíme více!",
+    "name": "Vaše jméno",
+    "namePlaceholder": "Zadejte své jméno",
+    "email": "E-mailová adresa",
+    "emailPlaceholder": "Zadejte svůj e-mail",
+    "phone": "Telefon",
+    "phonePlaceholder": "Zadejte své telefonní číslo",
+    "message": "Zpráva",
+    "messagePlaceholder": "Napište svou zprávu...",
+    "submit": "Odeslat zprávu",
+    "sending": "Odesílání...",
+    "success": "Děkujeme! Vaše zpráva byla odeslána.",
+    "error": "Něco se pokazilo. Zkuste to prosím znovu.",
+    "required": "Toto pole je povinné",
+    "invalidEmail": "Zadejte prosím platnou e-mailovou adresu",
+    "orContact": "Nebo nás kontaktujte přímo",
+    "form": {
+      "name": "Vaše jméno",
+      "email": "E-mailová adresa",
+      "subject": "Předmět",
+      "message": "Zpráva",
+      "submit": "Odeslat zprávu"
+    },
+    "info": {
+      "phone": "Telefon",
+      "email": "E-mail",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "NotFound": {
+    "title": "Stránka nenalezena",
+    "subtitle": "Stránka, kterou hledáte, neexistuje nebo byla přesunuta.",
+    "button": "Přejít na domovskou stránku"
   }
 }

@@ -9,8 +9,7 @@ export default function HomeAdventure() {
 
     return (
         <section
-            className="py-24 px-6 text-center overflow-hidden"
-            style={{ backgroundColor: '#A3E3FF' }}
+            className="py-24 px-6 text-center overflow-hidden bg-sea/10"
         >
             <motion.div
                 initial={{ opacity: 0, y: 20 }}
@@ -23,7 +22,7 @@ export default function HomeAdventure() {
                     <motion.div
                         initial={{ opacity: 0, scale: 0.5 }}
                         whileInView={{ opacity: 1, scale: 1 }}
-                        className="inline-block px-4 py-1.5 rounded-full bg-emerald-100 text-emerald-700 text-sm font-bold tracking-widest uppercase mb-4"
+                        className="inline-block px-4 py-1.5 rounded-full bg-sun/20 text-sunset text-sm font-bold tracking-widest uppercase mb-4"
                     >
                         🔥 {t('hotTopic')}
                     </motion.div>

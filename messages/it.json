@@ -678,5 +678,57 @@
       "subtitle": "Unisciti ad adolescenti da tutto il mondo e crea ricordi che dureranno per sempre!",
       "button": "ISCRIVITI ORA"
     }
+  },
+  "CookieConsent": {
+    "title": "Rispettiamo la tua privacy",
+    "message": "Utilizziamo i cookie per migliorare la tua esperienza di navigazione, fornire contenuti personalizzati e analizzare il nostro traffico.",
+    "acceptAll": "Accetta tutti",
+    "decline": "Rifiuta",
+    "manage": "Impostazioni cookie",
+    "subtitle": "Gestisci le tue preferenze sui cookie qui sotto.",
+    "necessary": "Cookie necessari",
+    "necessaryDesc": "Necessari per il corretto funzionamento del sito web",
+    "analytics": "Analitica",
+    "analyticsDesc": "Ci aiutano a capire come i visitatori interagiscono con il nostro sito web",
+    "marketing": "Marketing",
+    "marketingDesc": "Utilizzati per fornire pubblicità personalizzate",
+    "save": "Salva impostazioni",
+    "cancel": "Annulla"
+  },
+  "ContactForm": {
+    "title": "Contattaci",
+    "subtitle": "Hai una domanda? Ci piacerebbe sentirti!",
+    "name": "Il tuo nome",
+    "namePlaceholder": "Inserisci il tuo nome",
+    "email": "Indirizzo email",
+    "emailPlaceholder": "Inserisci la tua email",
+    "phone": "Telefono",
+    "phonePlaceholder": "Inserisci il tuo numero di telefono",
+    "message": "Messaggio",
+    "messagePlaceholder": "Scrivi il tuo messaggio...",
+    "submit": "Invia messaggio",
+    "sending": "Invio in corso...",
+    "success": "Grazie! Il tuo messaggio è stato inviato.",
+    "error": "Qualcosa è andato storto. Riprova.",
+    "required": "Questo campo è obbligatorio",
+    "invalidEmail": "Inserisci un indirizzo email valido",
+    "orContact": "Oppure contattaci direttamente",
+    "form": {
+      "name": "Il tuo nome",
+      "email": "Indirizzo email",
+      "subject": "Oggetto",
+      "message": "Messaggio",
+      "submit": "Invia messaggio"
+    },
+    "info": {
+      "phone": "Telefono",
+      "email": "Email",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "NotFound": {
+    "title": "Pagina non trovata",
+    "subtitle": "La pagina che stai cercando non esiste o è stata spostata.",
+    "button": "Vai alla homepage"
   }
 }

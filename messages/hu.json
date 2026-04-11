@@ -745,5 +745,57 @@
       "subtitle": "👉 Foglalja le helyét a KALANDCSOMAGBAN még ma, és fedezze fel, milyen izgalmas az élet, ha minden nap új történetet hoz.",
       "button": "Foglaljon most"
     }
+  },
+  "CookieConsent": {
+    "title": "Tiszteljük a magánszféráját",
+    "message": "Sütiket használunk a böngészési élmény javítása, személyre szabott tartalom nyújtása és a forgalom elemzése érdekében.",
+    "acceptAll": "Összes elfogadása",
+    "decline": "Elutasítás",
+    "manage": "Süti beállítások",
+    "subtitle": "Kezelje süti beállításait alább.",
+    "necessary": "Szükséges sütik",
+    "necessaryDesc": "A weboldal megfelelő működéséhez szükségesek",
+    "analytics": "Analitika",
+    "analyticsDesc": "Segítenek megérteni, hogyan használják a látogatók a weboldalunkat",
+    "marketing": "Marketing",
+    "marketingDesc": "Személyre szabott hirdetések megjelenítésére szolgálnak",
+    "save": "Beállítások mentése",
+    "cancel": "Mégse"
+  },
+  "ContactForm": {
+    "title": "Vegye fel velünk a kapcsolatot",
+    "subtitle": "Kérdése van? Örömmel hallunk Ön felől!",
+    "name": "Az Ön neve",
+    "namePlaceholder": "Írja be a nevét",
+    "email": "E-mail cím",
+    "emailPlaceholder": "Írja be az e-mail címét",
+    "phone": "Telefon",
+    "phonePlaceholder": "Írja be a telefonszámát",
+    "message": "Üzenet",
+    "messagePlaceholder": "Írja meg az üzenetét...",
+    "submit": "Üzenet küldése",
+    "sending": "Küldés folyamatban...",
+    "success": "Köszönjük! Az üzenetét elküldtük.",
+    "error": "Valami hiba történt. Kérjük, próbálja újra.",
+    "required": "Ez a mező kötelező",
+    "invalidEmail": "Kérjük, adjon meg érvényes e-mail címet",
+    "orContact": "Vagy vegye fel velünk a kapcsolatot közvetlenül",
+    "form": {
+      "name": "Az Ön neve",
+      "email": "E-mail cím",
+      "subject": "Tárgy",
+      "message": "Üzenet",
+      "submit": "Üzenet küldése"
+    },
+    "info": {
+      "phone": "Telefon",
+      "email": "E-mail",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "NotFound": {
+    "title": "Az oldal nem található",
+    "subtitle": "A keresett oldal nem létezik vagy áthelyezésre került.",
+    "button": "Ugrás a kezdőlapra"
   }
 }
