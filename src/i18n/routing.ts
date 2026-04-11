@@ -293,6 +293,18 @@ export const routing = defineRouting({
             cs: '/francouzsky-tabor',
             hu: '/francia-tabor',
             ru: '/lager-frantsuzskogo-yazyka'
+        },
+        '/teen-camp-v2': {
+            hr: '/teen-camp-v2',
+            en: '/teen-camp-v2',
+            de: '/teen-camp-v2',
+            fr: '/teen-camp-v2',
+            it: '/teen-camp-v2',
+            sl: '/teen-camp-v2',
+            pl: '/teen-camp-v2',
+            cs: '/teen-camp-v2',
+            hu: '/teen-camp-v2',
+            ru: '/teen-camp-v2'
         }
     }
 });
