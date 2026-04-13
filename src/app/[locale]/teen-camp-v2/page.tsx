@@ -53,7 +53,8 @@ function AnimatedCounter({ value, suffix }: { value: number; suffix: string }) {
 }
 
 function GallerySection() {
-    const t = useTranslations('TeenCamp.gallery');
+    const tGallery = useTranslations('TeenCamp.gallery');
+    const t = useTranslations('TeenCamp');
     const [lightboxOpen, setLightboxOpen] = useState(false);
     const [currentIndex, setCurrentIndex] = useState(0);
 
@@ -94,10 +95,10 @@ function GallerySection() {
                         viewport={{ once: true }}
                         className="inline-block px-4 py-2 bg-sunset/10 text-sunset rounded-full text-sm font-bold mb-4"
                     >
-                        {t('badge')}
+                        {tGallery('badge')}
                     </motion.span>
                     <h2 className="text-4xl md:text-6xl font-black text-foreground mb-4">
-                        {t('title')}
+                        {tGallery('title')}
                     </h2>
                     <div className="h-1.5 w-32 bg-gradient-to-r from-sea via-sun to-sunset rounded-full mx-auto" />
                 </motion.div>
@@ -126,7 +127,7 @@ function GallerySection() {
                                     <div className="absolute bottom-4 left-4 right-4">
                                         <div className="flex items-center gap-2 text-white">
                                             <Plus className="w-5 h-5" />
-                                            <span className="font-medium">{t('view')}</span>
+                                            <span className="font-medium">{tGallery('view')}</span>
                                         </div>
                                     </div>
                                 </div>
@@ -330,7 +331,7 @@ export default function TeenCampV2Page() {
                         transition={{ duration: 1.5, repeat: Infinity }}
                         className="flex flex-col items-center text-white/70"
                     >
-                        <span className="text-sm mb-2">Scroll</span>
+                        <span className="text-sm mb-2">{t('scroll')}</span>
                         <ChevronDown className="w-6 h-6" />
                     </motion.div>
                 </motion.div>
@@ -422,7 +423,7 @@ export default function TeenCampV2Page() {
                                     className="inline-flex items-center gap-2 bg-sea/10 text-sea px-4 py-2 rounded-full text-sm font-bold mb-6"
                                 >
                                     <Globe className="w-4 h-4" />
-                                    English
+                                    {t('englishBadge')}
                                 </motion.span>
                                 <h2 className="text-4xl md:text-5xl font-black text-foreground leading-tight mb-4">
                                     {t('features.english.title')}
@@ -648,7 +649,7 @@ export default function TeenCampV2Page() {
                             viewport={{ once: true }}
                         >
                             <div className="bg-sunset text-white px-6 py-2 rounded-full w-fit mx-auto mb-8 font-black text-sm uppercase tracking-[0.3em] shadow-xl">
-                                Elite
+                                {t('elite')}
                             </div>
                             <h2 className="text-5xl md:text-8xl font-black mb-8 leading-none tracking-tighter drop-shadow-2xl">
                                 {t('features.adventure.title')}

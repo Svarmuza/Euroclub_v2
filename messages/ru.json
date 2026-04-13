@@ -673,7 +673,10 @@
       "years": "35 лет",
       "students": "133 000+ участников",
       "certified": "Сертифицированные программы"
-    }
+    },
+    "scroll": "Scroll",
+    "elite": "Elite",
+    "englishBadge": "Английский"
   },
   "CookieConsent": {
     "title": "Мы ценим вашу конфиденциальность",
