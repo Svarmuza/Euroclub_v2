@@ -677,6 +677,17 @@
       "title": "Sei pronto per la migliore estate della tua vita?",
       "subtitle": "Unisciti ad adolescenti da tutto il mondo e crea ricordi che dureranno per sempre!",
       "button": "ISCRIVITI ORA"
+    },
+    "gallery": {
+      "badge": "Galleria",
+      "title": "Momenti dal campo",
+      "view": "Vedi"
+    },
+    "ageRange": "13-17 anni",
+    "trusted": {
+      "years": "35 anni",
+      "students": "133.000+ partecipanti",
+      "certified": "Programmi certificati"
     }
   },
   "CookieConsent": {

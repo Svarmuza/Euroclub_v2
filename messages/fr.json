@@ -677,6 +677,17 @@
       "title": "Êtes-vous prêt pour le meilleur été de votre vie ?",
       "subtitle": "Rejoignez des adolescents du monde entier et créez des souvenirs qui dureront forever !",
       "button": "S'INSCRIRE MAINTENANT"
+    },
+    "gallery": {
+      "badge": "Galerie",
+      "title": "Moments du camp",
+      "view": "Voir"
+    },
+    "ageRange": "13-17 ans",
+    "trusted": {
+      "years": "35 ans",
+      "students": "133 000+ participants",
+      "certified": "Programmes certifiés"
     }
   },
   "CookieConsent": {

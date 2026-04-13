@@ -53,6 +53,7 @@ function AnimatedCounter({ value, suffix }: { value: number; suffix: string }) {
 }
 
 function GallerySection() {
+    const t = useTranslations('TeenCamp.gallery');
     const [lightboxOpen, setLightboxOpen] = useState(false);
     const [currentIndex, setCurrentIndex] = useState(0);
 
@@ -93,10 +94,10 @@ function GallerySection() {
                         viewport={{ once: true }}
                         className="inline-block px-4 py-2 bg-sunset/10 text-sunset rounded-full text-sm font-bold mb-4"
                     >
-                        Galerija
+                        {t('badge')}
                     </motion.span>
                     <h2 className="text-4xl md:text-6xl font-black text-foreground mb-4">
-                        Trenuci iz kampa
+                        {t('title')}
                     </h2>
                     <div className="h-1.5 w-32 bg-gradient-to-r from-sea via-sun to-sunset rounded-full mx-auto" />
                 </motion.div>
@@ -125,7 +126,7 @@ function GallerySection() {
                                     <div className="absolute bottom-4 left-4 right-4">
                                         <div className="flex items-center gap-2 text-white">
                                             <Plus className="w-5 h-5" />
-                                            <span className="font-medium">Pogledaj</span>
+                                            <span className="font-medium">{t('view')}</span>
                                         </div>
                                     </div>
                                 </div>
@@ -263,7 +264,7 @@ export default function TeenCampV2Page() {
                             transition={{ duration: 0.8, type: "spring" }}
                             className="inline-block px-4 py-2 bg-white/10 backdrop-blur-md text-white/90 rounded-full text-sm font-bold tracking-widest uppercase border border-white/20 mb-8"
                         >
-                            13-17 godina
+                            {t('ageRange')}
                         </motion.div>
 
                         <motion.h1
@@ -718,11 +719,11 @@ export default function TeenCampV2Page() {
                             transition={{ delay: 0.5 }}
                             className="flex flex-wrap justify-center gap-6 md:gap-10 mt-16 text-white/60 text-sm font-bold uppercase tracking-widest"
                         >
-                            <span>35 godina</span>
+                            <span>{t('trusted.years')}</span>
                             <span className="hidden md:inline">|</span>
-                            <span>133,000+ polaznika</span>
+                            <span>{t('trusted.students')}</span>
                             <span className="hidden md:inline">|</span>
-                            <span>Certificirani programi</span>
+                            <span>{t('trusted.certified')}</span>
                         </motion.div>
                     </motion.div>
                 </div>

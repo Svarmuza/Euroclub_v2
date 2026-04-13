@@ -623,6 +623,17 @@
       "title": "Are you ready for the best summer of your life?",
       "subtitle": "Join teenagers from all over the world and create memories that last forever!",
       "button": "REGISTER NOW"
+    },
+    "gallery": {
+      "badge": "Galéria",
+      "title": "Pillanatok a táborból",
+      "view": "Megtekintés"
+    },
+    "ageRange": "13-17 év",
+    "trusted": {
+      "years": "35 év",
+      "students": "133.000+ résztvevő",
+      "certified": "Hitelesített programok"
     }
   },
   "WhyEuroclub": {

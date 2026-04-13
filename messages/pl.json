@@ -655,6 +655,17 @@
       "title": "Czy jesteś gotowy na najlepsze lato swojego życia?",
       "subtitle": "Dołącz do nastolatków z całego świata i twórz wspomnienia, które przetrwają na zawsze!",
       "button": "ZAREJESTRUJ SIĘ TERAZ"
+    },
+    "gallery": {
+      "badge": "Galeria",
+      "title": "Chwile z obozu",
+      "view": "Zobacz"
+    },
+    "ageRange": "13-17 lat",
+    "trusted": {
+      "years": "35 lat",
+      "students": "133 000+ uczestników",
+      "certified": "Certyfikowane programy"
     }
   },
   "CookieConsent": {

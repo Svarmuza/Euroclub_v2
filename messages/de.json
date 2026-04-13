@@ -677,6 +677,17 @@
       "title": "Bist du bereit für den besten Sommer deines Lebens?",
       "subtitle": "Schließe dich Teenagern aus aller Welt an und schaffe Erinnerungen, die ein Leben lang halten!",
       "button": "JETZT ANMELDEN"
+    },
+    "gallery": {
+      "badge": "Galerie",
+      "title": "Momente aus dem Camp",
+      "view": "Ansehen"
+    },
+    "ageRange": "13-17 Jahre",
+    "trusted": {
+      "years": "35 Jahre",
+      "students": "133.000+ Teilnehmer",
+      "certified": "Zertifizierte Programme"
     }
   },
   "CookieConsent": {

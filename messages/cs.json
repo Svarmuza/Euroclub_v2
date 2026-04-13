@@ -682,6 +682,17 @@
       "title": "Jste připraveni na nejlepší léto svého života?",
       "subtitle": "Připojte se k teenagerům z celého světa a vytvářejte vzpomínky, které vydrží navždy!",
       "button": "REGISTRUJTE SE NYNÍ"
+    },
+    "gallery": {
+      "badge": "Galerie",
+      "title": "Chvíle z tábora",
+      "view": "Zobrazit"
+    },
+    "ageRange": "13-17 let",
+    "trusted": {
+      "years": "35 let",
+      "students": "133.000+ účastníků",
+      "certified": "Certifikované programy"
     }
   }
 }

@@ -682,6 +682,17 @@
       "title": "Ali ste pripravljeni na najboljše poletje svojega življenja?",
       "subtitle": "Pridružite se najstnikom z vsega sveta in ustvarite spomine, ki bodo trajali večno!",
       "button": "PRIJAVI SE ZDAJ"
+    },
+    "gallery": {
+      "badge": "Galerija",
+      "title": "Trenutki iz tabora",
+      "view": "Poglej"
+    },
+    "ageRange": "13-17 let",
+    "trusted": {
+      "years": "35 let",
+      "students": "133.000+ udeležencev",
+      "certified": "Certificirani programi"
     }
   }
 }

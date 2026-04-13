@@ -949,6 +949,17 @@
       "title": "Spreman/na si za najbolje ljeto tvog života?",
       "subtitle": "Pridruži se tinejdžerima iz cijelog svijeta i stvori uspomene koje traju zauvijek!",
       "button": "PRIJAVI SE SADA"
+    },
+    "gallery": {
+      "badge": "Galerija",
+      "title": "Trenuci iz kampa",
+      "view": "Pogledaj"
+    },
+    "ageRange": "13-17 godina",
+    "trusted": {
+      "years": "35 godina",
+      "students": "133.000+ polaznika",
+      "certified": "Certificirani programi"
     }
   },
   "WhyEuroclub": {

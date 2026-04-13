@@ -791,6 +791,17 @@
       "title": "Are you ready for the best summer of your life?",
       "subtitle": "Join teenagers from all over the world and create memories that last forever!",
       "button": "REGISTER NOW"
+    },
+    "gallery": {
+      "badge": "Gallery",
+      "title": "Camp moments",
+      "view": "View"
+    },
+    "ageRange": "13-17 years",
+    "trusted": {
+      "years": "35 years",
+      "students": "133,000+ participants",
+      "certified": "Certified programs"
     }
   },
   "WhyEuroclub": {
