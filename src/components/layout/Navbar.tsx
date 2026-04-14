@@ -1,15 +1,16 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 import { Link } from '@/i18n/routing';
-import { Menu, X, ChevronDown } from 'lucide-react';
+import { Menu, X, ChevronDown, FlaskConical } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import BookingModal from '@/components/BookingModal';
 import Image from 'next/image';
 
 export default function Navbar() {
     const t = useTranslations('Navbar');
+    const locale = useLocale();
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
     const [scrolled, setScrolled] = useState(false);
     const [openDropdown, setOpenDropdown] = useState<string | null>(null);
@@ -134,6 +135,53 @@ export default function Navbar() {
                             {t('prices')}
                         </Link>
 
+                        {/* TEST Dropdown */}
+                        <div className="relative">
+                            <button
+                                onClick={() => handleDropdownToggle('test')}
+                                className="flex items-center gap-1.5 h-12 px-3 text-sm font-bold uppercase tracking-wider text-slate-400 hover:text-sea transition-colors"
+                            >
+                                <FlaskConical className="w-4 h-4" />
+                                Test
+                                <ChevronDown className={`w-3.5 h-3.5 transition-transform ${openDropdown === 'test' ? 'rotate-180' : ''}`} />
+                            </button>
+                            {openDropdown === 'test' && (
+                                <div className="absolute right-0 top-full mt-0 w-64 bg-white shadow-xl rounded-lg border border-slate-100 py-3 z-50">
+                                    <div className="px-4 pb-2">
+                                        <p className="text-[10px] font-bold uppercase tracking-widest text-sea mb-2">Homepage</p>
+                                        <div className="space-y-0.5 ml-1">
+                                            <Link href="/" onClick={() => setOpenDropdown(null)} className="flex items-center justify-between px-3 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-sea rounded-md">
+                                                V1 <span className="text-[10px] font-bold text-pine bg-pine/10 px-1.5 py-0.5 rounded">LIVE</span>
+                                            </Link>
+                                            <a href={`/${locale}/homepagev2`} onClick={() => setOpenDropdown(null)} className="block px-3 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-sea rounded-md">V2</a>
+                                            <a href={`/${locale}/homepagev3`} onClick={() => setOpenDropdown(null)} className="block px-3 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-sea rounded-md">V3</a>
+                                            <a href={`/${locale}/homepagev4`} onClick={() => setOpenDropdown(null)} className="block px-3 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-sea rounded-md">V4</a>
+                                        </div>
+                                    </div>
+                                    <div className="border-t border-slate-100 my-2" />
+                                    <div className="px-4 pb-2">
+                                        <p className="text-[10px] font-bold uppercase tracking-widest text-sea mb-2">Programs</p>
+                                        <div className="space-y-0.5 ml-1">
+                                            <Link href="/programs" onClick={() => setOpenDropdown(null)} className="flex items-center justify-between px-3 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-sea rounded-md">
+                                                V1 <span className="text-[10px] font-bold text-pine bg-pine/10 px-1.5 py-0.5 rounded">LIVE</span>
+                                            </Link>
+                                            <a href={`/${locale}/programs-v2`} onClick={() => setOpenDropdown(null)} className="block px-3 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-sea rounded-md">V2</a>
+                                        </div>
+                                    </div>
+                                    <div className="border-t border-slate-100 my-2" />
+                                    <div className="px-4">
+                                        <p className="text-[10px] font-bold uppercase tracking-widest text-sea mb-2">Teen Camp</p>
+                                        <div className="space-y-0.5 ml-1">
+                                            <Link href="/teen-camp" onClick={() => setOpenDropdown(null)} className="flex items-center justify-between px-3 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-sea rounded-md">
+                                                V1 <span className="text-[10px] font-bold text-pine bg-pine/10 px-1.5 py-0.5 rounded">LIVE</span>
+                                            </Link>
+                                            <Link href="/teen-camp-v2" onClick={() => setOpenDropdown(null)} className="block px-3 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-sea rounded-md">V2</Link>
+                                        </div>
+                                    </div>
+                                </div>
+                            )}
+                        </div>
+
                         {/* PRIJAVI SE */}
                         <button
                             onClick={() => setBookingModalOpen(true)}
@@ -192,6 +240,38 @@ export default function Navbar() {
                             <Link href="/prices" onClick={() => setMobileMenuOpen(false)} className="text-slate-600 font-bold text-lg hover:text-sea py-2">
                                 {t('prices')}
                             </Link>
+
+                            <div className="border-b border-slate-100 pb-3">
+                                <button
+                                    onClick={() => handleDropdownToggle('mobile-test')}
+                                    className="flex items-center gap-1.5 text-xs font-bold uppercase text-slate-400 hover:text-sea mb-2"
+                                >
+                                    <FlaskConical className="w-3.5 h-3.5" />
+                                    Test Pages
+                                    <ChevronDown className={`w-3.5 h-3.5 transition-transform ${openDropdown === 'mobile-test' ? 'rotate-180' : ''}`} />
+                                </button>
+                                {openDropdown === 'mobile-test' && (
+                                    <div className="space-y-2 ml-2">
+                                        <div>
+                                            <p className="text-[10px] font-bold uppercase tracking-widest text-sea mb-1">Homepage</p>
+                                            <Link href="/" onClick={() => { setOpenDropdown(null); setMobileMenuOpen(false); }} className="block text-slate-600 font-medium py-1 hover:text-sea text-sm">V1 <span className="text-[10px] font-bold text-pine">LIVE</span></Link>
+                                            <a href={`/${locale}/homepagev2`} onClick={() => { setOpenDropdown(null); setMobileMenuOpen(false); }} className="block text-slate-600 font-medium py-1 hover:text-sea text-sm">V2</a>
+                                            <a href={`/${locale}/homepagev3`} onClick={() => { setOpenDropdown(null); setMobileMenuOpen(false); }} className="block text-slate-600 font-medium py-1 hover:text-sea text-sm">V3</a>
+                                            <a href={`/${locale}/homepagev4`} onClick={() => { setOpenDropdown(null); setMobileMenuOpen(false); }} className="block text-slate-600 font-medium py-1 hover:text-sea text-sm">V4</a>
+                                        </div>
+                                        <div>
+                                            <p className="text-[10px] font-bold uppercase tracking-widest text-sea mb-1">Programs</p>
+                                            <Link href="/programs" onClick={() => { setOpenDropdown(null); setMobileMenuOpen(false); }} className="block text-slate-600 font-medium py-1 hover:text-sea text-sm">V1 <span className="text-[10px] font-bold text-pine">LIVE</span></Link>
+                                            <a href={`/${locale}/programs-v2`} onClick={() => { setOpenDropdown(null); setMobileMenuOpen(false); }} className="block text-slate-600 font-medium py-1 hover:text-sea text-sm">V2</a>
+                                        </div>
+                                        <div>
+                                            <p className="text-[10px] font-bold uppercase tracking-widest text-sea mb-1">Teen Camp</p>
+                                            <Link href="/teen-camp" onClick={() => { setOpenDropdown(null); setMobileMenuOpen(false); }} className="block text-slate-600 font-medium py-1 hover:text-sea text-sm">V1 <span className="text-[10px] font-bold text-pine">LIVE</span></Link>
+                                            <Link href="/teen-camp-v2" onClick={() => { setOpenDropdown(null); setMobileMenuOpen(false); }} className="block text-slate-600 font-medium py-1 hover:text-sea text-sm">V2</Link>
+                                        </div>
+                                    </div>
+                                )}
+                            </div>
 
                             <Button onClick={() => { setMobileMenuOpen(false); setBookingModalOpen(true); }} className="w-full py-3 text-lg font-bold uppercase tracking-wider text-white bg-logo hover:bg-logo-dark rounded-lg shadow-md hover:shadow-lg transition-all mt-2">
                                 {t('bookNow')}
