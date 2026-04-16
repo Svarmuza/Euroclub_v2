@@ -423,7 +423,7 @@
   "Prices": {
     "title": "Termini i Cijene 2026.",
     "subtitle": "Investirajte u ljeto prepuno znanja, avanture i novih prijateljstava.",
-    "intro": "U kampu je moguće boraviti od 1 do 8 tjedana. Optimalna duljina boravka za aktivaciju pasivnog znanja engleskog jezika jest minimalno 2 tjedana.",
+    "intro": "U kampu je moguće boraviti od 1 do 8 tjedana. Optimalna duljina boravka za aktivaciju pasivnog znanja engleskog jezika jest minimalno 2 tjedana. Također, moguće je ostati i samo jedan tjedan, ali i više od dva tjedna – kako vam odgovara.",
     "basic": {
       "title": "Engleski Ljetni Kamp",
       "badge": "Osnovni Paket",
@@ -436,69 +436,69 @@
         "data": [
           {
             "date": "14.06.",
-            "full": "695€",
-            "installments": "765€",
-            "monthly": "76€ | 127€"
+            "full": "730€",
+            "installments": "803€",
+            "monthly": "80€ | 134€"
           },
           {
             "date": "21.06.",
-            "full": "695€",
-            "installments": "765€",
-            "monthly": "76€ | 127€"
+            "full": "730€",
+            "installments": "803€",
+            "monthly": "80€ | 134€"
           },
           {
             "date": "28.06.",
-            "full": "740€",
-            "installments": "814€",
-            "monthly": "81€ | 136€"
+            "full": "770€",
+            "installments": "847€",
+            "monthly": "85€ | 141€"
           },
           {
             "date": "05.07.",
-            "full": "760€",
-            "installments": "836€",
-            "monthly": "84€ | 139€"
+            "full": "790€",
+            "installments": "869€",
+            "monthly": "87€ | 145€"
           },
           {
             "date": "12.07.",
-            "full": "760€",
-            "installments": "836€",
-            "monthly": "84€ | 139€"
+            "full": "790€",
+            "installments": "869€",
+            "monthly": "87€ | 145€"
           },
           {
             "date": "19.07.",
-            "full": "760€",
-            "installments": "836€",
-            "monthly": "84€ | 139€"
+            "full": "790€",
+            "installments": "869€",
+            "monthly": "87€ | 145€"
           },
           {
             "date": "26.07.",
-            "full": "760€",
-            "installments": "836€",
-            "monthly": "84€ | 139€"
+            "full": "770€",
+            "installments": "847€",
+            "monthly": "85€ | 141€"
           },
           {
             "date": "02.08.",
-            "full": "760€",
-            "installments": "836€",
-            "monthly": "84€ | 139€"
+            "full": "770€",
+            "installments": "847€",
+            "monthly": "85€ | 141€"
           },
           {
             "date": "09.08.",
-            "full": "710€",
-            "installments": "781€",
-            "monthly": "78€ | 130€"
+            "full": "745€",
+            "installments": "820€",
+            "monthly": "82€ | 137€"
           },
           {
             "date": "16.08.",
-            "full": "710€",
-            "installments": "781€",
-            "monthly": "78€ | 130€"
+            "full": "745€",
+            "installments": "820€",
+            "monthly": "82€ | 137€"
           },
           {
             "date": "23.08.",
-            "full": "695€",
-            "installments": "765€",
-            "monthly": "76€ | 127€"
+            "full": "FULL",
+            "installments": "FULL",
+            "monthly": "FULL"
           }
         ]
       },
@@ -532,80 +532,84 @@
         "data": [
           {
             "date": "14.06.",
-            "full": "2.120€",
-            "installments": "2.270€",
-            "monthly": "227€ | 454€"
+            "full": "2.195€",
+            "installments": "2.345€",
+            "monthly": "235€ | 391€"
           },
           {
             "date": "21.06.",
-            "full": "2.120€",
-            "installments": "2.270€",
-            "monthly": "227€ | 454€"
+            "full": "2.195€",
+            "installments": "2.345€",
+            "monthly": "235€ | 391€"
           },
           {
             "date": "28.06.",
-            "full": "2.165€",
-            "installments": "2.315€",
-            "monthly": "232€ | 463€"
+            "full": "2.240€",
+            "installments": "2.390€",
+            "monthly": "239€ | 398€"
           },
           {
             "date": "05.07.",
-            "full": "2.230€",
-            "installments": "2.380€",
-            "monthly": "238€ | 476€"
+            "full": "2.305€",
+            "installments": "2.455€",
+            "monthly": "246€ | 409€"
           },
           {
             "date": "12.07.",
-            "full": "2.250€",
-            "installments": "2.400€",
-            "monthly": "240€ | 480€"
+            "full": "2.325€",
+            "installments": "2.475€",
+            "monthly": "248€ | 413€"
           },
           {
             "date": "19.07.",
-            "full": "2.250€",
-            "installments": "2.400€",
-            "monthly": "240€ | 480€"
+            "full": "2.325€",
+            "installments": "2.475€",
+            "monthly": "248€ | 413€"
           },
           {
             "date": "26.07.",
-            "full": "2.250€",
-            "installments": "2.400€",
-            "monthly": "240€ | 480€"
+            "full": "2.325€",
+            "installments": "2.475€",
+            "monthly": "248€ | 413€"
           },
           {
             "date": "02.08.",
-            "full": "2.200€",
-            "installments": "2.350€",
-            "monthly": "235€ | 470€"
+            "full": "2.275€",
+            "installments": "2.425€",
+            "monthly": "243€ | 404€"
           },
           {
             "date": "09.08.",
-            "full": "2.150€",
-            "installments": "2.300€",
-            "monthly": "230€ | 460€"
+            "full": "2.225€",
+            "installments": "2.375€",
+            "monthly": "238€ | 396€"
           },
           {
             "date": "16.08.",
-            "full": "2.135€",
-            "installments": "2.285€",
-            "monthly": "229€ | 457€"
+            "full": "FULL",
+            "installments": "FULL",
+            "monthly": "FULL"
           }
         ]
       },
       "includes": {
         "title": "Adventure Dodatno Uključuje:",
         "items": [
-          "Adrenalin park - niski i visoki konopi sa zip line-om",
-          "Cjelodnevni izlet brodom Nacionalnom parku Kornati uz ručak na brodu",
-          "James bond - turnir u streličarstvu",
+          "Ronjenje (Scuba diving) — NEW",
+          "Windsurfing — NEW",
+          "Zabavni i vodeni park Dalmaland",
           "Rafting na Cetini",
-          "Spužvarski otok Krapanj i posjet galeriji spužvarstva",
-          "Laser tag",
-          "Posjet Nacionalnom parku Krka",
-          "Split shopping + go kart",
-          "Tube i jet ski",
-          "Fun Park Biograd",
-          "Razgledavanje Zadra"
+          "Izlet brodom na Kornate + PIKNIK RUČAK NA BRODU",
+          "VR igre i Laser Tag",
+          "Shopping u Splitu + Go-kart",
+          "Tubing i jet ski",
+          "Nacionalni park Krka – slapovi",
+          "Izlet na otok Krapanj",
+          "SUP (stand up paddle)",
+          "Kajakarenje",
+          "Streličarstvo i igre gađanja",
+          "Paddle go-kart",
+          "Hodanje po vodi u lopti (Sea walking ball)"
         ]
       }
     },
